@@ -1,133 +1,60 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Hack Feed — Student Hackathon Finder</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
-<div class="hero">
-  <div class="eyebrow">Live feed &middot; scraped from WeMakeDevs</div>
-  <h1>Hackathons worth<br><em>showing up for.</em></h1>
-  <p>A running list of student hackathons — beginner to advanced, remote and in‑person — pulled straight from the source. No rankings, no "best deal" claims. Just what's live, what's closed, and a link to check for yourself.</p>
-  <div class="meta-strip">
-    <span>Last checked: <b id="last-checked-date">—</b></span>
-    <span>Source: <b>WeMakeDevs</b></span>
-    <span><b id="open-total">—</b> open or running now</span>
-  </div>
-</div>
-
-<div class="controls">
-  <div class="filter-row" id="filter-row">
-    <div class="filter-group" data-filter="status">
-      <button class="chip active" data-value="all">All</button>
-      <button class="chip" data-value="open">Open</button>
-      <button class="chip" data-value="running">Running</button>
-      <button class="chip" data-value="closed">Closed</button>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hack Feed — Student Hackathon Finder</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="hero">
+      <div class="eyebrow">Live feed &middot; scraped from WeMakeDevs</div>
+      <h1>Hackathons worth<br /><em>showing up for.</em></h1>
+      <p>
+        A running list of student hackathons — beginner to advanced, remote and
+        in‑person — pulled straight from the source. Just what's live, what's closed, and a link to check for
+        yourself.
+      </p>
+      <div class="meta-strip">
+        <span>Last checked: <b id="last-checked-date">—</b></span>
+        <span>Source: <b>WeMakeDevs</b></span>
+        <span><b id="open-total">—</b> open or running now</span>
+      </div>
     </div>
-    <div class="divider-dot"></div>
-    <div class="filter-group" data-filter="mode">
-      <button class="chip active" data-value="all">Any mode</button>
-      <button class="chip" data-value="remote">Remote</button>
-      <button class="chip" data-value="hybrid">Hybrid</button>
+
+    <div class="controls">
+      <div class="filter-row" id="filter-row">
+        <div class="filter-group" data-filter="status">
+          <button class="chip active" data-value="all">All</button>
+          <button class="chip" data-value="open">Open</button>
+          <button class="chip" data-value="running">Running</button>
+        </div>
+        <div class="divider-dot"></div>
+        <div class="filter-group" data-filter="mode">
+          <button class="chip active" data-value="all">Any mode</button>
+          <button class="chip" data-value="remote">Remote</button>
+          <button class="chip" data-value="hybrid">Hybrid</button>
+        </div>
+        <span class="count-label"><span id="result-count">0</span> shown</span>
+      </div>
     </div>
-    <span class="count-label"><span id="result-count">0</span> shown</span>
-  </div>
-</div>
 
-<div class="grid" id="grid"></div>
-<div class="empty-state" id="empty-state" style="display:none;">No hackathons match these filters right now — try widening them.</div>
+    <div class="grid" id="grid"></div>
+    <div class="empty-state" id="empty-state">
+      No hackathons match these filters right now — try widening them.
+    </div>
 
-<footer>
-  Data scraped via Bright Data Scraper Studio · always verify dates, fees, and eligibility on each hackathon's own page before registering · this list is not exhaustive.
-</footer>
+    <footer>
+      Data scraped via Bright Data Scraper Studio · always verify dates, fees,
+      and eligibility on each hackathon's own page before registering · this
+      list is not exhaustive.
+    </footer>
 
-<script>
-const DATA = __HACKATHON_DATA__;
-
-const state = { status: 'all', mode: 'all' };
-
-function formatSource(h){
-  return h.source || 'Unknown';
-}
-
-function render(){
-  const grid = document.getElementById('grid');
-  const emptyState = document.getElementById('empty-state');
-  grid.innerHTML = '';
-
-  const filtered = DATA.filter(h => {
-    if (state.status !== 'all' && h.status !== state.status) return false;
-    if (state.mode !== 'all'){
-      const m = (h.modes || '').toLowerCase();
-      if (state.mode === 'remote' && m !== 'remote') return false;
-      if (state.mode === 'hybrid' && m !== 'hybrid') return false;
-    }
-    return true;
-  });
-
-  document.getElementById('result-count').textContent = filtered.length;
-  emptyState.style.display = filtered.length === 0 ? 'block' : 'none';
-
-  filtered.forEach(h => {
-    const card = document.createElement('div');
-    card.className = 'card';
-
-    const desc = h.description && h.description.trim()
-      ? h.description.trim()
-      : 'No description scraped for this one yet — check the official page for details.';
-
-    card.innerHTML = `
-      <div class="card-top">
-        <h3>${escapeHtml(h.title)}</h3>
-        <span class="status-tag ${h.status}">${h.status}</span>
-      </div>
-      <p class="card-desc">${escapeHtml(truncate(desc, 130))}</p>
-      <div class="receipt">
-        <div class="receipt-row"><span>dates</span><span>${escapeHtml(h.event_dates || '—')}</span></div>
-        <div class="receipt-row"><span>mode</span><span>${escapeHtml(h.modes || h.location || '—')}</span></div>
-        <div class="receipt-row"><span>source</span><span>${escapeHtml(formatSource(h))}</span></div>
-      </div>
-      <div class="card-footer">
-        <span class="prize">${escapeHtml(truncate(h.prize_amount || '', 40))}</span>
-        <a class="view-link" href="${h.hackathon_page_url}" target="_blank" rel="noopener">
-          ${h.status === 'open' ? 'View & register →' : h.status === 'running' ? 'View — happening now →' : 'View page →'}
-        </a>
-      </div>
-    `;
-    grid.appendChild(card);
-  });
-}
-
-function truncate(str, n){
-  return str.length > n ? str.slice(0, n - 1).trim() + '…' : str;
-}
-function escapeHtml(str){
-  const d = document.createElement('div');
-  d.textContent = str;
-  return d.innerHTML;
-}
-
-document.getElementById('filter-row').addEventListener('click', (e) => {
-  const btn = e.target.closest('.chip');
-  if (!btn) return;
-  const group = btn.closest('.filter-group');
-  const key = group.getAttribute('data-filter');
-  state[key] = btn.getAttribute('data-value');
-  group.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
-  btn.classList.add('active');
-  render();
-});
-
-// Header stats
-document.getElementById('last-checked-date').textContent = '__LAST_CHECKED__';
-document.getElementById('open-total').textContent = DATA.filter(h => h.status === 'open' || h.status === 'running').length;
-
-render();
-</script>
-</body>
+    <script src="script_template.js"></script>
+  </body>
 </html>

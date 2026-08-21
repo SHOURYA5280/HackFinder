@@ -295,6 +295,7 @@ h1 em {
 }
 
 .empty-state {
+  display: none;
   max-width: 980px;
   margin: 40px auto;
   padding: 40px 24px;

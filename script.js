@@ -1,0 +1,476 @@
+const DATA = [
+  {
+    title: "The Agent Harness Hackathon",
+    description: "",
+    event_dates: "Aug 22–30",
+    prize_amount: "$10,000 in prizes, including an NVIDIA DGX Spark",
+    modes: "Hybrid",
+    location: "",
+    hackathon_page_url: "https://www.wemakedevs.org/hackathons/trueforge",
+    status: "open",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "Into the Scrape-Verse",
+    description: "",
+    event_dates: "Aug 17–23",
+    prize_amount: "$15,000 in prizes, including an NVIDIA DGX Spark",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://www.wemakedevs.org/hackathons/scrape-verse",
+    status: "running",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "Zero Downtime Hackathon",
+    description: "",
+    event_dates: "Aug 22",
+    prize_amount: "NVIDIA DGX Spark Supercomputer + Keychron Keyboards",
+    modes: "",
+    location: "San Francisco, CA",
+    hackathon_page_url: "https://luma.com/zero-downtime",
+    status: "open",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "Graph Hacks: Building Next-Gen RAG",
+    description: "",
+    event_dates: "September 2026",
+    prize_amount: "$10,000 across three tracks",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://www.wemakedevs.org/hackathons/falkordb",
+    status: "open",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "The Zerops Challenge",
+    description: "",
+    event_dates: "Aug 8–9",
+    prize_amount: "MacBook Neo + $5,000 in Zerops credits",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://www.wemakedevs.org/hackathons/zerops",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "Agents of SigNoz",
+    description: "",
+    event_dates: "Jul 20–26",
+    prize_amount: "MacBook Air, iPad Air & Job Interviews",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://archive.wemakedevs.org/hackathons/signoz",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "The Hangover Part AI",
+    description: "",
+    event_dates: "Jun 29 – Jul 5",
+    prize_amount: "$10,000+ in prizes + Job Interviews",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://archive.wemakedevs.org/hackathons/cognee",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "Pirates of the Coral-bean",
+    description: "",
+    event_dates: "May 25–31",
+    prize_amount: "$10,000+ in prizes",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://archive.wemakedevs.org/hackathons/coral",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "Back to the Metadata",
+    description: "",
+    event_dates: "Apr 17–26",
+    prize_amount: "$7,000+ in prizes & Job interviews",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url:
+      "https://archive.wemakedevs.org/hackathons/openmetadata",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "Vision Possible: Agent Protocol",
+    description: "",
+    event_dates: "Feb 23 – Mar 1",
+    prize_amount: "$4,000+ in prizes & Job interviews",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://archive.wemakedevs.org/hackathons/vision",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "Automate me if you can",
+    description: "",
+    event_dates: "Feb 16–22",
+    prize_amount: "$3,000+ in prizes & Job interviews",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://archive.wemakedevs.org/hackathons/accomplish",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "2 Fast 2 MCP",
+    description: "",
+    event_dates: "Feb 8–15",
+    prize_amount: "$10,000+ in prizes & Job interviews",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://archive.wemakedevs.org/hackathons/2fast2mcp",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "Hack All February",
+    description: "",
+    event_dates: "Feb 2 – Mar 1",
+    prize_amount: "Samsung Galaxy Flip 7 + $40,000 in prizes",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://archive.wemakedevs.org/hackathons/february",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "The UI Strikes Back",
+    description: "",
+    event_dates: "Feb 2–7",
+    prize_amount: "$6,000+ in prizes & Job interviews",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://archive.wemakedevs.org/hackathons/tambo",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "Backend Reloaded",
+    description: "",
+    event_dates: "Dec 15–21, 2025",
+    prize_amount: "$3,000+ in prizes & GSoC mentorship",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://archive.wemakedevs.org/hackathons/motiahack25",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "AI Agents Assemble",
+    description: "",
+    event_dates: "Dec 8–14, 2025",
+    prize_amount: "$20,000+ in cash prizes",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url:
+      "https://archive.wemakedevs.org/hackathons/assemblehack25",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "MultilingualHack 2025",
+    description: "",
+    event_dates: "Nov 13–16, 2025",
+    prize_amount: "₹50,000+ in prizes + Lingo credits",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://archive.wemakedevs.org/hackathons/lingohack25",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "FutureStack 2025",
+    description: "",
+    event_dates: "Sep 29 – Oct 5, 2025",
+    prize_amount: "$15,000+ across Cerebras, Meta & Docker",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url:
+      "https://archive.wemakedevs.org/hackathons/futurestack25",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "AgentHack 2025",
+    description: "",
+    event_dates: "Aug 20–25, 2025",
+    prize_amount: "MacBook Pro, iPhone 16 & iPad Air",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://archive.wemakedevs.org/hackathons/agenthack25",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "Kestra HackWeek",
+    description: "",
+    event_dates: "Jun 17–22, 2025",
+    prize_amount: "A week inside popular open source projects",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://luma.com/cc52l7pn",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "HackFrost Hackathon",
+    description: "",
+    event_dates: "Nov 29 – Dec 1, 2024",
+    prize_amount: "$10,000+ in prizes & gadgets",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://archive.wemakedevs.org/hackathons/hackfrost24",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "Stream Hackathon",
+    description: "",
+    event_dates: "Dec 16–18, 2022",
+    prize_amount: "Meet people, learn, build something new",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://wemakedevs-stream.devpost.com/",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "Cloud Native Hack",
+    description: "",
+    event_dates: "Dec 10–12, 2021",
+    prize_amount: "Build on Kubernetes and cloud native tech",
+    modes: "Remote",
+    location: "",
+    hackathon_page_url: "https://cloudnativehack21.devpost.com/",
+    status: "closed",
+    source: "WeMakeDevs",
+    level: null,
+  },
+  {
+    title: "RevenueCat Shipaton 2026",
+    description: "",
+    event_dates: "Jul 31 - Oct 01, 2026",
+    prize_amount: "$740,000",
+    modes: "Remote",
+    location: "Online",
+    hackathon_page_url: "https://revenuecat-shipaton-2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    status: "running",
+    source: "Devpost",
+    level: null,
+  },
+  {
+    title: "Agentic Cinema: The Blockbuster Hackathon",
+    description: "",
+    event_dates: "Jul 27 - Sep 09, 2026",
+    prize_amount: "$75,000",
+    modes: "Remote",
+    location: "Online",
+    hackathon_page_url: "https://agentic-cinema.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    status: "running",
+    source: "Devpost",
+    level: null,
+  },
+  {
+    title: "All Things Agentic Hackathon",
+    description: "",
+    event_dates: "Aug 04 - 31, 2026",
+    prize_amount: "$180,000",
+    modes: "Remote",
+    location: "Online",
+    hackathon_page_url: "https://allthingsagentichackathon.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    status: "running",
+    source: "Devpost",
+    level: null,
+  },
+  {
+    title: "Agents for Humans Hackathon",
+    description: "",
+    event_dates: "Aug 10 - Sep 14, 2026",
+    prize_amount: "$40,000",
+    modes: "Remote",
+    location: "Online",
+    hackathon_page_url: "https://agentsforhumans.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    status: "running",
+    source: "Devpost",
+    level: null,
+  },
+  {
+    title: "CALL-E: Your Code Is Calling",
+    description: "",
+    event_dates: "Jul 23 - Sep 14, 2026",
+    prize_amount: "$10,000",
+    modes: "Remote",
+    location: "Online",
+    hackathon_page_url: "https://call-e.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    status: "running",
+    source: "Devpost",
+    level: null,
+  },
+  {
+    title: "Reverie Hacks 2026",
+    description: "",
+    event_dates: "Aug 02 - 24, 2026",
+    prize_amount: "$2,208,664",
+    modes: "Remote",
+    location: "Online",
+    hackathon_page_url: "https://reverie-hacks-2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    status: "running",
+    source: "Devpost",
+    level: null,
+  },
+  {
+    title: "Africa Deep Tech Challenge 2026",
+    description: "",
+    event_dates: "Jun 17 - Aug 25, 2026",
+    prize_amount: "$16,500",
+    modes: "Remote",
+    location: "Online",
+    hackathon_page_url: "https://adtc-2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    status: "running",
+    source: "Devpost",
+    level: null,
+  },
+  {
+    title: "AI Builders Hackathon",
+    description: "",
+    event_dates: "Aug 21 - Sep 15, 2026",
+    prize_amount: "$33,900",
+    modes: "Remote",
+    location: "Online",
+    hackathon_page_url: "https://ai-builders-hackathon-2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    status: "running",
+    source: "Devpost",
+    level: null,
+  },
+  {
+    title: "VoltHacks",
+    description: "",
+    event_dates: "May 22 - Sep 05, 2026",
+    prize_amount: "$35,785",
+    modes: "Remote",
+    location: "Online",
+    hackathon_page_url: "https://volthacks.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    status: "running",
+    source: "Devpost",
+    level: null,
+  },
+];
+
+const ACTIVE_DATA = DATA.filter(
+  (hackathon) => hackathon.status === "open" || hackathon.status === "running",
+);
+
+const state = { status: "all", mode: "all" };
+
+function formatSource(h) {
+  return h.source || "Unknown";
+}
+
+function render() {
+  const grid = document.getElementById("grid");
+  const emptyState = document.getElementById("empty-state");
+  grid.innerHTML = "";
+
+  const filtered = ACTIVE_DATA.filter((h) => {
+    if (state.status !== "all" && h.status !== state.status) return false;
+    if (state.mode !== "all") {
+      const m = (h.modes || "").toLowerCase();
+      if (state.mode === "remote" && m !== "remote") return false;
+      if (state.mode === "hybrid" && m !== "hybrid") return false;
+    }
+    return true;
+  });
+
+  document.getElementById("result-count").textContent = filtered.length;
+  emptyState.style.display = filtered.length === 0 ? "block" : "none";
+
+  filtered.forEach((h) => {
+    const card = document.createElement("div");
+    card.className = "card";
+
+    const desc =
+      h.description && h.description.trim()
+        ? h.description.trim()
+        : "No description scraped for this one yet — check the official page for details.";
+
+    card.innerHTML = `
+      <div class="card-top">
+        <h3>${escapeHtml(h.title)}</h3>
+        <span class="status-tag ${h.status}">${h.status}</span>
+      </div>
+      <p class="card-desc">${escapeHtml(truncate(desc, 130))}</p>
+      <div class="receipt">
+        <div class="receipt-row"><span>dates</span><span>${escapeHtml(h.event_dates || "—")}</span></div>
+        <div class="receipt-row"><span>mode</span><span>${escapeHtml(h.modes || h.location || "—")}</span></div>
+        <div class="receipt-row"><span>source</span><span>${escapeHtml(formatSource(h))}</span></div>
+      </div>
+      <div class="card-footer">
+        <span class="prize">${escapeHtml(truncate(h.prize_amount || "", 40))}</span>
+        <a class="view-link" href="${h.hackathon_page_url}" target="_blank" rel="noopener">
+          ${h.status === "open" ? "View & register →" : h.status === "running" ? "View — happening now →" : "View page →"}
+        </a>
+      </div>
+    `;
+    grid.appendChild(card);
+  });
+}
+
+function truncate(str, n) {
+  return str.length > n ? str.slice(0, n - 1).trim() + "…" : str;
+}
+function escapeHtml(str) {
+  const d = document.createElement("div");
+  d.textContent = str;
+  return d.innerHTML;
+}
+
+document.getElementById("filter-row").addEventListener("click", (e) => {
+  const btn = e.target.closest(".chip");
+  if (!btn) return;
+  const group = btn.closest(".filter-group");
+  const key = group.getAttribute("data-filter");
+  state[key] = btn.getAttribute("data-value");
+  group.querySelectorAll(".chip").forEach((c) => c.classList.remove("active"));
+  btn.classList.add("active");
+  render();
+});
+
+// Header stats
+document.getElementById("last-checked-date").textContent = "Aug 20, 2026";
+document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
+  (h) => h.status === "open" || h.status === "running",
+).length;
+
+render();
