@@ -10,20 +10,47 @@ function formatSource(h) {
   return h.source || "Unknown";
 }
 
+const MONTHS = {
+  jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5,
+  jul: 6, aug: 7, sep: 8, oct: 9, nov: 10, dec: 11,
+};
+
+function eventStartTime(eventDates) {
+  const text = eventDates || "";
+  const monthMatch = text.match(
+    /\b(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)(?:\s+(\d{1,2}))?/i,
+  );
+  if (!monthMatch) return Number.POSITIVE_INFINITY;
+
+  const month = MONTHS[monthMatch[1].slice(0, 3).toLowerCase()];
+  const day = Number(monthMatch[2] || 1);
+  const yearMatch = text.match(/\b(20\d{2})\b/);
+  const year = yearMatch ? Number(yearMatch[1]) : new Date().getFullYear();
+  return new Date(year, month, day).getTime();
+}
+
+function sortByEventDate(hackathons) {
+  return [...hackathons].sort((a, b) => {
+    const timeDifference = eventStartTime(a.event_dates) - eventStartTime(b.event_dates);
+    return timeDifference || a.title.localeCompare(b.title);
+  });
+}
+
 function render() {
   const grid = document.getElementById("grid");
   const emptyState = document.getElementById("empty-state");
   grid.innerHTML = "";
 
-  const filtered = ACTIVE_DATA.filter((h) => {
+  const filtered = sortByEventDate(ACTIVE_DATA.filter((h) => {
     if (state.status !== "all" && h.status !== state.status) return false;
     if (state.mode !== "all") {
       const m = (h.modes || "").toLowerCase();
       if (state.mode === "remote" && m !== "remote") return false;
+      if (state.mode === "in-person" && !["in-person", "in person"].includes(m) && !(m === "" && h.location && h.location.toLowerCase() !== "online")) return false;
       if (state.mode === "hybrid" && m !== "hybrid") return false;
     }
     return true;
-  });
+  }));
 
   document.getElementById("result-count").textContent = filtered.length;
   emptyState.style.display = filtered.length === 0 ? "block" : "none";
