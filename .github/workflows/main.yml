@@ -2,8 +2,8 @@ name: Daily hackathon update
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # 3 AM UTC every day
-  workflow_dispatch: {}    # lets you trigger it manually to test
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -19,7 +19,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install --disable-pip-version-check requests
 
       - name: Fetch latest scrape from Bright Data
         env:
@@ -35,10 +35,10 @@ jobs:
           python merge_sources.py wemakedevs_clean.json devpost_clean.json hackathons_combined.json
           python build_site.py hackathons_combined.json
 
-      - name: Commit and push if anything changed
+      - name: Commit and push generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html *.json
-          git diff --staged --quiet || git commit -m "Auto-update: daily hackathon refresh"
+          git add index.html script.js *.json
+          git diff --cached --quiet || git commit -m "Auto-update: daily hackathon refresh"
           git push
