@@ -54,7 +54,10 @@ def trigger(collector_id, target_url):
 
 def poll_and_download(collection_id, max_wait=600, interval=15):
     """The same /dca/dataset endpoint returns either an in-progress
-    status or the finished list of records once ready."""
+    status or the finished result once ready. The 'ready' shape can
+    vary (a plain list, or a dict wrapping the list under a key like
+    'data'/'result'/'results') -- this handles both instead of
+    assuming one shape."""
     waited = 0
     while waited < max_wait:
         resp = requests.get(
@@ -65,11 +68,32 @@ def poll_and_download(collection_id, max_wait=600, interval=15):
         )
         if resp.status_code == 200:
             data = resp.json()
+
             if isinstance(data, list):
                 return data
-            if not (isinstance(data, dict) and data.get("status") in
-                    ("running", "queued", "pending")):
-                return data
+
+            if isinstance(data, dict):
+                status = data.get("status")
+                if status in ("running", "queued", "pending", "building"):
+                    time.sleep(interval)
+                    waited += interval
+                    continue
+
+                # Ready, but wrapped in a dict -- find the actual list
+                for key in ("data", "result", "results", "records", "hackathons"):
+                    if isinstance(data.get(key), list):
+                        return data[key]
+
+                # Unrecognized shape -- fail loudly with the real
+                # payload printed, instead of silently corrupting the
+                # CSV like last time.
+                print("Unexpected response shape from /dca/dataset:")
+                print(json.dumps(data, indent=2)[:2000])
+                raise ValueError(
+                    "Could not find a list of records in the ready response "
+                    "-- see printed payload above to identify the correct key."
+                )
+
         time.sleep(interval)
         waited += interval
     raise TimeoutError(f"Collection {collection_id} did not finish in time")
