@@ -1,12 +1,10 @@
 """
-Triggers both Bright Data Scraper Studio collectors via the API,
-waits for each to finish, and saves the results in the same CSV
-shape Scraper Studio's own export uses (one 'hackathons' column
-holding a JSON list) -- so parse_wemakedevs.py / parse_devpost.py
-don't need to change at all.
+Triggers Bright Data Scraper Studio collectors via the API, waits for
+each to finish, and saves the results as flat CSV files consumed by
+the source-specific parsers.
 
 Requires env vars: BRIGHT_DATA_API_TOKEN, WEMAKEDEVS_COLLECTOR_ID,
-DEVPOST_COLLECTOR_ID.
+DEVPOST_COLLECTOR_ID, DEVFOLIO_COLLECTOR_ID.
 
 Usage:
     python3 run_daily_update.py
@@ -33,6 +31,11 @@ SOURCES = {
         "collector_id": os.environ["DEVPOST_COLLECTOR_ID"],
         "target_url": "https://devpost.com/hackathons?status[]=open",
         "output_csv": "raw_devpost.csv",
+    },
+    "devfolio": {
+        "collector_id": os.environ["DEVFOLIO_COLLECTOR_ID"],
+        "target_url": "https://devfolio.co/hackathons",
+        "output_csv": "raw_devfolio.csv",
     },
 }
 
@@ -100,12 +103,17 @@ def poll_and_download(collection_id, max_wait=600, interval=15):
 
 
 def save_as_csv(records, path):
-    """Matches the exact shape Scraper Studio's own CSV export uses,
-    so the existing parsers work unmodified."""
+    """Save flat records so every source parser gets ordinary CSV fields."""
+    if not all(isinstance(record, dict) for record in records):
+        raise ValueError("Collector response must be a list of object records")
+
+    fieldnames = list(dict.fromkeys(
+        key for record in records for key in record
+    ))
     with open(path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerow(["hackathons"])
-        writer.writerow([json.dumps(records, ensure_ascii=False)])
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
+        writer.writeheader()
+        writer.writerows(records)
 
 
 def main():

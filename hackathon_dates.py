@@ -81,3 +81,17 @@ def classify_by_date(text):
         return "closed"
 
     return None
+
+
+def normalize_mode(location_text):
+    """Maps a free-text location (e.g. 'Online', 'Kalyani, India',
+    'Hybrid - San Francisco') to the fixed vocabulary the site's mode
+    filter expects: 'remote', 'in-person', or 'hybrid'. None of the
+    sources give us this directly anymore -- only a location string --
+    so we infer it."""
+    text = (location_text or "").strip().lower()
+    if not text or "online" in text or "remote" in text or "virtual" in text:
+        return "remote"
+    if "hybrid" in text:
+        return "hybrid"
+    return "in-person"

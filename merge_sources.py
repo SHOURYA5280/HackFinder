@@ -7,7 +7,17 @@ Usage:
 """
 
 import json
+import re
 import sys
+
+
+def clean_description(text):
+    """Strip stray HTML markup some sources leave in (e.g. Devpost's
+    '<html> <head></head> <body></body> </html>' prefix)."""
+    if not text:
+        return text
+    text = re.sub(r"<[^>]+>", "", text)
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def main():
@@ -21,6 +31,9 @@ def main():
     for path in input_paths:
         with open(path, encoding="utf-8") as f:
             combined.extend(json.load(f))
+
+    for h in combined:
+        h["description"] = clean_description(h.get("description", ""))
 
     # Soonest deadline first -- unparsed dates sort last, not first
     combined.sort(key=lambda h: h.get("event_dates") or "\uffff")

@@ -26,13 +26,15 @@ jobs:
           BRIGHT_DATA_API_TOKEN: ${{ secrets.BRIGHT_DATA_API_TOKEN }}
           WEMAKEDEVS_COLLECTOR_ID: ${{ secrets.WEMAKEDEVS_COLLECTOR_ID }}
           DEVPOST_COLLECTOR_ID: ${{ secrets.DEVPOST_COLLECTOR_ID }}
+          DEVFOLIO_COLLECTOR_ID: ${{ secrets.DEVFOLIO_COLLECTOR_ID }}
         run: python run_daily_update.py
 
       - name: Parse, merge, and rebuild the site
         run: |
           python parse_wemakedevs.py raw_wemakedevs.csv wemakedevs_clean.json
           python parse_devpost.py raw_devpost.csv devpost_clean.json
-          python merge_sources.py wemakedevs_clean.json devpost_clean.json hackathons_combined.json
+          python parse_devfolio.py raw_devfolio.csv devfolio_clean.json
+          python merge_sources.py wemakedevs_clean.json devpost_clean.json devfolio_clean.json hackathons_combined.json
           python build_site.py hackathons_combined.json
 
       - name: Commit and push generated files

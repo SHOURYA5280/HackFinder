@@ -1,12 +1,9 @@
 """
-Parses the raw Scraper Studio CSV for Devpost hackathons (scraped from
-devpost.com/hackathons?status[]=open&status[]=upcoming, listing +
-description combined in one pass). Deduplicates by page URL -- the
-crawler can revisit the same hackathon multiple times -- and drops
-anything that turns out to be closed once we check the actual dates.
+Parses the raw Scraper Studio CSV for Devfolio hackathons (listing +
+description combined in one pass, from devfolio.co/hackathons).
 
 Usage:
-    python3 parse_devpost.py input.csv output.json
+    python3 parse_devfolio.py input.csv output.json
 """
 
 import csv
@@ -39,11 +36,7 @@ def load_rows(csv_path):
 
 
 def compute_status(row):
-    """Devpost's own filter already told us it's not finished, so if
-    we can't parse the date precisely, default to 'open' rather than
-    dropping it."""
-    status = classify_by_date(row.get("event_dates", ""))
-    return status or "open"
+    return classify_by_date(row.get("event_dates", "")) or "open"
 
 
 def clean(row):
@@ -56,22 +49,20 @@ def clean(row):
         "location": row.get("location", "").strip(),
         "hackathon_page_url": row.get("hackathon_page_url", "").strip(),
         "status": compute_status(row),
-        "source": "Devpost",
+        "source": "Devfolio",
         "level": None,
     }
 
 
 def main():
     if len(sys.argv) != 3:
-        print("Usage: python3 parse_devpost.py input.csv output.json")
+        print("Usage: python3 parse_devfolio.py input.csv output.json")
         sys.exit(1)
 
     input_csv, output_json = sys.argv[1], sys.argv[2]
 
     rows = load_rows(input_csv)
 
-    # Dedupe by page URL, keeping the first (fullest) occurrence --
-    # the crawler can revisit the same hackathon several times.
     seen = set()
     deduped = []
     for row in rows:
