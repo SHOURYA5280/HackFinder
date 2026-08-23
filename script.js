@@ -2,7 +2,7 @@ const DATA = [
   {
     "title": "Back to the Metadata",
     "description": "",
-    "event_dates": "Apr 17–26",
+    "event_dates": "Apr 17–27",
     "prize_amount": "$7,000+ in prizes & Job interviews",
     "modes": "Remote",
     "location": "",
@@ -15,7 +15,7 @@ const DATA = [
     "title": "Reverie Hacks 2026",
     "description": "",
     "event_dates": "Aug 02 - 24, 2026",
-    "prize_amount": "$ 2,876,914",
+    "prize_amount": "$ 3,047,814",
     "modes": "Online",
     "location": "Online",
     "hackathon_page_url": "https://reverie-hacks-2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
@@ -86,7 +86,7 @@ const DATA = [
   {
     "title": "Zero Downtime Hackathon",
     "description": "",
-    "event_dates": "Aug 22",
+    "event_dates": "Aug 22–23",
     "prize_amount": "NVIDIA DGX Spark Supercomputer + Keychron Keyboards",
     "modes": "",
     "location": "San Francisco, CA",
@@ -110,7 +110,7 @@ const DATA = [
   {
     "title": "The Zerops Challenge",
     "description": "",
-    "event_dates": "Aug 8–9",
+    "event_dates": "Aug 5–10",
     "prize_amount": "MacBook Neo + $5,000 in Zerops credits",
     "modes": "Remote",
     "location": "",
@@ -180,18 +180,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "Hack All February",
-    "description": "",
-    "event_dates": "Feb 2 – Mar 1",
-    "prize_amount": "Samsung Galaxy Flip 7 + $40,000 in prizes",
-    "modes": "Remote",
-    "location": "",
-    "hackathon_page_url": "https://archive.wemakedevs.org/hackathons/february",
-    "status": "closed",
-    "source": "WeMakeDevs",
-    "level": null
-  },
-  {
     "title": "Vision Possible: Agent Protocol",
     "description": "",
     "event_dates": "Feb 23 – Mar 1",
@@ -228,9 +216,21 @@ const DATA = [
     "level": null
   },
   {
+    "title": "Hack All February",
+    "description": "",
+    "event_dates": "February 2026",
+    "prize_amount": "Samsung Galaxy Flip 7 + $40,000 in prizes",
+    "modes": "Remote",
+    "location": "",
+    "hackathon_page_url": "https://archive.wemakedevs.org/hackathons/february",
+    "status": "closed",
+    "source": "WeMakeDevs",
+    "level": null
+  },
+  {
     "title": "Agents of SigNoz",
     "description": "",
-    "event_dates": "Jul 20–26",
+    "event_dates": "Jul 20–27",
     "prize_amount": "MacBook Air, iPad Air & Job Interviews",
     "modes": "Remote",
     "location": "",
@@ -350,7 +350,7 @@ const DATA = [
   {
     "title": "HackFrost Hackathon",
     "description": "",
-    "event_dates": "Nov 29 – Dec 1, 2024",
+    "event_dates": "Nov 29 – Dec 2, 2024",
     "prize_amount": "$10,000+ in prizes & gadgets",
     "modes": "Remote",
     "location": "",
@@ -504,7 +504,7 @@ document.getElementById("filter-row").addEventListener("click", (e) => {
 });
 
 // Header stats
-document.getElementById("last-checked-date").textContent = "Aug 22, 2026";
+document.getElementById("last-checked-date").textContent = "Aug 23, 2026";
 document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
   (h) => h.status === "open" || h.status === "running",
 ).length;

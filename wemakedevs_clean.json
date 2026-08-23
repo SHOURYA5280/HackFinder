@@ -50,7 +50,7 @@
   {
     "title": "Zero Downtime Hackathon",
     "description": "",
-    "event_dates": "Aug 22",
+    "event_dates": "Aug 22–23",
     "prize_amount": "NVIDIA DGX Spark Supercomputer + Keychron Keyboards",
     "modes": "",
     "location": "San Francisco, CA",
@@ -62,7 +62,7 @@
   {
     "title": "The Zerops Challenge",
     "description": "",
-    "event_dates": "Aug 8–9",
+    "event_dates": "Aug 5–10",
     "prize_amount": "MacBook Neo + $5,000 in Zerops credits",
     "modes": "Remote",
     "location": "",
@@ -74,7 +74,7 @@
   {
     "title": "Agents of SigNoz",
     "description": "",
-    "event_dates": "Jul 20–26",
+    "event_dates": "Jul 20–27",
     "prize_amount": "MacBook Air, iPad Air & Job Interviews",
     "modes": "Remote",
     "location": "",
@@ -110,7 +110,7 @@
   {
     "title": "Back to the Metadata",
     "description": "",
-    "event_dates": "Apr 17–26",
+    "event_dates": "Apr 17–27",
     "prize_amount": "$7,000+ in prizes & Job interviews",
     "modes": "Remote",
     "location": "",
@@ -127,6 +127,18 @@
     "modes": "Remote",
     "location": "",
     "hackathon_page_url": "https://archive.wemakedevs.org/hackathons/vision",
+    "status": "closed",
+    "source": "WeMakeDevs",
+    "level": null
+  },
+  {
+    "title": "Hack All February",
+    "description": "",
+    "event_dates": "February 2026",
+    "prize_amount": "Samsung Galaxy Flip 7 + $40,000 in prizes",
+    "modes": "Remote",
+    "location": "",
+    "hackathon_page_url": "https://archive.wemakedevs.org/hackathons/february",
     "status": "closed",
     "source": "WeMakeDevs",
     "level": null
@@ -151,18 +163,6 @@
     "modes": "Remote",
     "location": "",
     "hackathon_page_url": "https://archive.wemakedevs.org/hackathons/2fast2mcp",
-    "status": "closed",
-    "source": "WeMakeDevs",
-    "level": null
-  },
-  {
-    "title": "Hack All February",
-    "description": "",
-    "event_dates": "Feb 2 – Mar 1",
-    "prize_amount": "Samsung Galaxy Flip 7 + $40,000 in prizes",
-    "modes": "Remote",
-    "location": "",
-    "hackathon_page_url": "https://archive.wemakedevs.org/hackathons/february",
     "status": "closed",
     "source": "WeMakeDevs",
     "level": null
@@ -254,7 +254,7 @@
   {
     "title": "HackFrost Hackathon",
     "description": "",
-    "event_dates": "Nov 29 – Dec 1, 2024",
+    "event_dates": "Nov 29 – Dec 2, 2024",
     "prize_amount": "$10,000+ in prizes & gadgets",
     "modes": "Remote",
     "location": "",
