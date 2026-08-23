@@ -13,7 +13,7 @@
   </head>
   <body>
     <div class="hero">
-      <div class="eyebrow">Live feed &middot; scraped with Bright Data</div>
+      <div class="eyebrow">Live feed &middot; scraped using Bright Data</div>
       <h1>Hackathons worth<br /><em>showing up for.</em></h1>
       <p>
         A running list of student hackathons — beginner to advanced, remote and
@@ -41,6 +41,12 @@
           <button class="chip" data-value="in-person">In-person</button>
           <button class="chip" data-value="hybrid">Hybrid</button>
         </div>
+        <div class="divider-dot"></div>
+        <label class="date-filter" for="event-date">
+          <span>On date</span>
+          <input id="event-date" type="date" />
+          <button class="clear-date" id="clear-date" type="button" hidden>Clear</button>
+        </label>
         <span class="count-label"><span id="result-count">0</span> shown</span>
       </div>
     </div>

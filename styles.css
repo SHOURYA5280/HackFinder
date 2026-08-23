@@ -138,6 +138,40 @@ h1 em {
   background: rgba(241, 234, 214, 0.25);
   margin: 0 4px;
 }
+.date-filter {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 12px;
+  color: rgba(241, 234, 214, 0.75);
+}
+.date-filter input {
+  min-height: 32px;
+  padding: 5px 8px;
+  border: 1px solid rgba(241, 234, 214, 0.22);
+  border-radius: 7px;
+  background: rgba(241, 234, 214, 0.05);
+  color: var(--paper);
+  color-scheme: dark;
+  font: inherit;
+  cursor: pointer;
+}
+.date-filter input:focus {
+  outline: 2px solid var(--amber);
+  outline-offset: 2px;
+}
+.clear-date {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--amber);
+  font: inherit;
+  cursor: pointer;
+}
+.clear-date:hover {
+  color: var(--paper);
+}
 .count-label {
   margin-left: auto;
   font-family: "JetBrains Mono", monospace;
@@ -328,6 +362,9 @@ footer {
   }
   .count-label {
     margin-left: 0;
+    width: 100%;
+  }
+  .date-filter {
     width: 100%;
   }
 }

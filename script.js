@@ -689,7 +689,7 @@ const ACTIVE_DATA = DATA.filter(
   (hackathon) => hackathon.status === "open" || hackathon.status === "running",
 );
 
-const state = { status: "all", mode: "all" };
+const state = { status: "all", mode: "all", date: "" };
 
 function formatSource(h) {
   return h.source || "Unknown";
@@ -701,17 +701,42 @@ const MONTHS = {
 };
 
 function eventStartTime(eventDates) {
-  const text = eventDates || "";
-  const monthMatch = text.match(
-    /\b(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)(?:\s+(\d{1,2}))?/i,
-  );
-  if (!monthMatch) return Number.POSITIVE_INFINITY;
+  const range = eventDateRange(eventDates);
+  return range ? range.start.getTime() : Number.POSITIVE_INFINITY;
+}
 
-  const month = MONTHS[monthMatch[1].slice(0, 3).toLowerCase()];
-  const day = Number(monthMatch[2] || 1);
+function eventDateRange(eventDates, fallbackYear = new Date().getFullYear()) {
+  const text = eventDates || "";
+  const monthPattern = "Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?";
+  const rangeMatch = text.match(new RegExp(String.raw`\b(${monthPattern})\s+(\d{1,2})\s*[-\u2010\u2013\u2014\uFFFD]\s*(?:(${monthPattern})\s+)?(\d{1,2})`, "i"));
+  const singleMatch = text.match(new RegExp(`\\b(${monthPattern})\\s+(\\d{1,2})`, "i"));
+  const match = rangeMatch || singleMatch;
+  if (!match) return null;
+
   const yearMatch = text.match(/\b(20\d{2})\b/);
-  const year = yearMatch ? Number(yearMatch[1]) : new Date().getFullYear();
-  return new Date(year, month, day).getTime();
+  const year = yearMatch ? Number(yearMatch[1]) : fallbackYear;
+  const startMonth = MONTHS[match[1].slice(0, 3).toLowerCase()];
+  const startDay = Number(match[2]);
+  const endMonth = rangeMatch && match[3]
+    ? MONTHS[match[3].slice(0, 3).toLowerCase()]
+    : startMonth;
+  const endDay = rangeMatch ? Number(match[4]) : startDay;
+  const start = new Date(year, startMonth, startDay);
+  const end = new Date(year + (endMonth < startMonth ? 1 : 0), endMonth, endDay);
+  if (Number.isNaN(start.getTime()) || Number.isNaN(end.getTime())) return null;
+  return { start, end };
+}
+
+function runsOnSelectedDate(eventDates, selectedDate) {
+  if (!selectedDate) return true;
+  const [year, month, day] = selectedDate.split("-").map(Number);
+  const selected = new Date(year, month - 1, day);
+  const eventHasYear = /\b20\d{2}\b/.test(eventDates || "");
+  const candidateYears = eventHasYear ? [year] : [year - 1, year, year + 1];
+  return candidateYears.some((candidateYear) => {
+    const range = eventDateRange(eventDates, candidateYear);
+    return range && selected >= range.start && selected <= range.end;
+  });
 }
 
 function sortByEventDate(hackathons) {
@@ -734,6 +759,7 @@ function render() {
       if (state.mode === "in-person" && !["in-person", "in person"].includes(m) && !(m === "" && h.location && h.location.toLowerCase() !== "online")) return false;
       if (state.mode === "hybrid" && m !== "hybrid") return false;
     }
+    if (!runsOnSelectedDate(h.event_dates, state.date)) return false;
     return true;
   }));
 
@@ -788,6 +814,20 @@ document.getElementById("filter-row").addEventListener("click", (e) => {
   state[key] = btn.getAttribute("data-value");
   group.querySelectorAll(".chip").forEach((c) => c.classList.remove("active"));
   btn.classList.add("active");
+  render();
+});
+
+const eventDateInput = document.getElementById("event-date");
+const clearDateButton = document.getElementById("clear-date");
+eventDateInput.addEventListener("change", () => {
+  state.date = eventDateInput.value;
+  clearDateButton.hidden = !state.date;
+  render();
+});
+clearDateButton.addEventListener("click", () => {
+  eventDateInput.value = "";
+  state.date = "";
+  clearDateButton.hidden = true;
   render();
 });
 
