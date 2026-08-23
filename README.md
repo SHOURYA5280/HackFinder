@@ -1,5 +1,7 @@
 # 🏁 HackFinder
 
+**Link:** https://shourya5280.github.io/HackFinder/
+
 **A live, filterable feed of hackathons — scraped, self-healing, and auto-refreshed daily.**
 
 Built solo for **WeMakeDevs × Bright Data's "Into the Scrape-Verse"** hackathon (Aug 17–23, 2026).
