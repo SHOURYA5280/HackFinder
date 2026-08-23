@@ -6,52 +6,28 @@ Usage:
     python3 parse_devfolio.py input.csv output.json
 """
 
-import csv
-import json
 import sys
 
 from hackathon_dates import classify_by_date, normalize_mode
-
-
-def load_rows(csv_path):
-    """Load either Bright Data's flat CSV export or its legacy
-    one-cell ``hackathons`` JSON export."""
-    with open(csv_path, newline="", encoding="utf-8") as f:
-        rows = list(csv.DictReader(f))
-
-    flattened = []
-    for row in rows:
-        raw = row.get("hackathons")
-        if raw:
-            try:
-                nested = json.loads(raw)
-            except json.JSONDecodeError as exc:
-                raise ValueError(f"Invalid hackathons JSON in {csv_path}") from exc
-            if not isinstance(nested, list):
-                raise ValueError(f"Expected a list in the hackathons column of {csv_path}")
-            flattened.extend(nested)
-        else:
-            flattened.append(row)
-    return flattened
+from parser_utils import (
+    build_hackathon,
+    load_export_rows,
+    print_parse_summary,
+    unique_rows_by_url,
+    write_active_hackathons,
+)
 
 
 def compute_status(row):
+    """Treat unparseable listing dates as open, matching Devfolio's feed."""
     return classify_by_date(row.get("event_dates", "")) or "open"
 
 
 def clean(row):
-    return {
-        "title": row.get("title", "").strip(),
-        "description": row.get("description", "").strip(),
-        "event_dates": row.get("event_dates", "").strip(),
-        "prize_amount": row.get("prize", "").strip(),
-        "modes": normalize_mode(row.get("location", "")),
-        "location": row.get("location", "").strip(),
-        "hackathon_page_url": row.get("hackathon_page_url", "").strip(),
-        "status": compute_status(row),
-        "source": "Devfolio",
-        "level": None,
-    }
+    """Normalize a Devfolio row for the shared frontend schema."""
+    return build_hackathon(
+        row, "Devfolio", compute_status(row), normalize_mode(row.get("location", ""))
+    )
 
 
 def main():
@@ -61,30 +37,13 @@ def main():
 
     input_csv, output_json = sys.argv[1], sys.argv[2]
 
-    rows = load_rows(input_csv)
-
-    seen = set()
-    deduped = []
-    for row in rows:
-        url = row.get("hackathon_page_url", "").strip()
-        if not url or url in seen:
-            continue
-        seen.add(url)
-        deduped.append(row)
-
-    cleaned = [clean(r) for r in deduped if r.get("title", "").strip()]
-
-    dropped = sum(1 for h in cleaned if h["status"] == "closed")
-    cleaned = [h for h in cleaned if h["status"] != "closed"]
-
-    with open(output_json, "w", encoding="utf-8") as f:
-        json.dump(cleaned, f, indent=2, ensure_ascii=False)
-
-    open_count = sum(1 for h in cleaned if h["status"] == "open")
-    running_count = sum(1 for h in cleaned if h["status"] == "running")
-    print(f"Parsed {len(rows)} raw rows -> {len(deduped)} unique -> "
-          f"{len(cleaned)} kept -> {output_json} (dropped {dropped} closed)")
-    print(f"  open: {open_count}, running: {running_count}")
+    rows = load_export_rows(input_csv)
+    unique_rows = unique_rows_by_url(rows)
+    hackathons = [clean(row) for row in unique_rows if row.get("title", "").strip()]
+    active_hackathons, dropped_count = write_active_hackathons(hackathons, output_json)
+    print_parse_summary(
+        len(rows), len(unique_rows), active_hackathons, dropped_count, output_json
+    )
 
 
 if __name__ == "__main__":

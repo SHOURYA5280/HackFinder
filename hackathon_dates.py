@@ -50,7 +50,9 @@ def parse_date_range(text, fallback_year=None):
         start_month = MONTHS[start_mon.lower()]
         end_month = MONTHS[end_mon.lower()] if end_mon else start_month
         start = _safe_date(year, start_month, int(start_day))
-        end = _safe_date(year, end_month, int(end_day))
+        # A range such as "Dec 30 - Jan 2" crosses into the following year.
+        end_year = year + 1 if end_month < start_month else year
+        end = _safe_date(end_year, end_month, int(end_day))
         return start, end
 
     m = SINGLE_PAT.match(text.strip())
