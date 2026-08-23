@@ -4,7 +4,7 @@
 
 Built solo for **WeMakeDevs × Bright Data's "Into the Scrape-Verse"** hackathon (Aug 17–23, 2026).
 
-🎥 **Demo video:** _[link here]_
+🎥 **Demo video:** https://youtu.be/uXntM0YgwTY?si=rLARtrksTbrcAGJN
 
 ---
 
