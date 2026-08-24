@@ -144,17 +144,16 @@ def poll_and_download(collection_id, max_wait=600, interval=15):
     Poll Bright Data until the collection is complete.
 
     Handles:
-    - normal JSON responses
-    - Bright Data status objects
-    - JSON arrays
+    - HTTP 202 while collection is running
+    - HTTP 200 when collection is ready
+    - normal JSON arrays
     - wrapped result dictionaries
-    - NDJSON / multiple JSON values
+    - JSON/NDJSON responses
     """
 
     waited = 0
 
     while waited < max_wait:
-
         resp = requests.get(
             f"{BASE}/dca/dataset",
             params={"id": collection_id},
@@ -164,23 +163,16 @@ def poll_and_download(collection_id, max_wait=600, interval=15):
             timeout=30,
         )
 
-        # -----------------------------------------------------
-        # Don't hide HTTP errors.
-        # -----------------------------------------------------
+        # 202 means the collection is still running.
+        # 200 means the collection is ready.
         if resp.status_code not in (200, 202):
-        raise RuntimeError(
-        f"Bright Data returned HTTP {resp.status_code}: "
-        f"{resp.text[:1000]}"
-    )
+            raise RuntimeError(
+                f"Bright Data returned HTTP {resp.status_code}: "
+                f"{resp.text[:1000]}"
+            )
 
-        # -----------------------------------------------------
-        # Parse the response ourselves instead of using
-        # resp.json(), because DevPost is currently returning
-        # more than one JSON value.
-        # -----------------------------------------------------
         try:
             data = parse_brightdata_response(resp.text)
-
         except Exception as exc:
             print("Failed to parse Bright Data response.")
             print(f"Collection ID: {collection_id}")
@@ -190,25 +182,14 @@ def poll_and_download(collection_id, max_wait=600, interval=15):
             print(resp.text[:2000])
             print("Response ending:")
             print(resp.text[-1000:])
-
             raise exc
 
-        # -----------------------------------------------------
-        # Normal ready response:
-        #
-        # [
-        #     {...},
-        #     {...}
-        # ]
-        # -----------------------------------------------------
+        # Finished collection: return the records.
         if isinstance(data, list):
             return data
 
-        # -----------------------------------------------------
-        # Status / wrapped responses.
-        # -----------------------------------------------------
+        # Collection still running.
         if isinstance(data, dict):
-
             status = str(data.get("status", "")).lower()
 
             if status in (
@@ -216,7 +197,7 @@ def poll_and_download(collection_id, max_wait=600, interval=15):
                 "queued",
                 "pending",
                 "building",
-                "collecting"
+                "collecting",
                 "processing",
             ):
                 print(f" collection still {status}...")
@@ -224,9 +205,7 @@ def poll_and_download(collection_id, max_wait=600, interval=15):
                 waited += interval
                 continue
 
-            # -------------------------------------------------
-            # Some response shapes wrap the records.
-            # -------------------------------------------------
+            # Some responses wrap the records in a dictionary.
             for key in (
                 "data",
                 "result",
@@ -239,13 +218,7 @@ def poll_and_download(collection_id, max_wait=600, interval=15):
                 if isinstance(value, list):
                     return value
 
-            # -------------------------------------------------
-            # If this looks like one actual record rather than
-            # a status object, accept it as a single record.
-            # -------------------------------------------------
-            if "status" not in data:
-                return [data]
-
+            # Unexpected response.
             print("Unexpected Bright Data response:")
             print(json.dumps(data, indent=2)[:3000])
 
