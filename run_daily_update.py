@@ -168,7 +168,7 @@ def poll_and_download(collection_id, max_wait=600, interval=15):
         # Don't hide HTTP errors.
         # -----------------------------------------------------
         if resp.status_code not in (200, 202):
-    raise RuntimeError(
+        raise RuntimeError(
         f"Bright Data returned HTTP {resp.status_code}: "
         f"{resp.text[:1000]}"
     )
