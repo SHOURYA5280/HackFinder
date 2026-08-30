@@ -12,6 +12,18 @@ const DATA = [
     "level": null
   },
   {
+    "title": "CodeStorm 2026: FutureForge",
+    "description": "CodeStorm 2026: FutureForge is a student-focused innovation hackathon where developers, designers, creators, and problem-solvers come together to build impactful solutions using technology. Unlike traditional hackathons that focus on a single domain, FutureForge embraces Open Innovation , allowing participants to tackle real-world challenges across any field they are passionate about. Whether it's Artificial Intelligence, Web Development, Cybersecurity, Education Technology, Sustainability, Productivity Tools, Mobile Applications, or something entirely unique, this is your platform to innovate. This hackathon is part of the CodeStorm 2026 Series , an initiative dedicated to empowering students through hands-on learning, collaboration, and innovation. The event will be conducted completely online through our Discord community. Participation is free, and teams may consist of 1–6 members . Participants are encouraged to think boldly, experiment fearlessly, and build projects that create meaningful impact while showcasing technical excellence and creativity. CodeStorm is a student-led initiative dedicated to creating opportunities for young innovators, builders, and creators across India. CodeStorm 2026: FutureForge is a student-focused innovation hackathon where developers, designers, creators, and problem-solvers come together to build impactful solutions using technology. Unlike traditional hackathons that focus on a single domain, FutureForge embraces Open Innovation , allowing participants to tackle real-world challenges across any field they are passionate about. Whether it's Artificial Intelligence, Web Development, Cybersecurity, Education Technology, Sustainability, Productivity Tools, Mobile Applications, or something entirely unique, this is your platform to innovate. This hackathon is part of the CodeStorm 2026 Series , an initiative dedicated to empowering students through hands-on learning, collaboration, and innovation. The event will be conducted completely online through our Discord community. Participation is free, and teams may consist of 1–6 members . Participants are encouraged to think boldly, experiment fearlessly, and build projects that create meaningful impact while showcasing technical excellence and creativity. CodeStorm is a student-led initiative dedicated to creating opportunities for young innovators, builders, and creators across India.",
+    "event_dates": "Aug 1 - Sep 30, 2026",
+    "prize_amount": "",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://codestorm-futureforge.devfolio.co//overview",
+    "status": "running",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "Agents for Humans Hackathon",
     "description": "Every day, people lose hours to small, repetitive tasks like paying bills, scheduling meetings, or filling out the same paperwork again. On their own they're minor, but together they drain real time and attention. AWS wants to help you change that! Build an AI agent with the Strands Agents SDK that handles routine and repetitive tasks in the background. Instead of another app people open and manage, the agent runs autonomously and only surfaces when there's a real decision to make. This theme is open to any part of life, from home and work to health, money, errands, and family. Whatever you want to solve, there's a track for it. Six weeks. One build. We're looking forward to seeing what you create. Why Join? 🏆 Compete for $40,000 in cash prizes across three tracks 🌐 Build with Strands Agents SDK, open source, production ready, built and trusted by teams at AWS 🛠️ Solve real problems people actually deal with, from daily chores to professional workloads to community logistics 💳 Get $50 in AWS credits to cover your build costs (go to the Resources tab for request form) 🌍 Open to developers worldwide, solo or team, new or seasoned 📝 Earn bonus points by publishing your build story on builder.aws.com (see rules for details)",
     "event_dates": "Aug 10 - Sep 14, 2026",
@@ -180,18 +192,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "Innohacks 4.0",
-    "description": "Whether you're a blockchain enthusiast , an AI aficionado , or a fintech wizard , Innohacks 4.0 has something for everyone! From AR/VR marvels to AIoT wonders , get ready to push the boundaries of what's possible! ⚡ Whether you're a blockchain enthusiast , an AI aficionado , or a fintech wizard , Innohacks 4.0 has something for everyone! From AR/VR marvels to AIoT wonders , get ready to push the boundaries of what's possible! ⚡",
-    "event_dates": "Oct 3 - 4, 2026",
-    "prize_amount": "",
-    "modes": "in-person",
-    "location": "Ghaziabad, India",
-    "hackathon_page_url": "https://innohacks-4.devfolio.co//overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "Codeutsava X.0",
     "description": "CODEUTSAVA isn’t just an event—it’s a magnificent celebration of code ! Hosted annually by the esteemed Turing Club of Programmers , it acts as a magnet for coding enthusiasts from across the nation . With a mission to ignite a vibrant coding culture in the student community, CodeUtsava unleashes an electrifying lineup : immersive workshops , neuro-igniting hackathons , mind-bending coding competitions , epic gaming battles , and enlightening mic sessions — we’ve got it all (and more)! And no, we don’t say “Pack Up!!” there. CodeUtsava goes beyond the screen , unlocking the boundless potential of students to tackle real-world problems of public interest . Join this extravaganza of algorithms , creativity , and camaraderie —and let’s script a brighter future together ! CODEUTSAVA isn’t just an event—it’s a magnificent celebration of code ! Hosted annually by the esteemed Turing Club of Programmers , it acts as a magnet for coding enthusiasts from across the nation . With a mission to ignite a vibrant coding culture in the student community, CodeUtsava unleashes an electrifying lineup : immersive workshops , neuro-igniting hackathons , mind-bending coding competitions , epic gaming battles , and enlightening mic sessions — we’ve got it all (and more)! And no, we don’t say “Pack Up!!” there. CodeUtsava goes beyond the screen , unlocking the boundless potential of students to tackle real-world problems of public interest . Join this extravaganza of algorithms , creativity , and camaraderie —and let’s script a brighter future together !",
     "event_dates": "Oct 3 - 4, 2026",
@@ -204,13 +204,13 @@ const DATA = [
     "level": null
   },
   {
-    "title": "TUM Blockchain & AI Hackathon",
-    "description": "AI agents are starting to act on their own: booking, negotiating, paying. The payment rails for that don't fully exist yet. This hackathon is about building the infrastructure and applications that let autonomous agents transact safely and instantly on-chain. TUM Blockchain Club has brought together 3,000+ builders, researchers and founders over the last four years, running Europe's largest student-led Web3 event. This year the hackathon sits inside TBC26: three days, two venues, one community, with the main conference and Bundesblock's Digital Assets Day running alongside. AI agents are starting to act on their own: booking, negotiating, paying. The payment rails for that don't fully exist yet. This hackathon is about building the infrastructure and applications that let autonomous agents transact safely and instantly on-chain. TUM Blockchain Club has brought together 3,000+ builders, researchers and founders over the last four years, running Europe's largest student-led Web3 event. This year the hackathon sits inside TBC26: three days, two venues, one community, with the main conference and Bundesblock's Digital Assets Day running alongside.",
-    "event_dates": "Oct 30 - 31, 2026",
-    "prize_amount": "$4,000 Available in Prizes",
+    "title": "Innohacks 4.0",
+    "description": "Whether you're a blockchain enthusiast , an AI aficionado , or a fintech wizard , Innohacks 4.0 has something for everyone! From AR/VR marvels to AIoT wonders , get ready to push the boundaries of what's possible! ⚡ Whether you're a blockchain enthusiast , an AI aficionado , or a fintech wizard , Innohacks 4.0 has something for everyone! From AR/VR marvels to AIoT wonders , get ready to push the boundaries of what's possible! ⚡",
+    "event_dates": "Oct 3 - 4, 2026",
+    "prize_amount": "",
     "modes": "in-person",
-    "location": "München, Germany",
-    "hackathon_page_url": "https://tum.devfolio.co//overview",
+    "location": "Ghaziabad, India",
+    "hackathon_page_url": "https://innohacks-4.devfolio.co//overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -354,7 +354,7 @@ const DATA = [
     "prize_amount": "$500 Available in Prizes",
     "modes": "in-person",
     "location": "Greater Noida, India",
-    "hackathon_page_url": "https://webcraft24.devfolio.co//overview",
+    "hackathon_page_url": "https://webcraft24.devfolio.co//",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -385,7 +385,7 @@ const DATA = [
   },
   {
     "title": "Recursion Edition II",
-    "description": "RECURSION — EDITION II is a 24-hour offline hackathon presented by Microsoft Innovations Club, VIT Chennai , built around one simple idea - what happens when an idea returns to itself, evolves, and becomes something new? Every idea starts somewhere. It gets built, tested, broken, rebuilt - and comes back better. That’s RECURSION. Edition II brings the loop back, with 24 hours to turn an idea into something real. VIT Chennai 24-Hour Offline Hackathon Idea Submission Deadline: 28 August 2026, 12:00 PM (Noon) Grand Finale: 3–4 September 2026 Developer Tools and AI | Fintech and Commerce | Healthtech | Smart Living | Sustainability and Climate Change | Wildcard Refer to the Track Guide for detailed track information: https://drive.google.com/file/d/1aSZ77vjnqzHjma-u51IzGJOist64Oex7/view?usp=sharing Stage 1 — Idea Submission Round (Free) Submit your idea by 28 August 2026, 12:00 PM (Noon) through the PPT submission round. **Stage 2 - Grand Finale ** Shortlisted teams advance to the 3-4 September 2026 offline hackathon at VIT Chennai. Want to stay updated on registrations, announcements, deadlines, and event updates? Join the official RECURSION WhatsApp group: https://chat.whatsapp.com/C6PxaPjAVfu6ejpMGHkLUf Presented by Microsoft Innovations Club VIT Chennai RECURSION — EDITION II is a 24-hour offline hackathon presented by Microsoft Innovations Club, VIT Chennai , built around one simple idea - what happens when an idea returns to itself, evolves, and becomes something new? Every idea starts somewhere. It gets built, tested, broken, rebuilt - and comes back better. That’s RECURSION. Edition II brings the loop back, with 24 hours to turn an idea into something real. VIT Chennai 24-Hour Offline Hackathon Idea Submission Deadline: 28 August 2026, 12:00 PM (Noon) Grand Finale: 3–4 September 2026 Developer Tools and AI | Fintech and Commerce | Healthtech | Smart Living | Sustainability and Climate Change | Wildcard Refer to the Track Guide for detailed track information: https://drive.google.com/file/d/1aSZ77vjnqzHjma-u51IzGJOist64Oex7/view?usp=sharing Stage 1 — Idea Submission Round (Free) Submit your idea by 28 August 2026, 12:00 PM (Noon) through the PPT submission round. **Stage 2 - Grand Finale ** Shortlisted teams advance to the 3-4 September 2026 offline hackathon at VIT Chennai. Want to stay updated on registrations, announcements, deadlines, and event updates? Join the official RECURSION WhatsApp group: https://chat.whatsapp.com/C6PxaPjAVfu6ejpMGHkLUf Presented by Microsoft Innovations Club VIT Chennai",
+    "description": "RECURSION — EDITION II is a 24-hour offline hackathon presented by Microsoft Innovations Club, VIT Chennai , built around one simple idea - what happens when an idea returns to itself, evolves, and becomes something new? Every idea starts somewhere. It gets built, tested, broken, rebuilt - and comes back better. That’s RECURSION. Edition II brings the loop back, with 24 hours to turn an idea into something real. VIT Chennai 24-Hour Offline Hackathon Idea Submission Deadline: 28 August 2026, 12:00 PM (Noon) Grand Finale: 3–4 September 2026 Developer Tools and AI | Fintech and Commerce | Healthtech | Smart Living | Sustainability and Climate Change | Wildcard Refer to the Track Guide for detailed track information: https://drive.google.com/file/d/1aSZ77vjnqzHjma-u51IzGJOist64Oex7/view?usp=sharing Stage 1 — Idea Submission Round (Free) Submit your idea by 30 August 2026, 9:30 PM (Noon) through the IDEA submission round. ** Stage 2 - Grand Finale ** Shortlisted teams advance to the 3-4 September 2026 offline hackathon at VIT Chennai. Want to stay updated on registrations, announcements, deadlines, and event updates? Join the official RECURSION WhatsApp group: https://chat.whatsapp.com/C6PxaPjAVfu6ejpMGHkLUf Presented by Microsoft Innovations Club VIT Chennai RECURSION — EDITION II is a 24-hour offline hackathon presented by Microsoft Innovations Club, VIT Chennai , built around one simple idea - what happens when an idea returns to itself, evolves, and becomes something new? Every idea starts somewhere. It gets built, tested, broken, rebuilt - and comes back better. That’s RECURSION. Edition II brings the loop back, with 24 hours to turn an idea into something real. VIT Chennai 24-Hour Offline Hackathon Idea Submission Deadline: 28 August 2026, 12:00 PM (Noon) Grand Finale: 3–4 September 2026 Developer Tools and AI | Fintech and Commerce | Healthtech | Smart Living | Sustainability and Climate Change | Wildcard Refer to the Track Guide for detailed track information: https://drive.google.com/file/d/1aSZ77vjnqzHjma-u51IzGJOist64Oex7/view?usp=sharing Stage 1 — Idea Submission Round (Free) Submit your idea by 30 August 2026, 9:30 PM (Noon) through the IDEA submission round. ** Stage 2 - Grand Finale ** Shortlisted teams advance to the 3-4 September 2026 offline hackathon at VIT Chennai. Want to stay updated on registrations, announcements, deadlines, and event updates? Join the official RECURSION WhatsApp group: https://chat.whatsapp.com/C6PxaPjAVfu6ejpMGHkLUf Presented by Microsoft Innovations Club VIT Chennai",
     "event_dates": "Sep 3 - 4, 2026",
     "prize_amount": "$9,000 Available in Prizes",
     "modes": "in-person",
@@ -580,7 +580,7 @@ clearDateButton.addEventListener("click", () => {
 });
 
 // Header stats
-document.getElementById("last-checked-date").textContent = "Aug 29, 2026";
+document.getElementById("last-checked-date").textContent = "Aug 30, 2026";
 document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
   (h) => h.status === "open" || h.status === "running",
 ).length;
