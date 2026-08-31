@@ -48,18 +48,6 @@
     "level": null
   },
   {
-    "title": "The Agent Harness Hackathon",
-    "description": "",
-    "event_dates": "Aug 24–30",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "",
-    "hackathon_page_url": "https://www.wemakedevs.org/hackathons/trueforge",
-    "status": "running",
-    "source": "WeMakeDevs",
-    "level": null
-  },
-  {
     "title": "The WebMCP Challenge",
     "description": "WebMCP is an emerging open standard that lets websites expose structured tools agents can use directly. Instead of leaving agents to guess their way through your UI, you define exactly how they can use your app, so they complete tasks faster, more accurately, and more reliably. The WebMCP Challenge invites you to build something we haven’t seen before: an app that becomes meaningfully better when people and their agents can use it together. Why join Explore what new experiences that become possible when web apps can be built for people and their agents. Help shape an emerging open standard and the future of the agent-native web. The top 10 submissions will each receive $3,000 in cash, one Codex Micro, ChatGPT Pro for one year, OpenAI merch, and additional prizes from challenge supporters, subject to the official rules. Get started Learn what WebMCP enables. Read the WebMCP specification and Chrome’s developer documentation to understand how websites can expose tools to AI agents. Get inspired. Explore the WebMCP Showcase for examples of agent-native apps and ideas for what you could build , and read the WebMCP guide from OpenAI. Build and deploy. Create a new WebMCP-enabled app or add WebMCP support to an existing one. Host it on ChatGPT Sites, Cloudflare, Vercel, Render, Netlify, Shopify, or any deployment platform you choose. Test your app. Open your deployed app in ChatGPT’s in-app browser, which supports WebMCP out of the box. To test in Google Chrome, enable WebMCP using chrome://flags/#enable-webmcp-testing . Meet the Devpost plugin The Devpost Hackathons plugin runs inside Codex and includes everything you need to participate—from challenge requirements and rules to the submission flow. It can help you brainstorm ideas, plan your project, and prepare your submission without leaving Codex.",
     "event_dates": "Aug 25 - Sep 03, 2026",
@@ -204,13 +192,13 @@
     "level": null
   },
   {
-    "title": "Innohacks 4.0",
-    "description": "Whether you're a blockchain enthusiast , an AI aficionado , or a fintech wizard , Innohacks 4.0 has something for everyone! From AR/VR marvels to AIoT wonders , get ready to push the boundaries of what's possible! ⚡ Whether you're a blockchain enthusiast , an AI aficionado , or a fintech wizard , Innohacks 4.0 has something for everyone! From AR/VR marvels to AIoT wonders , get ready to push the boundaries of what's possible! ⚡",
-    "event_dates": "Oct 3 - 4, 2026",
-    "prize_amount": "",
+    "title": "TUM Blockchain & AI Hackathon",
+    "description": "AI agents are starting to act on their own: booking, negotiating, paying. The payment rails for that don't fully exist yet. This hackathon is about building the infrastructure and applications that let autonomous agents transact safely and instantly on-chain. TUM Blockchain Club has brought together 3,000+ builders, researchers and founders over the last four years, running Europe's largest student-led Web3 event. This year the hackathon sits inside TBC26: three days, two venues, one community, with the main conference and Bundesblock's Digital Assets Day running alongside. AI agents are starting to act on their own: booking, negotiating, paying. The payment rails for that don't fully exist yet. This hackathon is about building the infrastructure and applications that let autonomous agents transact safely and instantly on-chain. TUM Blockchain Club has brought together 3,000+ builders, researchers and founders over the last four years, running Europe's largest student-led Web3 event. This year the hackathon sits inside TBC26: three days, two venues, one community, with the main conference and Bundesblock's Digital Assets Day running alongside.",
+    "event_dates": "Oct 30 - 31, 2026",
+    "prize_amount": "$4,000 Available in Prizes",
     "modes": "in-person",
-    "location": "Ghaziabad, India",
-    "hackathon_page_url": "https://innohacks-4.devfolio.co//overview",
+    "location": "München, Germany",
+    "hackathon_page_url": "https://tum.devfolio.co//overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -276,6 +264,18 @@
     "level": null
   },
   {
+    "title": "DEFINE 4.0",
+    "description": "The Department of Computer Science and Engineering of Mar Baselios College of Engineering and Technology , Thiruvananthapuram proudly present the fourth edition of DEFINE, an exclusive, exciting and stimulating 24-Hour Hackathon . Finding problems and building solutions is what makes a practicing engineer. Define is a supporting and encouraging way to bring the spotlight to students. Being present at our event would give you the chance to see how the attendees surge themselves to work together, and make life easier with the help of technology. The Department of Computer Science and Engineering of Mar Baselios College of Engineering and Technology , Thiruvananthapuram proudly present the fourth edition of DEFINE, an exclusive, exciting and stimulating 24-Hour Hackathon . Finding problems and building solutions is what makes a practicing engineer. Define is a supporting and encouraging way to bring the spotlight to students. Being present at our event would give you the chance to see how the attendees surge themselves to work together, and make life easier with the help of technology.",
+    "event_dates": "Oct 9 - 10, 2026",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "Thiruvananthapuram, India",
+    "hackathon_page_url": "https://define4.devfolio.co//overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "Hackify 3.0",
     "description": "Hackify 3.0 – Blueprint for Peace: Powering Defence, Protecting Lives, Rebuilding Nations Hackify 3.0 is the third edition of the flagship national-level hackathon organized by IEDC MACE, bringing together student innovators from across the country to solve real-world challenges through technology. This year's theme, \"Blueprint for Peace: Powering Defence, Protecting Lives, Rebuilding Nations,\" challenges participants to develop technology-driven solutions in areas such as national security, defence technologies, cyber defence, civilian protection, humanitarian response, and post-war reconstruction. Over 36 hours participants will collaborate, innovate, and transform ideas into impactful solutions under the guidance of mentors, industry experts, and startup ecosystem leaders. Hackify 3.0 provides a platform for aspiring innovators to showcase their skills, tackle real-world problems, and create technology that drives meaningful change. 🚀 Ready to hack? Register now and be part of the innovation! 💬 Join our WhatsApp Community for announcements, event updates, team formation, and participant support: Hackify 3.0 – Blueprint for Peace: Powering Defence, Protecting Lives, Rebuilding Nations Hackify 3.0 is the third edition of the flagship national-level hackathon organized by IEDC MACE, bringing together student innovators from across the country to solve real-world challenges through technology. This year's theme, \"Blueprint for Peace: Powering Defence, Protecting Lives, Rebuilding Nations,\" challenges participants to develop technology-driven solutions in areas such as national security, defence technologies, cyber defence, civilian protection, humanitarian response, and post-war reconstruction. Over 36 hours participants will collaborate, innovate, and transform ideas into impactful solutions under the guidance of mentors, industry experts, and startup ecosystem leaders. Hackify 3.0 provides a platform for aspiring innovators to showcase their skills, tackle real-world problems, and create technology that drives meaningful change. 🚀 Ready to hack? Register now and be part of the innovation! 💬 Join our WhatsApp Community for announcements, event updates, team formation, and participant support:",
     "event_dates": "Oct 9 - 11, 2026",
@@ -283,6 +283,18 @@
     "modes": "in-person",
     "location": "Kothamangalam, India",
     "hackathon_page_url": "https://hackify-3.devfolio.co//overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "HackVerse: Into the Web",
+    "description": "HackVerse: Into the Web is a SpiderMan-themed, story-driven hackathon organized by the IEEE Robotics and Automation Society (IEEE RAS), VIT Chennai Student Chapter , as part of TechnoVIT 2026 . Unlike a conventional hackathon, HackVerse is designed as a 24-hour journey through three progressively challenging sprints , taking participants from rapid ideation to competitive problem-solving and finally to building a real-world, deploy-ready product. Win SpiderMan Masks and Goodies for best innovation! Kick things off with a high-energy rapid vibe-coding challenge . Teams get limited time to turn an idea into a functional prototype using modern frameworks, AI coding tools, APIs, and whatever technology they choose. Focus: Ideation • Rapid Prototyping • AI-Assisted Development • Creativity Teams face a mini competitive-coding challenge involving algorithms, logic, and DSA. Speed and accuracy matter as you compete against other builders. Focus: DSA • Algorithms • Logic • Speed • Problem Solving Teams take their ideas beyond prototypes and build a functional, deployment-ready product with real-world applicability, meaningful technical implementation, and a strong user experience. Build anything, in any domain - AI, robotics and IoT, fintech, cybersecurity, , automation, Web3 etc. Focus: Product Engineering • Deployment • Scalability • Real-World Impact No fixed problem statement. No fixed domain. No fixed technology stack. Whether you're creating an AI agent, robotics system, fintech platform, healthcare solution, automation tool, or something nobody has thought of yet, HackVerse gives you the freedom to build what you believe in. HackVerse isn't just a sequence of rounds. It's a hero's journey . You start as a builder entering the Web. Each sprint introduces a new challenge, pushing your team to think faster, solve harder problems, and build better. By the end of the 24 hours, your mission is simple: HackVerse is built for people who don't want to just attend a hackathon. It's for people who want to build under pressure, compete, experiment, collaborate, and ship something real . HackVerse: Into the Web is a SpiderMan-themed, story-driven hackathon organized by the IEEE Robotics and Automation Society (IEEE RAS), VIT Chennai Student Chapter , as part of TechnoVIT 2026 . Unlike a conventional hackathon, HackVerse is designed as a 24-hour journey through three progressively challenging sprints , taking participants from rapid ideation to competitive problem-solving and finally to building a real-world, deploy-ready product. Win SpiderMan Masks and Goodies for best innovation! Kick things off with a high-energy rapid vibe-coding challenge . Teams get limited time to turn an idea into a functional prototype using modern frameworks, AI coding tools, APIs, and whatever technology they choose. Focus: Ideation • Rapid Prototyping • AI-Assisted Development • Creativity Teams face a mini competitive-coding challenge involving algorithms, logic, and DSA. Speed and accuracy matter as you compete against other builders. Focus: DSA • Algorithms • Logic • Speed • Problem Solving Teams take their ideas beyond prototypes and build a functional, deployment-ready product with real-world applicability, meaningful technical implementation, and a strong user experience. Build anything, in any domain - AI, robotics and IoT, fintech, cybersecurity, , automation, Web3 etc. Focus: Product Engineering • Deployment • Scalability • Real-World Impact No fixed problem statement. No fixed domain. No fixed technology stack. Whether you're creating an AI agent, robotics system, fintech platform, healthcare solution, automation tool, or something nobody has thought of yet, HackVerse gives you the freedom to build what you believe in. HackVerse isn't just a sequence of rounds. It's a hero's journey . You start as a builder entering the Web. Each sprint introduces a new challenge, pushing your team to think faster, solve harder problems, and build better. By the end of the 24 hours, your mission is simple: HackVerse is built for people who don't want to just attend a hackathon. It's for people who want to build under pressure, compete, experiment, collaborate, and ship something real .",
+    "event_dates": "Sep 1 - 2, 2026",
+    "prize_amount": "$3,100 Available in Prizes",
+    "modes": "in-person",
+    "location": "Chennai, India",
+    "hackathon_page_url": "https://hackverse-into-the-web.devfolio.co//overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -324,18 +336,6 @@
     "level": null
   },
   {
-    "title": "DOMINION 2026",
-    "description": "IEEE Computer Society SRMIST, in collaboration with the HackerRank Campus Crew SRMIST, presents DOMINION 2026 — a high-energy Hybrid Buildathon where technology, innovation, problem-solving, and competitive spirit come together. DOMINION is designed to bring together developers, competitive programmers, innovators, and tech enthusiasts to build real solutions, collaborate with like-minded creators, and compete on a larger stage. 📅 2nd–3rd September 2026 📍 Offline: SRM Institute of Science and Technology, Kattankulathur 💻 Online: Participation through the official event platform ⚡ Format: Hybrid Buildathon — Offline + Online The event also reflects IEEE Computer Society SRMIST's growing international chapter network, including its collaboration with the IEEE Student Branch at Carnegie Mellon University Africa (CMU-Africa). IEEE CS SRMIST and IEEE Student Branch – CMU Africa recently established a Sister Chapter partnership connecting IEEE Region 10 (Asia-Pacific) with Region 8 (Africa)—a landmark international collaboration that brought together 100+ participants from across the globe for discussions around Agentic AI for Social Impact. This international connection represents the larger vision behind IEEE CS SRMIST: creating platforms that connect students, innovators, and technology communities across borders and encouraging responsible, human-centered innovation. With HackerRank Campus Crew SRMIST bringing its competitive programming and developer ecosystem into the collaboration, DOMINION 2026 is set to be an arena where participants don't just compete—they build, innovate, collaborate, and dominate. IEEE Computer Society SRMIST, in collaboration with the HackerRank Campus Crew SRMIST, presents DOMINION 2026 — a high-energy Hybrid Buildathon where technology, innovation, problem-solving, and competitive spirit come together. DOMINION is designed to bring together developers, competitive programmers, innovators, and tech enthusiasts to build real solutions, collaborate with like-minded creators, and compete on a larger stage. 📅 2nd–3rd September 2026 📍 Offline: SRM Institute of Science and Technology, Kattankulathur 💻 Online: Participation through the official event platform ⚡ Format: Hybrid Buildathon — Offline + Online The event also reflects IEEE Computer Society SRMIST's growing international chapter network, including its collaboration with the IEEE Student Branch at Carnegie Mellon University Africa (CMU-Africa). IEEE CS SRMIST and IEEE Student Branch – CMU Africa recently established a Sister Chapter partnership connecting IEEE Region 10 (Asia-Pacific) with Region 8 (Africa)—a landmark international collaboration that brought together 100+ participants from across the globe for discussions around Agentic AI for Social Impact. This international connection represents the larger vision behind IEEE CS SRMIST: creating platforms that connect students, innovators, and technology communities across borders and encouraging responsible, human-centered innovation. With HackerRank Campus Crew SRMIST bringing its competitive programming and developer ecosystem into the collaboration, DOMINION 2026 is set to be an arena where participants don't just compete—they build, innovate, collaborate, and dominate.",
-    "event_dates": "Sep 2 - 3, 2026",
-    "prize_amount": "$10,000 Available in Prizes",
-    "modes": "in-person",
-    "location": "Kattankulathur, India",
-    "hackathon_page_url": "https://dominion2026.devfolio.co//overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "Binary Hacks 4.0",
     "description": "Binary Hacks 4.0 is a 36-hour offline hackathon organized by The Binary Club, Department of Computer Science & Engineering (CSE) . The event brings together passionate developers, designers, and innovators to build impactful solutions for real-world challenges while fostering innovation, teamwork, and technical excellence. Whether you're a beginner or an experienced hacker, Binary Hacks 4.0 provides an exciting platform to collaborate with like-minded peers, learn from mentors, explore emerging technologies, and transform ideas into working prototypes. Join us for 36 hours of coding, creativity, collaboration, and innovation , compete for exciting cash prizes, and showcase your skills while connecting with fellow tech enthusiasts. Binary Hacks 4.0 is a 36-hour offline hackathon organized by The Binary Club, Department of Computer Science & Engineering (CSE) . The event brings together passionate developers, designers, and innovators to build impactful solutions for real-world challenges while fostering innovation, teamwork, and technical excellence. Whether you're a beginner or an experienced hacker, Binary Hacks 4.0 provides an exciting platform to collaborate with like-minded peers, learn from mentors, explore emerging technologies, and transform ideas into working prototypes. Join us for 36 hours of coding, creativity, collaboration, and innovation , compete for exciting cash prizes, and showcase your skills while connecting with fellow tech enthusiasts.",
     "event_dates": "Sep 21 - 22, 2026",
@@ -354,7 +354,7 @@
     "prize_amount": "$500 Available in Prizes",
     "modes": "in-person",
     "location": "Greater Noida, India",
-    "hackathon_page_url": "https://webcraft24.devfolio.co//",
+    "hackathon_page_url": "https://webcraft24.devfolio.co//overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -384,18 +384,6 @@
     "level": null
   },
   {
-    "title": "Recursion Edition II",
-    "description": "RECURSION — EDITION II is a 24-hour offline hackathon presented by Microsoft Innovations Club, VIT Chennai , built around one simple idea - what happens when an idea returns to itself, evolves, and becomes something new? Every idea starts somewhere. It gets built, tested, broken, rebuilt - and comes back better. That’s RECURSION. Edition II brings the loop back, with 24 hours to turn an idea into something real. VIT Chennai 24-Hour Offline Hackathon Idea Submission Deadline: 28 August 2026, 12:00 PM (Noon) Grand Finale: 3–4 September 2026 Developer Tools and AI | Fintech and Commerce | Healthtech | Smart Living | Sustainability and Climate Change | Wildcard Refer to the Track Guide for detailed track information: https://drive.google.com/file/d/1aSZ77vjnqzHjma-u51IzGJOist64Oex7/view?usp=sharing Stage 1 — Idea Submission Round (Free) Submit your idea by 30 August 2026, 9:30 PM (Noon) through the IDEA submission round. ** Stage 2 - Grand Finale ** Shortlisted teams advance to the 3-4 September 2026 offline hackathon at VIT Chennai. Want to stay updated on registrations, announcements, deadlines, and event updates? Join the official RECURSION WhatsApp group: https://chat.whatsapp.com/C6PxaPjAVfu6ejpMGHkLUf Presented by Microsoft Innovations Club VIT Chennai RECURSION — EDITION II is a 24-hour offline hackathon presented by Microsoft Innovations Club, VIT Chennai , built around one simple idea - what happens when an idea returns to itself, evolves, and becomes something new? Every idea starts somewhere. It gets built, tested, broken, rebuilt - and comes back better. That’s RECURSION. Edition II brings the loop back, with 24 hours to turn an idea into something real. VIT Chennai 24-Hour Offline Hackathon Idea Submission Deadline: 28 August 2026, 12:00 PM (Noon) Grand Finale: 3–4 September 2026 Developer Tools and AI | Fintech and Commerce | Healthtech | Smart Living | Sustainability and Climate Change | Wildcard Refer to the Track Guide for detailed track information: https://drive.google.com/file/d/1aSZ77vjnqzHjma-u51IzGJOist64Oex7/view?usp=sharing Stage 1 — Idea Submission Round (Free) Submit your idea by 30 August 2026, 9:30 PM (Noon) through the IDEA submission round. ** Stage 2 - Grand Finale ** Shortlisted teams advance to the 3-4 September 2026 offline hackathon at VIT Chennai. Want to stay updated on registrations, announcements, deadlines, and event updates? Join the official RECURSION WhatsApp group: https://chat.whatsapp.com/C6PxaPjAVfu6ejpMGHkLUf Presented by Microsoft Innovations Club VIT Chennai",
-    "event_dates": "Sep 3 - 4, 2026",
-    "prize_amount": "$9,000 Available in Prizes",
-    "modes": "in-person",
-    "location": "Melakottaiyur, India",
-    "hackathon_page_url": "https://recursion-edition.devfolio.co//overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "BOSS Battle",
     "description": "Bitshala builds and teaches Bitcoin Open Source Software — that's the \"BOSS\" in our name, and also the joke behind this one. Between cohort-based learning on Bitcoin's protocol and privacy stack, and the invite-only BOSS Summit that gathers India's sharpest Bitcoin OSS builders twice a year, we've mostly kept things small and deep. BOSS Battle flips that: it's virtual, it's open, and it's a hackathon instead of a summit. You don't need a GitHub history full of BIPs to show up. Beginners get workshops, mentors, and a community that answers questions instead of gatekeeping them. Experienced builders get a chance to finally prototype the thing they've been meaning to build, surrounded by people who actually get it. No stage, no suits — just your terminal and three boss fights between you and the leaderboard. Bitshala builds and teaches Bitcoin Open Source Software — that's the \"BOSS\" in our name, and also the joke behind this one. Between cohort-based learning on Bitcoin's protocol and privacy stack, and the invite-only BOSS Summit that gathers India's sharpest Bitcoin OSS builders twice a year, we've mostly kept things small and deep. BOSS Battle flips that: it's virtual, it's open, and it's a hackathon instead of a summit. You don't need a GitHub history full of BIPs to show up. Beginners get workshops, mentors, and a community that answers questions instead of gatekeeping them. Experienced builders get a chance to finally prototype the thing they've been meaning to build, surrounded by people who actually get it. No stage, no suits — just your terminal and three boss fights between you and the leaderboard.",
     "event_dates": "Sep 7 - Oct 5, 2026",
@@ -405,6 +393,18 @@
     "hackathon_page_url": "https://boss-battle.devfolio.co//overview",
     "status": "open",
     "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "Bharat Builds Tour",
+    "description": "",
+    "event_dates": "Sept - Dec",
+    "prize_amount": "",
+    "modes": "remote",
+    "location": "",
+    "hackathon_page_url": "https://www.wemakedevs.org/aws",
+    "status": "open",
+    "source": "WeMakeDevs",
     "level": null
   },
   {
