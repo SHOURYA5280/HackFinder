@@ -26,7 +26,7 @@
   {
     "title": "The WebMCP Challenge",
     "description": "WebMCP is an emerging open standard that lets websites expose structured tools agents can use directly. Instead of leaving agents to guess their way through your UI, you define exactly how they can use your app, so they complete tasks faster, more accurately, and more reliably. The WebMCP Challenge invites you to build something we haven’t seen before: an app that becomes meaningfully better when people and their agents can use it together. Why join Explore what new experiences that become possible when web apps can be built for people and their agents. Help shape an emerging open standard and the future of the agent-native web. The top 10 submissions will each receive $3,000 in cash, one Codex Micro, ChatGPT Pro for one year, OpenAI merch, and additional prizes from challenge supporters, subject to the official rules. Get started Learn what WebMCP enables. Read the WebMCP specification and Chrome’s developer documentation to understand how websites can expose tools to AI agents. Get inspired. Explore the WebMCP Showcase for examples of agent-native apps and ideas for what you could build , and read the WebMCP guide from OpenAI. Build and deploy. Create a new WebMCP-enabled app or add WebMCP support to an existing one. Host it on ChatGPT Sites, Cloudflare, Vercel, Render, Netlify, Shopify, or any deployment platform you choose. Test your app. Open your deployed app in ChatGPT’s in-app browser, which supports WebMCP out of the box. To test in Google Chrome, enable WebMCP using chrome://flags/#enable-webmcp-testing . Meet the Devpost plugin The Devpost Hackathons plugin runs inside Codex and includes everything you need to participate—from challenge requirements and rules to the submission flow. It can help you brainstorm ideas, plan your project, and prepare your submission without leaving Codex.",
-    "event_dates": "Aug 25 - Sep 03, 2026",
+    "event_dates": "Aug 25 - Sep 04, 2026",
     "prize_amount": "$ 35,000",
     "modes": "remote",
     "location": "Online",
@@ -84,18 +84,6 @@
     "level": null
   },
   {
-    "title": "VoltHacks",
-    "description": "About the Challenge VoltHacks 2026 is a hackathon focused on building real world solutions using hardware, IoT, and AI. Participants are encouraged to go beyond traditional software projects and create systems that interact with the physical world through sensors, embedded systems, automation, and intelligent devices. Whether you're interested in robotics, smart devices, sustainability, healthcare technology, or open innovation, VoltHacks is designed to push creativity and engineering skills toward solving meaningful problems. Tracks could include: Robotics & Embedded Systems AI + Hardware Integration Smart Health Technology Sustainability & Smart Cities Open Innovation Anything Engineering based with Impact Participants will present their projects to a panel of judges, with awards recognizing innovation, technical complexity, and real world impact. Get Started Register individually or with a team Brainstorm a project idea related to the challenge themes Build your project during the hackathon period Submit your final project on Devpost before the deadline All skill levels are welcome. Whether you're experienced with hardware or just getting started, VoltHacks is meant to be a place to learn, collaborate, and build something meaningful.",
-    "event_dates": "May 22 - Sep 05, 2026",
-    "prize_amount": "$ 35,785",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://volthacks.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
     "title": "Build, Ship, Shape: Amazon Developer Hackathon",
     "description": "<html> <head></head> <body></body> </html> Welcome to the Amazon Developer Hackathon For the first time, Fire TV, Alexa+, Ring, and Bee are all part of one global hackathon. Build for one product or use several to connect the living room, the front door, and the cloud. Get started now with our SDKs, simulators, and sample code. New to building for Amazon devices and services? We'll help you get from idea to submission with documentation and live office hours. Use our AI tools to prototype and troubleshoot along the way. Choose a track and show off what you build! 🚀 Why join? Be part of the first hackathon where Fire TV, Alexa+, Ring, and Bee are all open to outside developers at once Your product feedback goes directly to the teams building Fire TV, Alexa+, Ring, and Bee Compete for a share of $190K value of cash and AWS credits, plus a 1:1 meeting with the Amazon Developer team for track winners Get Started Pick your track: Fire TV, Alexa+, Bee, or Ring Set up the developer environment for your track (see Resources ) Review the track details and requirements to start building Submit your working demo, code repo, and product feedback by the deadline",
     "event_dates": "Aug 31 - Oct 23, 2026",
@@ -103,6 +91,18 @@
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://amazonappdev2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
+    "title": "VoltHacks",
+    "description": "About the Challenge VoltHacks 2026 is a hackathon focused on building real world solutions using hardware, IoT, and AI. Participants are encouraged to go beyond traditional software projects and create systems that interact with the physical world through sensors, embedded systems, automation, and intelligent devices. Whether you're interested in robotics, smart devices, sustainability, healthcare technology, or open innovation, VoltHacks is designed to push creativity and engineering skills toward solving meaningful problems. Tracks could include: Robotics & Embedded Systems AI + Hardware Integration Smart Health Technology Sustainability & Smart Cities Open Innovation Anything Engineering based with Impact Participants will present their projects to a panel of judges, with awards recognizing innovation, technical complexity, and real world impact. Get Started Register individually or with a team Brainstorm a project idea related to the challenge themes Build your project during the hackathon period Submit your final project on Devpost before the deadline All skill levels are welcome. Whether you're experienced with hardware or just getting started, VoltHacks is meant to be a place to learn, collaborate, and build something meaningful.",
+    "event_dates": "May 22 - Sep 05, 2026",
+    "prize_amount": "$ 35,785",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://volthacks.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
