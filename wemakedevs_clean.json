@@ -12,14 +12,14 @@
     "level": null
   },
   {
-    "title": "The Rote Playoffs Hackathon",
+    "title": "First Commit",
     "description": "",
-    "event_dates": "Sep 1–6",
+    "event_dates": "Sep 17–20",
     "prize_amount": "",
     "modes": "remote",
     "location": "",
-    "hackathon_page_url": "https://luma.com/rotehack",
-    "status": "running",
+    "hackathon_page_url": "https://www.wemakedevs.org/aws/first-commit",
+    "status": "open",
     "source": "WeMakeDevs",
     "level": null
   },
