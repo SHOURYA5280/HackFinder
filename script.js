@@ -61,7 +61,7 @@ const DATA = [
   },
   {
     "title": "Build, Ship, Shape: Amazon Developer Hackathon",
-    "description": "Welcome to the Amazon Developer Hackathon For the first time, Fire TV, Alexa+, Ring, and Bee are all part of one global hackathon. Build for one product or use several to connect the living room, the front door, and the cloud. Get started now with our SDKs, simulators, and sample code. New to building for Amazon devices and services? We'll help you get from idea to submission with documentation and live office hours. Use our AI tools to prototype and troubleshoot along the way. Choose a track and show off what you build! 🚀 Why join? Be part of the first hackathon where Fire TV, Alexa+, Ring, and Bee are all open to outside developers at once Your product feedback goes directly to the teams building Fire TV, Alexa+, Ring, and Bee Compete for a share of $190K value of cash and AWS credits, plus a 1:1 meeting with the Amazon Developer team for track winners Get Started Pick your track: Fire TV, Alexa+, Bee, or Ring Set up the developer environment for your track (see Resources ) Review the track details and requirements to start building Submit your working demo, code repo, and product feedback by the deadline",
+    "description": "Build across Amazon Devices and shape what's next.",
     "event_dates": "Aug 31 - Oct 23, 2026",
     "prize_amount": "$ 138,000",
     "modes": "remote",
@@ -79,18 +79,6 @@ const DATA = [
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://call-e.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "Agentic Cinema: The Blockbuster Hackathon",
-    "description": "🎬 Lights. Camera. Code. Calling all ecosystem architects and autonomous builders! Step onto the studio lot and transform real-world enterprise chaos into a seamless cinematic production with Gemini. Join Google Cloud and our elite, star-studded partner ecosystem for a first-of-its-kind Summer Blockbuster hackathon! In the era of Agentic AI, writing raw lines of code is just the background noise. The real magic happens when you orchestrate the system. Whether you want to play the visionary Director building production-ready autonomous agent networks, the Technical Producer connecting secure data pipelines via managed MCP servers, or the Studio Head enforcing Cloud IAM security and governance across multi-agent workflows—the backlot is yours. Vibe code with Gemini Enterprise and our leading partner technologies to cast the perfect enterprise tech stack and build the next generation of AI applications fit for the big screen. 🌟 Why Join? Direct Your AI Crew: Get hands-on with Gemini Enterprise Agent Platform and cutting-edge partner tools to transition your local ideas into production-scale architectures. Walk the Red Carpet: Pitch your automated production workflows directly to executive judges, enterprise experts, and elite engineering leaders. 🏆 The Box Office Prizes There are three identical prize buckets—one for each of our featured partner tracks. Instead of a single, crowded pool, you are competing directly within the specific \"studio track\" of your chosen partner technology. How to Secure the Greenlight: Cast Your Co-Star: Choose the partner platform that holds the data or application workflows your agent needs to interact with. Build with Gemini Enterprise: Build your agentic workflow on Google Cloud using the Gemini Enterprise Agent Platform . Connect to your partner tool using robust enterprise pipelines, API frameworks, or managed protocol adapters. Dominate Your Track: Show off a deterministic, multi-step agent that solves enterprise friction. You will be judged exclusively against other builders inside your chosen partner track.",
-    "event_dates": "Jul 27 - Sep 09, 2026",
-    "prize_amount": "$ 75,000",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://agentic-cinema.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
@@ -127,18 +115,6 @@ const DATA = [
     "modes": "in-person",
     "location": "Kolkata, India",
     "hackathon_page_url": "https://hackinverse-s1.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
-    "title": "Innosprint2.0",
-    "description": "Welcome to the epicentre of innovation and collaboration – the D4 Community's Hackathon at CGC Jhanjeri! What We Are: D4 Community is proud to present an exhilarating hackathon hosted at CGC Jhanjeri, where we bring together budding tech enthusiasts, aspiring innovators, and problem solvers under one roof. With a passion for technology and a drive for innovation, we're dedicated to fostering an environment where bright minds can thrive. Our Mission: Our mission is simple yet profound: to challenge participants to harness their creativity, coding skills, and teamwork to solve real-world problems. We believe in the transformative power of collaboration and coding, and we aim to inspire the next generation of tech leaders. What to Expect: Expect an adrenaline-fueled 24 hours of non-stop coding, brainstorming, and networking. Participants will tackle exciting challenges, engage in workshops, and have the opportunity to win fantastic prizes. HealthTech Innovation : Dive into the world of healthcare and wellness by developing solutions that can improve medical services, patient care, or health monitoring. EdTech Revolution : Revolutionize education with technology. Create tools and platforms that enhance the learning experience, making education more accessible and engaging. Smart Cities and IoT : Innovate for the future of urban living. Build IoT solutions that can make cities smarter, more efficient, and better connected. Agriculture and AgriTech : Explore innovations in agriculture. Build tools or systems that can improve crop yield, farm management, or address food security challenges. Blockchain and Cryptocurrency : Dive into the world of blockchain technology and cryptocurrencies. Work on projects related to decentralized finance (DeFi), NFTs (Non-Fungible Tokens), or blockchain-based voting systems. Robotics and Automation : Explore the possibilities of robotics and automation. Build robots or automated systems that can assist in various industries, from manufacturing to healthcare. E-Commerce Enhancement : Explore ways to enhance the e-commerce experience. Develop solutions for better online shopping, personalized recommendations, or streamlined supply chain management. Open Theme : Don't see a theme that fits your idea? No problem! You're welcome to participate with any tech-related project that excites you. Why Join Us: Join us to broaden your horizons, sharpen your skills, and make lifelong connections with like-minded individuals. Whether you're a seasoned coder or just getting started, the D4 Community's Hackathon at CGC Jhanjeri is the place to be. Stay Tuned: Stay tuned for updates, registration details, and exciting announcements as we gear up for an unforgettable hackathon experience. Together, let's push the boundaries of innovation and make a positive impact on the world through technology. Mark your calendars and get ready to code your way to success with D4 Community's Hackathon at CGC Jhanjeri! Welcome to the epicentre of innovation and collaboration – the D4 Community's Hackathon at CGC Jhanjeri! What We Are: D4 Community is proud to present an exhilarating hackathon hosted at CGC Jhanjeri, where we bring together budding tech enthusiasts, aspiring innovators, and problem solvers under one roof. With a passion for technology and a drive for innovation, we're dedicated to fostering an environment where bright minds can thrive. Our Mission: Our mission is simple yet profound: to challenge participants to harness their creativity, coding skills, and teamwork to solve real-world problems. We believe in the transformative power of collaboration and coding, and we aim to inspire the next generation of tech leaders. What to Expect: Expect an adrenaline-fueled 24 hours of non-stop coding, brainstorming, and networking. Participants will tackle exciting challenges, engage in workshops, and have the opportunity to win fantastic prizes. HealthTech Innovation : Dive into the world of healthcare and wellness by developing solutions that can improve medical services, patient care, or health monitoring. EdTech Revolution : Revolutionize education with technology. Create tools and platforms that enhance the learning experience, making education more accessible and engaging. Smart Cities and IoT : Innovate for the future of urban living. Build IoT solutions that can make cities smarter, more efficient, and better connected. Agriculture and AgriTech : Explore innovations in agriculture. Build tools or systems that can improve crop yield, farm management, or address food security challenges. Blockchain and Cryptocurrency : Dive into the world of blockchain technology and cryptocurrencies. Work on projects related to decentralized finance (DeFi), NFTs (Non-Fungible Tokens), or blockchain-based voting systems. Robotics and Automation : Explore the possibilities of robotics and automation. Build robots or automated systems that can assist in various industries, from manufacturing to healthcare. E-Commerce Enhancement : Explore ways to enhance the e-commerce experience. Develop solutions for better online shopping, personalized recommendations, or streamlined supply chain management. Open Theme : Don't see a theme that fits your idea? No problem! You're welcome to participate with any tech-related project that excites you. Why Join Us: Join us to broaden your horizons, sharpen your skills, and make lifelong connections with like-minded individuals. Whether you're a seasoned coder or just getting started, the D4 Community's Hackathon at CGC Jhanjeri is the place to be. Stay Tuned: Stay tuned for updates, registration details, and exciting announcements as we gear up for an unforgettable hackathon experience. Together, let's push the boundaries of innovation and make a positive impact on the world through technology. Mark your calendars and get ready to code your way to success with D4 Community's Hackathon at CGC Jhanjeri!",
-    "event_dates": "Oct 10 - 11, 2026",
-    "prize_amount": "",
-    "modes": "in-person",
-    "location": "India",
-    "hackathon_page_url": "https://innosprint-3.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -193,7 +169,7 @@ const DATA = [
   },
   {
     "title": "Recursive",
-    "description": "Maybe the best ideas start when you simply sit down. Maybe the best ideas start when you simply sit down. RECURSIVE — Shift-8 Hackathon 2026 | The First ACM-Sponsored Hackathon at GNIT RECURSIVE is the first ACM-sponsored hackathon at Guru Nanak Institute of Technology (GNIT), organized by the Department of Information Technology, GNIT, in association with ACM and the GNIT Kolkata ACM Student Chapter. RECURSIVE brings together 100–120 students, developers, designers, and problem-solvers for an intense 8-hour in-person hackathon at GNIT, Kolkata. Working in teams of 2–4, participants will take on original real-world challenges and transform their ideas into functional solutions through technology, creativity, and collaboration. From ideation and development to UI/UX and practical implementation, RECURSIVE is designed to give participants the freedom to experiment, build, iterate, and bring meaningful ideas to life within a single, high-energy sprint. Event: RECURSIVE — Shift-8 Hackathon Venue: Guru Nanak Institute of Technology, Kolkata Duration: 8 Hours of Building & Innovation Date: 8th October 2026 Team Size: 2–4 Members Build functional solutions to original real-world challenges Explore technology and innovation across different domains Collaborate with like-minded developers, designers, and problem-solvers Learn, experiment, and iterate through an intense 8-hour building experience Showcase your ideas to mentors and judges Win exciting prizes, certificates, and goodies At RECURSIVE, we believe that great ideas are not created in a single moment. They evolve through iterations — thinking, building, testing, learning, and trying again. Whether you are stepping into your first hackathon or are already an experienced builder, RECURSIVE — Shift-8 Hackathon gives you the space, time, and community to sit down, start building, and turn an idea into something real. Maybe the best ideas start when you simply sit down. 🪑 Follow us on: Hackathon website - https://www.recursiveacm.in LinkedIn - https://www.linkedin.com/in/gnit-kolkata-acm-student-chapter Instagram - https://www.instagram.com/gnitkolkataacm?igsi=MWMwMGtxdW5wcjBzbA== Facebook - https://www.facebook.com/share/1BsT4oB1t4/ Maybe the best ideas start when you simply sit down. Maybe the best ideas start when you simply sit down. RECURSIVE — Shift-8 Hackathon 2026 | The First ACM-Sponsored Hackathon at GNIT RECURSIVE is the first ACM-sponsored hackathon at Guru Nanak Institute of Technology (GNIT), organized by the Department of Information Technology, GNIT, in association with ACM and the GNIT Kolkata ACM Student Chapter. RECURSIVE brings together 100–120 students, developers, designers, and problem-solvers for an intense 8-hour in-person hackathon at GNIT, Kolkata. Working in teams of 2–4, participants will take on original real-world challenges and transform their ideas into functional solutions through technology, creativity, and collaboration. From ideation and development to UI/UX and practical implementation, RECURSIVE is designed to give participants the freedom to experiment, build, iterate, and bring meaningful ideas to life within a single, high-energy sprint. Event: RECURSIVE — Shift-8 Hackathon Venue: Guru Nanak Institute of Technology, Kolkata Duration: 8 Hours of Building & Innovation Date: 8th October 2026 Team Size: 2–4 Members Build functional solutions to original real-world challenges Explore technology and innovation across different domains Collaborate with like-minded developers, designers, and problem-solvers Learn, experiment, and iterate through an intense 8-hour building experience Showcase your ideas to mentors and judges Win exciting prizes, certificates, and goodies At RECURSIVE, we believe that great ideas are not created in a single moment. They evolve through iterations — thinking, building, testing, learning, and trying again. Whether you are stepping into your first hackathon or are already an experienced builder, RECURSIVE — Shift-8 Hackathon gives you the space, time, and community to sit down, start building, and turn an idea into something real. Maybe the best ideas start when you simply sit down. 🪑 Follow us on: Hackathon website - https://www.recursiveacm.in LinkedIn - https://www.linkedin.com/in/gnit-kolkata-acm-student-chapter Instagram - https://www.instagram.com/gnitkolkataacm?igsi=MWMwMGtxdW5wcjBzbA== Facebook - https://www.facebook.com/share/1BsT4oB1t4/",
+    "description": "Maybe the best ideas start when you simply sit down. Maybe the best ideas start when you simply sit down. RECURSIVE — Shift-8 Hackathon 2026 | The First ACM-Sponsored Hackathon at GNIT RECURSIVE is the first ACM-sponsored hackathon at Guru Nanak Institute of Technology (GNIT) , organized by the Department of Information Technology, GNIT , in association with ACM and the GNIT Kolkata ACM Student Chapter . RECURSIVE brings together students, developers, designers, and problem-solvers for an intense 8-hour in-person hackathon at GNIT, Kolkata. Working in teams of 2–4 , participants will take on original real-world challenges and transform their ideas into functional solutions through technology, creativity, and collaboration. From ideation and development to UI/UX and practical implementation, RECURSIVE is designed to give participants the freedom to experiment, build, iterate, and bring meaningful ideas to life within a single, high-energy sprint. Event: RECURSIVE — Shift-8 Hackathon Venue: Guru Nanak Institute of Technology, Kolkata Duration: 8 Hours of Building & Innovation Date: 8th October 2026 Team Size: 2–4 Members Build functional solutions to original real-world challenges Explore technology and innovation across different domains Collaborate with like-minded developers, designers, and problem-solvers Learn, experiment, and iterate through an intense 8-hour building experience Showcase your ideas to mentors and judges Win exciting prizes, certificates, and goodies At RECURSIVE, we believe that great ideas are not created in a single moment. They evolve through iterations — thinking, building, testing, learning, and trying again. Whether you are stepping into your first hackathon or are already an experienced builder, RECURSIVE — Shift-8 Hackathon gives you the space, time, and community to sit down, start building, and turn an idea into something real. Maybe the best ideas start when you simply sit down. 🪑 Maybe the best ideas start when you simply sit down. Maybe the best ideas start when you simply sit down. RECURSIVE — Shift-8 Hackathon 2026 | The First ACM-Sponsored Hackathon at GNIT RECURSIVE is the first ACM-sponsored hackathon at Guru Nanak Institute of Technology (GNIT) , organized by the Department of Information Technology, GNIT , in association with ACM and the GNIT Kolkata ACM Student Chapter . RECURSIVE brings together students, developers, designers, and problem-solvers for an intense 8-hour in-person hackathon at GNIT, Kolkata. Working in teams of 2–4 , participants will take on original real-world challenges and transform their ideas into functional solutions through technology, creativity, and collaboration. From ideation and development to UI/UX and practical implementation, RECURSIVE is designed to give participants the freedom to experiment, build, iterate, and bring meaningful ideas to life within a single, high-energy sprint. Event: RECURSIVE — Shift-8 Hackathon Venue: Guru Nanak Institute of Technology, Kolkata Duration: 8 Hours of Building & Innovation Date: 8th October 2026 Team Size: 2–4 Members Build functional solutions to original real-world challenges Explore technology and innovation across different domains Collaborate with like-minded developers, designers, and problem-solvers Learn, experiment, and iterate through an intense 8-hour building experience Showcase your ideas to mentors and judges Win exciting prizes, certificates, and goodies At RECURSIVE, we believe that great ideas are not created in a single moment. They evolve through iterations — thinking, building, testing, learning, and trying again. Whether you are stepping into your first hackathon or are already an experienced builder, RECURSIVE — Shift-8 Hackathon gives you the space, time, and community to sit down, start building, and turn an idea into something real. Maybe the best ideas start when you simply sit down. 🪑",
     "event_dates": "Oct 8, 2026",
     "prize_amount": "",
     "modes": "in-person",
@@ -204,13 +180,13 @@ const DATA = [
     "level": null
   },
   {
-    "title": "DEFINE 4.0",
-    "description": "The Department of Computer Science and Engineering of Mar Baselios College of Engineering and Technology , Thiruvananthapuram proudly present the fourth edition of DEFINE, an exclusive, exciting and stimulating 24-Hour Hackathon . Finding problems and building solutions is what makes a practicing engineer. Define is a supporting and encouraging way to bring the spotlight to students. Being present at our event would give you the chance to see how the attendees surge themselves to work together, and make life easier with the help of technology. The Department of Computer Science and Engineering of Mar Baselios College of Engineering and Technology , Thiruvananthapuram proudly present the fourth edition of DEFINE, an exclusive, exciting and stimulating 24-Hour Hackathon . Finding problems and building solutions is what makes a practicing engineer. Define is a supporting and encouraging way to bring the spotlight to students. Being present at our event would give you the chance to see how the attendees surge themselves to work together, and make life easier with the help of technology.",
+    "title": "HACKBIOS 2K26",
+    "description": "The HackBIOS is proudly organized by the Shri Shankaracharya Technical Campus, Bhilai, Chhattisgarh, India. In its previous edition, the offline hackathon witnessed overwhelming participation, accommodating over 70 teams of four members each. The event proved to be a remarkable success, leaving a lasting impression on participants and audiences alike. The objective is to encourage young minds to explore the realm of technology, engage with the most recent innovations, and connect with vibrant tech communities. More than a competition, HackBIOS serves as a hub of innovation, collaboration, and talent development, fostering the spirit of technology-driven growth. For further information join Discord Channel - https://discord.com/invite/kDpNBsU3qt The HackBIOS is proudly organized by the Shri Shankaracharya Technical Campus, Bhilai, Chhattisgarh, India. In its previous edition, the offline hackathon witnessed overwhelming participation, accommodating over 70 teams of four members each. The event proved to be a remarkable success, leaving a lasting impression on participants and audiences alike. The objective is to encourage young minds to explore the realm of technology, engage with the most recent innovations, and connect with vibrant tech communities. More than a competition, HackBIOS serves as a hub of innovation, collaboration, and talent development, fostering the spirit of technology-driven growth. For further information join Discord Channel - https://discord.com/invite/kDpNBsU3qt",
     "event_dates": "Oct 9 - 10, 2026",
-    "prize_amount": "$550 Available in Prizes",
+    "prize_amount": "$1,055 Available in Prizes",
     "modes": "in-person",
-    "location": "Thiruvananthapuram, India",
-    "hackathon_page_url": "https://define4.devfolio.co/overview",
+    "location": "Junwani, India",
+    "hackathon_page_url": "https://hackbios2k26.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -228,13 +204,13 @@ const DATA = [
     "level": null
   },
   {
-    "title": "HACKBIOS 2K26",
-    "description": "The HackBIOS is proudly organized by the Shri Shankaracharya Technical Campus, Bhilai, Chhattisgarh, India. In its previous edition, the offline hackathon witnessed overwhelming participation, accommodating over 70 teams of four members each. The event proved to be a remarkable success, leaving a lasting impression on participants and audiences alike. The objective is to encourage young minds to explore the realm of technology, engage with the most recent innovations, and connect with vibrant tech communities. More than a competition, HackBIOS serves as a hub of innovation, collaboration, and talent development, fostering the spirit of technology-driven growth. For further information join Discord Channel - https://discord.com/invite/kDpNBsU3qt The HackBIOS is proudly organized by the Shri Shankaracharya Technical Campus, Bhilai, Chhattisgarh, India. In its previous edition, the offline hackathon witnessed overwhelming participation, accommodating over 70 teams of four members each. The event proved to be a remarkable success, leaving a lasting impression on participants and audiences alike. The objective is to encourage young minds to explore the realm of technology, engage with the most recent innovations, and connect with vibrant tech communities. More than a competition, HackBIOS serves as a hub of innovation, collaboration, and talent development, fostering the spirit of technology-driven growth. For further information join Discord Channel - https://discord.com/invite/kDpNBsU3qt",
+    "title": "DEFINE 4.0",
+    "description": "The Department of Computer Science and Engineering of Mar Baselios College of Engineering and Technology , Thiruvananthapuram proudly present the fourth edition of DEFINE, an exclusive, exciting and stimulating 24-Hour Hackathon . Finding problems and building solutions is what makes a practicing engineer. Define is a supporting and encouraging way to bring the spotlight to students. Being present at our event would give you the chance to see how the attendees surge themselves to work together, and make life easier with the help of technology. The Department of Computer Science and Engineering of Mar Baselios College of Engineering and Technology , Thiruvananthapuram proudly present the fourth edition of DEFINE, an exclusive, exciting and stimulating 24-Hour Hackathon . Finding problems and building solutions is what makes a practicing engineer. Define is a supporting and encouraging way to bring the spotlight to students. Being present at our event would give you the chance to see how the attendees surge themselves to work together, and make life easier with the help of technology.",
     "event_dates": "Oct 9 - 10, 2026",
-    "prize_amount": "$1,055 Available in Prizes",
+    "prize_amount": "$550 Available in Prizes",
     "modes": "in-person",
-    "location": "Junwani, India",
-    "hackathon_page_url": "https://hackbios2k26.devfolio.co/overview",
+    "location": "Thiruvananthapuram, India",
+    "hackathon_page_url": "https://define4.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -261,6 +237,18 @@ const DATA = [
     "hackathon_page_url": "https://www.wemakedevs.org/hackathons/falkordb",
     "status": "open",
     "source": "WeMakeDevs",
+    "level": null
+  },
+  {
+    "title": "GatewayHacks 2026 | Software & AI",
+    "description": "About the challenge Welcome to GatewayHacks 2026, the flagship virtual hackathon presented by the Gateway nonprofit organization! 🚀 At Gateway, our mission is to open doors and break down barriers. We believe that the next generation of developers, designers, and innovators holds the key to solving some of humanity’s biggest challenges. This fully virtual, 4-week hackathon challenges you to build software, hardware, or AI solutions that create tangible social good. Whether you are a seasoned machine learning engineer or a high school student writing your first lines of HTML, there is a place for you here. Get started 1. Register: Click \"Join Hackathon\" on this Devpost page. 2. Mandatory Join the Community: Join our official Gateway Discord Server to find teammates, chat with mentors, and get real-time updates. https://discord.gg/XgsX3f7JV 3. Form a Team: You can hack solo or form a team of up to 4 members. 4. Build & Submit: You have 4 weeks to build your prototype. Submit your project on Devpost with a link to your public code repository (GitHub) and a 3-minute video demo explaining how it works.",
+    "event_dates": "Sep 01 - Oct 02, 2026",
+    "prize_amount": "$ 1,007,085",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://gatewayhacks-2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
     "level": null
   },
   {
@@ -336,18 +324,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "Builders Day by HackUnion",
-    "description": "Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day. Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day.",
-    "event_dates": "Sep 26, 2026",
-    "prize_amount": "$350 Available in Prizes",
-    "modes": "in-person",
-    "location": "Hyderabad, India",
-    "hackathon_page_url": "https://builders-day-hackunion.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "GlitchFiesta",
     "description": "Devfolio ke About section ke liye direct markdown template: 🚀 About GlitchFiesta Welcome to GlitchFiesta, where bugs turn into breakthroughs and problems turn into prototypes. Driven by our motto, \"Code the Chaos,\" GlitchFiesta brings together ambitious student developers, designers, and innovators under one roof to build real-world solutions in high-intensity sprints. Whether you are hacking your first web app or integrating advanced machine learning pipelines, this is your playground to experiment, fail fast, and build fearlessly. 🔥 Why Participate? Devfolio ke About section ke liye direct markdown template: 🚀 About GlitchFiesta Welcome to GlitchFiesta, where bugs turn into breakthroughs and problems turn into prototypes. Driven by our motto, \"Code the Chaos,\" GlitchFiesta brings together ambitious student developers, designers, and innovators under one roof to build real-world solutions in high-intensity sprints. Whether you are hacking your first web app or integrating advanced machine learning pipelines, this is your playground to experiment, fail fast, and build fearlessly. 🔥 Why Participate?",
     "event_dates": "Sep 26, 2026",
@@ -355,6 +331,18 @@ const DATA = [
     "modes": "in-person",
     "location": "Kanpur, India",
     "hackathon_page_url": "https://glitchfiesta2026.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "Builders Day by HackUnion",
+    "description": "Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day. Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day.",
+    "event_dates": "Sep 26, 2026",
+    "prize_amount": "$350 Available in Prizes",
+    "modes": "in-person",
+    "location": "Hyderabad, India",
+    "hackathon_page_url": "https://builders-day-hackunion.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -381,6 +369,18 @@ const DATA = [
     "hackathon_page_url": "https://www.wemakedevs.org/aws",
     "status": "open",
     "source": "WeMakeDevs",
+    "level": null
+  },
+  {
+    "title": "Hefty-Hacks",
+    "description": "Hefty Hacks is a fully-online Finance × Trading hackathon presented by TechZap . Over one intense sprint, engineers, quants and designers turn market chaos into working product — trading systems, market predictors, fintech, risk engines, DeFi and everything in between. Pick a niche. Go absurdly deep. Ship something the street hasn't seen yet. 🌟 Exclusive Career Opportunity : The Top 10 teams will get a chance to participate in direct hiring rounds with leading companies and fast-growing startups. (Selection for interviews and hiring is solely at the discretion of the participating companies and subject to their individual eligibility criteria and recruitment policies.) Finance. Trading. Innovation. — one laptop, a thesis worth defending, and 36 hours to prove it. The markets never sleep, and neither do great builders. Hefty Hacks challenges you to build at the intersection of finance and trading — from high-frequency execution engines to market predictors, robo-advisors, fraud radars and on-chain quant tooling. There's one rule that decides winners: go narrow. Anyone can build \"a trading app.\" The teams that win pick a niche so specific it sounds obsessive — then own it. Build on either track — or fuse them into something nobody has shipped yet. Reinvent how money moves, grows and stays safe — on-chain or off. Combine both tracks into something genuinely unique. Generating your idea straight from an AI is strongly discouraged — judges can smell a generated pitch, and a borrowed thesis has no conviction behind it. Instead: Your niche, AI's leverage. Originality is the edge we score for. A sharp, unique idea executed well beats a broad idea half-built. Hefty Hacks is built and run by TechZap — bringing builders together to disrupt finance. Hefty Hacks is a fully-online Finance × Trading hackathon presented by TechZap . Over one intense sprint, engineers, quants and designers turn market chaos into working product — trading systems, market predictors, fintech, risk engines, DeFi and everything in between. Pick a niche. Go absurdly deep. Ship something the street hasn't seen yet. 🌟 Exclusive Career Opportunity : The Top 10 teams will get a chance to participate in direct hiring rounds with leading companies and fast-growing startups. (Selection for interviews and hiring is solely at the discretion of the participating companies and subject to their individual eligibility criteria and recruitment policies.) Finance. Trading. Innovation. — one laptop, a thesis worth defending, and 36 hours to prove it. The markets never sleep, and neither do great builders. Hefty Hacks challenges you to build at the intersection of finance and trading — from high-frequency execution engines to market predictors, robo-advisors, fraud radars and on-chain quant tooling. There's one rule that decides winners: go narrow. Anyone can build \"a trading app.\" The teams that win pick a niche so specific it sounds obsessive — then own it. Build on either track — or fuse them into something nobody has shipped yet. Reinvent how money moves, grows and stays safe — on-chain or off. Combine both tracks into something genuinely unique. Generating your idea straight from an AI is strongly discouraged — judges can smell a generated pitch, and a borrowed thesis has no conviction behind it. Instead: Your niche, AI's leverage. Originality is the edge we score for. A sharp, unique idea executed well beats a broad idea half-built. Hefty Hacks is built and run by TechZap — bringing builders together to disrupt finance.",
+    "event_dates": "",
+    "prize_amount": "",
+    "modes": "remote",
+    "location": "",
+    "hackathon_page_url": "https://hefty-hacks.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
     "level": null
   }
 ];
@@ -532,7 +532,7 @@ clearDateButton.addEventListener("click", () => {
 });
 
 // Header stats
-document.getElementById("last-checked-date").textContent = "Sep 9, 2026";
+document.getElementById("last-checked-date").textContent = "Sep 10, 2026";
 document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
   (h) => h.status === "open" || h.status === "running",
 ).length;
