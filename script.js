@@ -61,7 +61,7 @@ const DATA = [
   },
   {
     "title": "Build, Ship, Shape: Amazon Developer Hackathon",
-    "description": "Build across Amazon Devices and shape what's next.",
+    "description": "Welcome to the Amazon Developer Hackathon For the first time, Fire TV, Alexa+, Ring, and Bee are all part of one global hackathon. Build for one product or use several to connect the living room, the front door, and the cloud. Get started now with our SDKs, simulators, and sample code. New to building for Amazon devices and services? We'll help you get from idea to submission with documentation and live office hours. Use our AI tools to prototype and troubleshoot along the way. Choose a track and show off what you build! 🚀 Why join? Be part of the first hackathon where Fire TV, Alexa+, Ring, and Bee are all open to outside developers at once Your product feedback goes directly to the teams building Fire TV, Alexa+, Ring, and Bee Compete for a share of $190K value of cash and AWS credits, plus a 1:1 meeting with the Amazon Developer team for track winners Get Started Pick your track: Fire TV, Alexa+, Bee, or Ring Set up the developer environment for your track (see Resources ) Review the track details and requirements to start building Submit your working demo, code repo, and product feedback by the deadline",
     "event_dates": "Aug 31 - Oct 23, 2026",
     "prize_amount": "$ 138,000",
     "modes": "remote",
@@ -144,6 +144,18 @@ const DATA = [
     "level": null
   },
   {
+    "title": "HACKER HOUSE GOA 2026",
+    "description": "Hacker House Goa 2026 is India's premier builder residency - where the best developers, designers, marketers, and AI-native creators don't just hack, they ship. For 4 days at a private beach resort in Goa, 247 selected builders will live under one roof - building, scaling, launching, and marketing real products. Just focused building with mentors, VCs, and ecosystem leaders in the same building as you. Most hackathons give you 36 hours, a sleepless weekend, and a GitHub repo nobody opens on Monday. Hacker House Goa gives you 4 days to ship something real. HHG 2024 brought 6,800+ registrations, 390+ hackers, and 100 projects - several of which went on to receive ecosystem funding, ship on mainnet, and gain traction on new chains. In 2026, we go bigger. AI × Crypto. Multichain. Goa. Powered by 2:47PM Studio - APAC & MENA's premier Web3 Ecosystem Growth and Venture Studio. Hacker House Goa 2026 is India's premier builder residency - where the best developers, designers, marketers, and AI-native creators don't just hack, they ship. For 4 days at a private beach resort in Goa, 247 selected builders will live under one roof - building, scaling, launching, and marketing real products. Just focused building with mentors, VCs, and ecosystem leaders in the same building as you. Most hackathons give you 36 hours, a sleepless weekend, and a GitHub repo nobody opens on Monday. Hacker House Goa gives you 4 days to ship something real. HHG 2024 brought 6,800+ registrations, 390+ hackers, and 100 projects - several of which went on to receive ecosystem funding, ship on mainnet, and gain traction on new chains. In 2026, we go bigger. AI × Crypto. Multichain. Goa. Powered by 2:47PM Studio - APAC & MENA's premier Web3 Ecosystem Growth and Venture Studio.",
+    "event_dates": "Oct 28 - 31, 2026",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "India",
+    "hackathon_page_url": "https://hacker-house-goa-2026.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "Codeutsava X.0",
     "description": "CODEUTSAVA isn’t just an event—it’s a magnificent celebration of code ! Hosted annually by the esteemed Turing Club of Programmers , it acts as a magnet for coding enthusiasts from across the nation . With a mission to ignite a vibrant coding culture in the student community, CodeUtsava unleashes an electrifying lineup : immersive workshops , neuro-igniting hackathons , mind-bending coding competitions , epic gaming battles , and enlightening mic sessions — we’ve got it all (and more)! And no, we don’t say “Pack Up!!” there. CodeUtsava goes beyond the screen , unlocking the boundless potential of students to tackle real-world problems of public interest . Join this extravaganza of algorithms , creativity , and camaraderie —and let’s script a brighter future together ! CODEUTSAVA isn’t just an event—it’s a magnificent celebration of code ! Hosted annually by the esteemed Turing Club of Programmers , it acts as a magnet for coding enthusiasts from across the nation . With a mission to ignite a vibrant coding culture in the student community, CodeUtsava unleashes an electrifying lineup : immersive workshops , neuro-igniting hackathons , mind-bending coding competitions , epic gaming battles , and enlightening mic sessions — we’ve got it all (and more)! And no, we don’t say “Pack Up!!” there. CodeUtsava goes beyond the screen , unlocking the boundless potential of students to tackle real-world problems of public interest . Join this extravaganza of algorithms , creativity , and camaraderie —and let’s script a brighter future together !",
     "event_dates": "Oct 3 - 4, 2026",
@@ -180,18 +192,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "HACKBIOS 2K26",
-    "description": "The HackBIOS is proudly organized by the Shri Shankaracharya Technical Campus, Bhilai, Chhattisgarh, India. In its previous edition, the offline hackathon witnessed overwhelming participation, accommodating over 70 teams of four members each. The event proved to be a remarkable success, leaving a lasting impression on participants and audiences alike. The objective is to encourage young minds to explore the realm of technology, engage with the most recent innovations, and connect with vibrant tech communities. More than a competition, HackBIOS serves as a hub of innovation, collaboration, and talent development, fostering the spirit of technology-driven growth. For further information join Discord Channel - https://discord.com/invite/kDpNBsU3qt The HackBIOS is proudly organized by the Shri Shankaracharya Technical Campus, Bhilai, Chhattisgarh, India. In its previous edition, the offline hackathon witnessed overwhelming participation, accommodating over 70 teams of four members each. The event proved to be a remarkable success, leaving a lasting impression on participants and audiences alike. The objective is to encourage young minds to explore the realm of technology, engage with the most recent innovations, and connect with vibrant tech communities. More than a competition, HackBIOS serves as a hub of innovation, collaboration, and talent development, fostering the spirit of technology-driven growth. For further information join Discord Channel - https://discord.com/invite/kDpNBsU3qt",
-    "event_dates": "Oct 9 - 10, 2026",
-    "prize_amount": "$1,055 Available in Prizes",
-    "modes": "in-person",
-    "location": "Junwani, India",
-    "hackathon_page_url": "https://hackbios2k26.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "Realm Hack '26",
     "description": "Realm Hack '26 is the flagship annual hackathon organized by CFRA — Computer Science Forum: Realm of Academics, College of Engineering Karunagappally. Built for students and independent developers across India, Realm Hack brings together builders, and problem-solvers to create impactful technology solutions. The hackathon is designed as a three-round selection process, ensuring every team is evaluated on both the quality of its idea and its technical execution before the on-campus finale. Whether you're building your first project or your next big startup idea, Realm Hack '26 is your opportunity to learn, collaborate, and compete on a national stage. Full rules, submission guidelines, announcements, and Round 2 updates will be available on the official website: realmhack.in Realm Hack '26 is the flagship annual hackathon organized by CFRA — Computer Science Forum: Realm of Academics, College of Engineering Karunagappally. Built for students and independent developers across India, Realm Hack brings together builders, and problem-solvers to create impactful technology solutions. The hackathon is designed as a three-round selection process, ensuring every team is evaluated on both the quality of its idea and its technical execution before the on-campus finale. Whether you're building your first project or your next big startup idea, Realm Hack '26 is your opportunity to learn, collaborate, and compete on a national stage. Full rules, submission guidelines, announcements, and Round 2 updates will be available on the official website: realmhack.in",
     "event_dates": "Oct 9 - 10, 2026",
@@ -211,6 +211,18 @@ const DATA = [
     "modes": "in-person",
     "location": "Thiruvananthapuram, India",
     "hackathon_page_url": "https://define4.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "HACKBIOS 2K26",
+    "description": "",
+    "event_dates": "Oct 9 - 10, 2026",
+    "prize_amount": "$1,055 Available in Prizes",
+    "modes": "in-person",
+    "location": "Junwani, India",
+    "hackathon_page_url": "https://hackbios2k26.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -252,18 +264,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "HackOphobia",
-    "description": "HackOphobia 2.0 is Chandigarh University's biggest student-led hackathon, bringing together 750+ passionate developers, designers, innovators, and problem-solvers to build, experiment, and turn ideas into real-world solutions. HackOphobia 2.0 is Chandigarh University's biggest student-led hackathon, bringing together 750+ passionate developers, designers, innovators, and problem-solvers to build, experiment, and turn ideas into real-world solutions.",
-    "event_dates": "Sep 14, 2026",
-    "prize_amount": "$400 Available in Prizes",
-    "modes": "in-person",
-    "location": "Parsandan, India",
-    "hackathon_page_url": "https://hackophobia.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "DEVHACK 2026",
     "description": "IIMTU DevHack 2026 is a developer-focused hackathon organized by GDG on Campus IIMT University, bringing together students, developers, and innovators to build meaningful solutions using technology. Whether you're passionate about AI, Web Development, App Development, Cloud, or emerging technologies, DevHack is an opportunity to turn your ideas into working projects, collaborate with your team, learn from mentors, and showcase what you build. 18 September— Online Build & Submission Accepted teams will participate remotely, build their projects, connect with mentors, and submit their final solutions online. 19 September — Offline Demo & Final Evaluation Teams will present their projects in person, demonstrate their solutions, interact with judges, and compete for the top positions. Come with an idea. Build something meaningful. Make an impact. IIMTU DevHack 2026 is a developer-focused hackathon organized by GDG on Campus IIMT University, bringing together students, developers, and innovators to build meaningful solutions using technology. Whether you're passionate about AI, Web Development, App Development, Cloud, or emerging technologies, DevHack is an opportunity to turn your ideas into working projects, collaborate with your team, learn from mentors, and showcase what you build. 18 September— Online Build & Submission Accepted teams will participate remotely, build their projects, connect with mentors, and submit their final solutions online. 19 September — Offline Demo & Final Evaluation Teams will present their projects in person, demonstrate their solutions, interact with judges, and compete for the top positions. Come with an idea. Build something meaningful. Make an impact.",
     "event_dates": "Sep 16 - 18, 2026",
@@ -271,6 +271,18 @@ const DATA = [
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://devhack2026.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "HackOphobia",
+    "description": "HackOphobia 2.0 is Chandigarh University's biggest student-led hackathon, bringing together 750+ passionate developers, designers, innovators, and problem-solvers to build, experiment, and turn ideas into real-world solutions. HackOphobia 2.0 is Chandigarh University's biggest student-led hackathon, bringing together 750+ passionate developers, designers, innovators, and problem-solvers to build, experiment, and turn ideas into real-world solutions.",
+    "event_dates": "Sep 17, 2026",
+    "prize_amount": "$400 Available in Prizes",
+    "modes": "in-person",
+    "location": "Parsandan, India",
+    "hackathon_page_url": "https://hackophobia.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -300,18 +312,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "WebCraft24",
-    "description": "Step into the ultimate test of human logic and raw developer grit at GLB HACKATHON 5.0 - Webcraft 24 ! Organized by the Department of Bachelor of Computer Applications and the Tech Visor Club at GL Bajaj Institute of Management, this isn't just another hackathon—it’s an epic 24-hour non-stop battlefield of pure creativity, collaboration, and code. Leave the shortcuts behind. In an era dominated by automation, Webcraft 24 takes it back to the roots with a strict No AI, No Internet challenge during development. It’s just you, your team, and your core technical mastery building a stunning Fullstack project from scratch. Gather your squad, sharpen your fundamentals, and prove what you can build with pure brainpower. 🔗 Secure your spot now: https://glbim-hackathon5-0.vercel.app/ Step into the ultimate test of human logic and raw developer grit at GLB HACKATHON 5.0 - Webcraft 24 ! Organized by the Department of Bachelor of Computer Applications and the Tech Visor Club at GL Bajaj Institute of Management, this isn't just another hackathon—it’s an epic 24-hour non-stop battlefield of pure creativity, collaboration, and code. Leave the shortcuts behind. In an era dominated by automation, Webcraft 24 takes it back to the roots with a strict No AI, No Internet challenge during development. It’s just you, your team, and your core technical mastery building a stunning Fullstack project from scratch. Gather your squad, sharpen your fundamentals, and prove what you can build with pure brainpower. 🔗 Secure your spot now: https://glbim-hackathon5-0.vercel.app/",
-    "event_dates": "Sep 25 - 26, 2026",
-    "prize_amount": "$500 Available in Prizes",
-    "modes": "in-person",
-    "location": "Greater Noida, India",
-    "hackathon_page_url": "https://webcraft24.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "Cognition - GameJam '26",
     "description": "Cognition GameJam 2026 , organized by the Technical Team of SIESGST, is a multi-round game development hackathon designed to challenge participants to build, innovate, and adapt under real-world development constraints. Whether you are a solo developer or part of a team, the GameJam provides an opportunity to transform ideas into playable experiences while demonstrating your skills in game development, design, programming, problem-solving, and creative thinking. Participants will begin by developing and submitting a playable prototype. Shortlisted teams will then advance to the final round, where a surprise theme or twist will be revealed. Teams will be required to adapt their existing game and develop a compelling final experience within the given constraints. Participants will develop and submit a playable game prototype demonstrating the core concept and fundamental gameplay experience. Shortlisted teams will compete in the on-campus final round. A surprise theme or twist will be revealed at the beginning of the final stage. Teams will then adapt and enhance their prototype to incorporate the given challenge within the allotted time. Theme Reveal: 25 September 2026 Finals & Showcase: 26 September 2026 Participants may use their preferred game development tools and technologies, subject to the GameJam rules and guidelines. Cognition GameJam 2026 offers participants an opportunity to: The GameJam features a prize pool of ₹10,000 along with recognition for outstanding projects. Participants are encouraged to join the official GameJam community and follow the event's social media channels for announcements, submission guidelines, and other important updates. Discord: Join Now Instagram: Follow Us LinkedIn: Connect Here Twitter (X): Follow Us Bring your ideas, form your team, and build something worth playing. Cognition GameJam 2026 , organized by the Technical Team of SIESGST, is a multi-round game development hackathon designed to challenge participants to build, innovate, and adapt under real-world development constraints. Whether you are a solo developer or part of a team, the GameJam provides an opportunity to transform ideas into playable experiences while demonstrating your skills in game development, design, programming, problem-solving, and creative thinking. Participants will begin by developing and submitting a playable prototype. Shortlisted teams will then advance to the final round, where a surprise theme or twist will be revealed. Teams will be required to adapt their existing game and develop a compelling final experience within the given constraints. Participants will develop and submit a playable game prototype demonstrating the core concept and fundamental gameplay experience. Shortlisted teams will compete in the on-campus final round. A surprise theme or twist will be revealed at the beginning of the final stage. Teams will then adapt and enhance their prototype to incorporate the given challenge within the allotted time. Theme Reveal: 25 September 2026 Finals & Showcase: 26 September 2026 Participants may use their preferred game development tools and technologies, subject to the GameJam rules and guidelines. Cognition GameJam 2026 offers participants an opportunity to: The GameJam features a prize pool of ₹10,000 along with recognition for outstanding projects. Participants are encouraged to join the official GameJam community and follow the event's social media channels for announcements, submission guidelines, and other important updates. Discord: Join Now Instagram: Follow Us LinkedIn: Connect Here Twitter (X): Follow Us Bring your ideas, form your team, and build something worth playing.",
     "event_dates": "Sep 25 - 26, 2026",
@@ -324,18 +324,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "GlitchFiesta",
-    "description": "Devfolio ke About section ke liye direct markdown template: 🚀 About GlitchFiesta Welcome to GlitchFiesta, where bugs turn into breakthroughs and problems turn into prototypes. Driven by our motto, \"Code the Chaos,\" GlitchFiesta brings together ambitious student developers, designers, and innovators under one roof to build real-world solutions in high-intensity sprints. Whether you are hacking your first web app or integrating advanced machine learning pipelines, this is your playground to experiment, fail fast, and build fearlessly. 🔥 Why Participate? Devfolio ke About section ke liye direct markdown template: 🚀 About GlitchFiesta Welcome to GlitchFiesta, where bugs turn into breakthroughs and problems turn into prototypes. Driven by our motto, \"Code the Chaos,\" GlitchFiesta brings together ambitious student developers, designers, and innovators under one roof to build real-world solutions in high-intensity sprints. Whether you are hacking your first web app or integrating advanced machine learning pipelines, this is your playground to experiment, fail fast, and build fearlessly. 🔥 Why Participate?",
-    "event_dates": "Sep 26, 2026",
-    "prize_amount": "",
-    "modes": "in-person",
-    "location": "Kanpur, India",
-    "hackathon_page_url": "https://glitchfiesta2026.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "Builders Day by HackUnion",
     "description": "Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day. Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day.",
     "event_dates": "Sep 26, 2026",
@@ -343,6 +331,18 @@ const DATA = [
     "modes": "in-person",
     "location": "Hyderabad, India",
     "hackathon_page_url": "https://builders-day-hackunion.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "GlitchFiesta",
+    "description": "Devfolio ke About section ke liye direct markdown template: 🚀 About GlitchFiesta Welcome to GlitchFiesta, where bugs turn into breakthroughs and problems turn into prototypes. Driven by our motto, \"Code the Chaos,\" GlitchFiesta brings together ambitious student developers, designers, and innovators under one roof to build real-world solutions in high-intensity sprints. Whether you are hacking your first web app or integrating advanced machine learning pipelines, this is your playground to experiment, fail fast, and build fearlessly. 🔥 Why Participate? Devfolio ke About section ke liye direct markdown template: 🚀 About GlitchFiesta Welcome to GlitchFiesta, where bugs turn into breakthroughs and problems turn into prototypes. Driven by our motto, \"Code the Chaos,\" GlitchFiesta brings together ambitious student developers, designers, and innovators under one roof to build real-world solutions in high-intensity sprints. Whether you are hacking your first web app or integrating advanced machine learning pipelines, this is your playground to experiment, fail fast, and build fearlessly. 🔥 Why Participate?",
+    "event_dates": "Sep 26, 2026",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "Kanpur, India",
+    "hackathon_page_url": "https://glitchfiesta2026.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -532,7 +532,7 @@ clearDateButton.addEventListener("click", () => {
 });
 
 // Header stats
-document.getElementById("last-checked-date").textContent = "Sep 10, 2026";
+document.getElementById("last-checked-date").textContent = "Sep 11, 2026";
 document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
   (h) => h.status === "open" || h.status === "running",
 ).length;
