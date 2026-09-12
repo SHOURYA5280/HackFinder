@@ -72,6 +72,18 @@
     "level": null
   },
   {
+    "title": "Global Innovation Build Challenge V2",
+    "description": "About the challenge Getting code to run has never been easier. Getting a system to actually work, at scale, under real constraints, is still hard. That gap is what this hackathon is about. Global Innovation Build Challenge (GIBC) V2 is a fully online, student-led international hackathon. GIBC V1 brought together 552 participants worldwide with backing from sponsors including NordVPN. V2 builds on that with three tracks, an international judging panel, and a larger sponsor lineup. Over the 10-week build period from July 11 to September 21, 2026 , you can register at any time, build solo or in a team of up to 6, and submit to one of three tracks. Projects are reviewed by a panel of industry professionals and academic experts, with winners announced at a virtual closing ceremony on September 29, 2026 . Track 01: TECH (Foundational LLM Development) Build and train a language model capped at 50 million parameters. You design the architecture, curate the data, and write the training loop. We want to see how much capability you can pull out of a deliberately small model. See the Rules page for exactly what the 50M cap includes and which benchmarks we score on. Example directions: a domain-specific assistant for legal or cryptographic text; a model optimized for on-device inference; a small generative model trained on a narrow technical corpus without touching a commercial API. Track 02: Applied (Medical Technology & Finance) Build a data-driven system on real, empirical datasets that solves a problem in healthcare or finance. This means predictive models, diagnostic pipelines, or automated financial systems, backed by data engineering that turns raw input into something a person could actually act on. Example directions: diagnostic software that processes device telemetry; analytics pipelines for pharmaceutical research; quantitative trading models driven by market indicators; automated risk scoring or fraud detection. All datasets must be public or de-identified, and prototypes must not be deployed on real patients or real money. See the Rules page. Track 03: Open (General Technical Invention) Build a functional prototype that shows technical novelty and cross-disciplinary engineering. Software, hardware, interactive media, generative systems, or any combination. No architectural limits and no resource constraints. Example directions: IoT-connected physical infrastructure; a tool that changes how you work day to day; a generative AI product; a full-stack application aimed at an environmental or community problem. Get started 1. Register on Devpost (July 11 to September 21) Sign up here on Devpost. You must be registered on Devpost to submit, even if you signed up on our website first. 2. Build solo or form a team (1 to 6 members) Work alone or assemble a team of up to 6. Once your team is set, pick the one track that fits what you want to build. Each team submits one project to one track. 3. Join the Discord (recommended) Join the official GIBC V2 Discord to find teammates, ask the organizers questions, and get announcements: https://discord.gg/4y6RghaSt5 4. Submit before the deadline (September 21, 11:45pm Taipei time, UTC+8) Submit all six required components on Devpost before the deadline. Late submissions are not reviewed. ⚠️ THIS COMPETITION DOES NOT HAVE CASH PRIZE. The cashes in prize is not cash money, it is the Value of the prizes listed. This award consists of sponsor-provided product credits, subscriptions, software licenses, domains, or other non-cash benefits and cannot be exchanged or redeemed for cash.",
+    "event_dates": "Jul 11 - Oct 01, 2026",
+    "prize_amount": "$ 156,525",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://gibc-v2.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
     "title": "CALL-E: Your Code Is Calling",
     "description": "About the challenge CALL-E is a developer-first platform for building AI agents that make real phone calls and get real-world tasks done. Instead of stopping at text, your agents can plan a call, dial out, hold a natural conversation, adapt in real time, and return structured results you can act on — all through CALL-E's SDK, API, and MCP. In other words: your agents can finally pick up the phone (and actually get something done while they're on the line). ☎️ In CALL-E: Your Code Is Calling , you'll put that to work. Build and deploy a functional application that uses CALL-E to solve a real business or project problem — customer outreach, appointment scheduling, lead qualification, service coordination, workflow automation, or something no one's tried yet. Whether you're an AI engineer, agent builder, or technical founder, this is your chance to push a brand-new platform in directions its makers haven't imagined, share feedback that shapes the roadmap, and compete for a share of $10,000 in prizes . Why join Build something real . Ship an AI agent that completes actual tasks over the phone — not a demo that just generates text. Work with a new platform first . Get hands-on early with CALL-E's SDK, API, MCP, CLI, or SKILL, and help shape what it becomes. Shape the roadmap . Your feedback and bug reports go straight to the CALL-E team, with prizes for the most useful input. Compete for $10,000 in cash prizes, plus meetings with the CALL-E team, blog features, and CALL-E credits. Get started Install CALL-E and sign in (5 min) by following the installation guide . You'll get a CALL-E account with 20 free calls automatically. Need more? Request additional calls via this form . Connect it to your agent via MCP, SDK, API, CLI, or SKILL using the integration guide (~30 min). Browse example skills and apps and brainstorm your build (30 minutes)",
     "event_dates": "Jul 23 - Sep 14, 2026",
@@ -168,6 +180,18 @@
     "level": null
   },
   {
+    "title": "Grand Innovation Challenge",
+    "description": "",
+    "event_dates": "Oct 3, 2026",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "Digdoh, India",
+    "hackathon_page_url": "https://grand-innovation-challenge.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "HACK WITH GDG S4",
     "description": "Welcome to the fourth season of Hack With GDG , a high-energy hackathon hosted by Google Developer Groups - KSR College of Engineering (GDG KSRCE) . After three massive seasons, we are back to push the boundaries of creativity and technology. Event Timeline Round 1 (Ideation) : Submit your project idea in PPT format. Deadline : Sep 28, 2026 Round 2 (The Hack) : 36-Hour Offline Hackathon. Dates : Oct 8 - 10, 2026 Venue : KSR College of Engineering, Namakkal, Tamil Nadu. What’s Happening? Round 1: Selection Phase Submit your vision. While a prototype is a plus, we are looking for strong problem-solving ideas. Top teams move to the grand finale. Round 2: 36-Hour Offline Grind This is where the magic happens. Build your full prototype on-site. Side Events : Fun activities to keep the energy high. Mentorship : Industry experts to guide your build. Networking : Connect with fellow techies and developers. Rewards & Perks Cash Prizes for the top winning teams. Participation Certificates for all attendees. Who Can Join? Whether you are a Beginner or a Pro , there is a place for you! Developers : Build the future. Designers : Create stunning UI/UX. Innovators : Pitch unique solutions to real-world problems. Team Size : 1 – 4 Members. Meals & Refreshments included for participants Contact & Support Got questions? Reach out to us: Welcome to the fourth season of Hack With GDG , a high-energy hackathon hosted by Google Developer Groups - KSR College of Engineering (GDG KSRCE) . After three massive seasons, we are back to push the boundaries of creativity and technology. Event Timeline Round 1 (Ideation) : Submit your project idea in PPT format. Deadline : Sep 28, 2026 Round 2 (The Hack) : 36-Hour Offline Hackathon. Dates : Oct 8 - 10, 2026 Venue : KSR College of Engineering, Namakkal, Tamil Nadu. What’s Happening? Round 1: Selection Phase Submit your vision. While a prototype is a plus, we are looking for strong problem-solving ideas. Top teams move to the grand finale. Round 2: 36-Hour Offline Grind This is where the magic happens. Build your full prototype on-site. Side Events : Fun activities to keep the energy high. Mentorship : Industry experts to guide your build. Networking : Connect with fellow techies and developers. Rewards & Perks Cash Prizes for the top winning teams. Participation Certificates for all attendees. Who Can Join? Whether you are a Beginner or a Pro , there is a place for you! Developers : Build the future. Designers : Create stunning UI/UX. Innovators : Pitch unique solutions to real-world problems. Team Size : 1 – 4 Members. Meals & Refreshments included for participants Contact & Support Got questions? Reach out to us:",
     "event_dates": "Oct 8 - 10, 2026",
@@ -217,7 +241,7 @@
   },
   {
     "title": "HACKBIOS 2K26",
-    "description": "",
+    "description": "HackBIOS 2k26 is a national-level hackathon bringing together the brightest young innovators, developers, and tech enthusiasts from across the country to solve real-world problems through technology. Our previous edition saw 350+ attendees come together for an incredible offline experience , a remarkable success that left a lasting impression on all who attended. This year, HackBIOS 2k26 will be conducted in two rounds: 📁 A detailed guide and demo video are available to help you prepare — https://drive.google.com/drive/folders/1sz2XH2rJgvy8TrmQ468ALh2hkZBq9b9s?usp=sharing HackBIOS 2k26 is a national-level hackathon bringing together the brightest young innovators, developers, and tech enthusiasts from across the country to solve real-world problems through technology. Our previous edition saw 350+ attendees come together for an incredible offline experience , a remarkable success that left a lasting impression on all who attended. This year, HackBIOS 2k26 will be conducted in two rounds: 📁 A detailed guide and demo video are available to help you prepare — https://drive.google.com/drive/folders/1sz2XH2rJgvy8TrmQ468ALh2hkZBq9b9s?usp=sharing",
     "event_dates": "Oct 9 - 10, 2026",
     "prize_amount": "$1,055 Available in Prizes",
     "modes": "in-person",
@@ -249,18 +273,6 @@
     "hackathon_page_url": "https://www.wemakedevs.org/hackathons/falkordb",
     "status": "open",
     "source": "WeMakeDevs",
-    "level": null
-  },
-  {
-    "title": "GatewayHacks 2026 | Software & AI",
-    "description": "About the challenge Welcome to GatewayHacks 2026, the flagship virtual hackathon presented by the Gateway nonprofit organization! 🚀 At Gateway, our mission is to open doors and break down barriers. We believe that the next generation of developers, designers, and innovators holds the key to solving some of humanity’s biggest challenges. This fully virtual, 4-week hackathon challenges you to build software, hardware, or AI solutions that create tangible social good. Whether you are a seasoned machine learning engineer or a high school student writing your first lines of HTML, there is a place for you here. Get started 1. Register: Click \"Join Hackathon\" on this Devpost page. 2. Mandatory Join the Community: Join our official Gateway Discord Server to find teammates, chat with mentors, and get real-time updates. https://discord.gg/XgsX3f7JV 3. Form a Team: You can hack solo or form a team of up to 4 members. 4. Build & Submit: You have 4 weeks to build your prototype. Submit your project on Devpost with a link to your public code repository (GitHub) and a 3-minute video demo explaining how it works.",
-    "event_dates": "Sep 01 - Oct 02, 2026",
-    "prize_amount": "$ 1,007,085",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://gatewayhacks-2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
     "level": null
   },
   {
@@ -300,18 +312,6 @@
     "level": null
   },
   {
-    "title": "Binary Hacks 4.0",
-    "description": "Binary Hacks 4.0 is a 36-hour offline hackathon organized by The Binary Club, Department of Computer Science & Engineering (CSE) . The event brings together passionate developers, designers, and innovators to build impactful solutions for real-world challenges while fostering innovation, teamwork, and technical excellence. Whether you're a beginner or an experienced hacker, Binary Hacks 4.0 provides an exciting platform to collaborate with like-minded peers, learn from mentors, explore emerging technologies, and transform ideas into working prototypes. Join us for 36 hours of coding, creativity, collaboration, and innovation , compete for exciting cash prizes, and showcase your skills while connecting with fellow tech enthusiasts. Binary Hacks 4.0 is a 36-hour offline hackathon organized by The Binary Club, Department of Computer Science & Engineering (CSE) . The event brings together passionate developers, designers, and innovators to build impactful solutions for real-world challenges while fostering innovation, teamwork, and technical excellence. Whether you're a beginner or an experienced hacker, Binary Hacks 4.0 provides an exciting platform to collaborate with like-minded peers, learn from mentors, explore emerging technologies, and transform ideas into working prototypes. Join us for 36 hours of coding, creativity, collaboration, and innovation , compete for exciting cash prizes, and showcase your skills while connecting with fellow tech enthusiasts.",
-    "event_dates": "Sep 21 - 22, 2026",
-    "prize_amount": "",
-    "modes": "in-person",
-    "location": "Ghaziabad, India",
-    "hackathon_page_url": "https://binary-hacks-4.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "Cognition - GameJam '26",
     "description": "Cognition GameJam 2026 , organized by the Technical Team of SIESGST, is a multi-round game development hackathon designed to challenge participants to build, innovate, and adapt under real-world development constraints. Whether you are a solo developer or part of a team, the GameJam provides an opportunity to transform ideas into playable experiences while demonstrating your skills in game development, design, programming, problem-solving, and creative thinking. Participants will begin by developing and submitting a playable prototype. Shortlisted teams will then advance to the final round, where a surprise theme or twist will be revealed. Teams will be required to adapt their existing game and develop a compelling final experience within the given constraints. Participants will develop and submit a playable game prototype demonstrating the core concept and fundamental gameplay experience. Shortlisted teams will compete in the on-campus final round. A surprise theme or twist will be revealed at the beginning of the final stage. Teams will then adapt and enhance their prototype to incorporate the given challenge within the allotted time. Theme Reveal: 25 September 2026 Finals & Showcase: 26 September 2026 Participants may use their preferred game development tools and technologies, subject to the GameJam rules and guidelines. Cognition GameJam 2026 offers participants an opportunity to: The GameJam features a prize pool of ₹10,000 along with recognition for outstanding projects. Participants are encouraged to join the official GameJam community and follow the event's social media channels for announcements, submission guidelines, and other important updates. Discord: Join Now Instagram: Follow Us LinkedIn: Connect Here Twitter (X): Follow Us Bring your ideas, form your team, and build something worth playing. Cognition GameJam 2026 , organized by the Technical Team of SIESGST, is a multi-round game development hackathon designed to challenge participants to build, innovate, and adapt under real-world development constraints. Whether you are a solo developer or part of a team, the GameJam provides an opportunity to transform ideas into playable experiences while demonstrating your skills in game development, design, programming, problem-solving, and creative thinking. Participants will begin by developing and submitting a playable prototype. Shortlisted teams will then advance to the final round, where a surprise theme or twist will be revealed. Teams will be required to adapt their existing game and develop a compelling final experience within the given constraints. Participants will develop and submit a playable game prototype demonstrating the core concept and fundamental gameplay experience. Shortlisted teams will compete in the on-campus final round. A surprise theme or twist will be revealed at the beginning of the final stage. Teams will then adapt and enhance their prototype to incorporate the given challenge within the allotted time. Theme Reveal: 25 September 2026 Finals & Showcase: 26 September 2026 Participants may use their preferred game development tools and technologies, subject to the GameJam rules and guidelines. Cognition GameJam 2026 offers participants an opportunity to: The GameJam features a prize pool of ₹10,000 along with recognition for outstanding projects. Participants are encouraged to join the official GameJam community and follow the event's social media channels for announcements, submission guidelines, and other important updates. Discord: Join Now Instagram: Follow Us LinkedIn: Connect Here Twitter (X): Follow Us Bring your ideas, form your team, and build something worth playing.",
     "event_dates": "Sep 25 - 26, 2026",
@@ -324,18 +324,6 @@
     "level": null
   },
   {
-    "title": "Builders Day by HackUnion",
-    "description": "Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day. Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day.",
-    "event_dates": "Sep 26, 2026",
-    "prize_amount": "$350 Available in Prizes",
-    "modes": "in-person",
-    "location": "Hyderabad, India",
-    "hackathon_page_url": "https://builders-day-hackunion.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "GlitchFiesta",
     "description": "Devfolio ke About section ke liye direct markdown template: 🚀 About GlitchFiesta Welcome to GlitchFiesta, where bugs turn into breakthroughs and problems turn into prototypes. Driven by our motto, \"Code the Chaos,\" GlitchFiesta brings together ambitious student developers, designers, and innovators under one roof to build real-world solutions in high-intensity sprints. Whether you are hacking your first web app or integrating advanced machine learning pipelines, this is your playground to experiment, fail fast, and build fearlessly. 🔥 Why Participate? Devfolio ke About section ke liye direct markdown template: 🚀 About GlitchFiesta Welcome to GlitchFiesta, where bugs turn into breakthroughs and problems turn into prototypes. Driven by our motto, \"Code the Chaos,\" GlitchFiesta brings together ambitious student developers, designers, and innovators under one roof to build real-world solutions in high-intensity sprints. Whether you are hacking your first web app or integrating advanced machine learning pipelines, this is your playground to experiment, fail fast, and build fearlessly. 🔥 Why Participate?",
     "event_dates": "Sep 26, 2026",
@@ -343,6 +331,18 @@
     "modes": "in-person",
     "location": "Kanpur, India",
     "hackathon_page_url": "https://glitchfiesta2026.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "Builders Day by HackUnion",
+    "description": "Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day. Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day.",
+    "event_dates": "Sep 26, 2026",
+    "prize_amount": "$350 Available in Prizes",
+    "modes": "in-person",
+    "location": "Hyderabad, India",
+    "hackathon_page_url": "https://builders-day-hackunion.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
