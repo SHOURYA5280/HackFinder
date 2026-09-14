@@ -36,6 +36,18 @@
     "level": null
   },
   {
+    "title": "NextStep Hacks 2026",
+    "description": "UPDATE: NextStep Hacks 2026 will be extended for 1 MORE WEEK! Mark your calendars for August 21st to September 13th as we kick off an inspiring weekend of creativity and innovation at NextStep Hacks 2026! This year's theme, Earth Forward, is all about tackling environmental challenges with technology and bold ideas. From climate resilience and renewable energy to conservation, sustainable agriculture, and waste reduction, this is your chance to build projects that protect our planet and create a more sustainable future for generations to come. HackAlphaX, the visionary force behind NextStep Hacks, was founded by students committed to shaping the future of STEM and making technology accessible to all. Over the past six years, our events have reached and inspired over 3,000 students, fostering a vibrant community of changemakers. This week-long experience is packed with exciting activities: Engaging workshops to expand your skills. Thrilling raffles and giveaways for participants. Mentor sessions to guide your projects. A celebration of innovation with countless opportunities to connect and collaborate. We can’t wait to welcome you to NextStep Hacks 2026. Join us on this journey to create a future that’s truly Earth Forward ! Those interested in judging or volunteering please fill out this form: Volunteer/Judging Form . Join our discord for more information, announcements, and help from workshop hosts and judges. If you need to reach the team with any questions you can contact them through the server as well. Here is the invite link: https://discord.gg/hFxwvgZDsh. To tune into the opening ceremony, workshops, and closing ceremony, take a look at our YouTube Channel: https://www.youtube.com/@hackalphax .",
+    "event_dates": "Aug 21 - Sep 20, 2026",
+    "prize_amount": "$ 1,750",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://nextstep2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
     "title": "OpenCV AI Competition 2026, powered by AWS",
     "description": "About The Competition • Competition launch, registration, and proposal submission—runs August 12- 2026; proposals are accepted starting August 13. • 50 teams will be selected to receive a cloud compute grant valued at $150. All other teams, including those that submit the cloud compute grant proposal remain eligible to continue to the two-month build phase. Apply for your grant here. • Final projects are due October 26, 2026, at 11:59 p.m. Pacific Time. • Every entry must use OpenCV 5 for substantive image or video analysis and run a meaningful component on AWS. • Two optional featured paths offer separate $1,000 awards: the Best Use of COOL Award and the Agentic Vision Award. Sponsor: Amazon Web Services (“Amazon” or “Sponsor”) Administrator: OpenCV Foundation (OpenCV or Administrator, and together with Amazon, the “organizers”) Join, Build, and Win Turn an ambitious idea into a working vision application, demonstrate measurable value, and share it with the global OpenCV community. The competition emphasizes Physical AI and Generative AI systems in which visual understanding drives useful decisions, actions, predictions, or interactions. Entries may pursue either featured path below, combine both, or take another approach and remain fully eligible to win a prize.. Projects may use any programming language or supporting hardware, provided they meet the core OpenCV 5 and AWS requirements on this page. Build Phase — Two Months From August 26 through October 26, all teams that submitted the required proposal will build, evaluate, document, and submit their final projects. • Teams are encouraged to join the official Slack channel to collaborate with others, and to use the #OpenCVComp26 hashtag on social media to share progress and milestones. • Teams who received a cloud compute grant must complete one 30-minute Zoom check-in with an organizing committee member during September 21–October 2 to receive the other 50% of their grant. • Teams must maintain active development and provide a concise progress update at the check-in. • Final submissions are due on October 26 at 11:59 p.m. Pacific Time. Final Judging and Winners Final judging will take place from October 27 through November 9. Winners are scheduled to be announced on November 10 during an OpenCV Live! webinar or another announced OpenCV channel. What AWS Grant Proposals Must Include Each proposal must include: A team name A clear problem statement and intended real-world impact. The planned OpenCV 5 image or video analysis. The planned AWS architecture and services. A high-level architecture diagram or technical description. The target users or beneficiaries. The proposed evaluation method and judge demonstration. Whether the team intends to pursue the COOL path, the Agentic Vision path, both, or neither. Team Bio: A short team bio of all team members and their participation in any hackathons or competitions. Team strength will be used to judge the recipients of the cloud compute grant. Apply For an AWS Compute Grant Here Free AWS Credits for New Members New AWS customers are eligible to receive $100 in AWS Free Tier credits when they sign up for a Free Plan account and may earn up to $100 more through eligible activities. Teams may use these credits for eligible AWS services in this competition, subject to current AWS Free Tier terms , service availability, and expiration rules. Use of the Free Tier Credits is subject to the AWS Promotional Credit Terms & Conditions . AWS Promotional Credits are not redeemable for cash and can only be applied to AWS Services.",
     "event_dates": "Aug 26 - Oct 27, 2026",
@@ -73,7 +85,7 @@
   },
   {
     "title": "Global Innovation Build Challenge V2",
-    "description": "About the challenge Getting code to run has never been easier. Getting a system to actually work, at scale, under real constraints, is still hard. That gap is what this hackathon is about. Global Innovation Build Challenge (GIBC) V2 is a fully online, student-led international hackathon. GIBC V1 brought together 552 participants worldwide with backing from sponsors including NordVPN. V2 builds on that with three tracks, an international judging panel, and a larger sponsor lineup. Over the 10-week build period from July 11 to September 21, 2026 , you can register at any time, build solo or in a team of up to 6, and submit to one of three tracks. Projects are reviewed by a panel of industry professionals and academic experts, with winners announced at a virtual closing ceremony on September 29, 2026 . Track 01: TECH (Foundational LLM Development) Build and train a language model capped at 50 million parameters. You design the architecture, curate the data, and write the training loop. We want to see how much capability you can pull out of a deliberately small model. See the Rules page for exactly what the 50M cap includes and which benchmarks we score on. Example directions: a domain-specific assistant for legal or cryptographic text; a model optimized for on-device inference; a small generative model trained on a narrow technical corpus without touching a commercial API. Track 02: Applied (Medical Technology & Finance) Build a data-driven system on real, empirical datasets that solves a problem in healthcare or finance. This means predictive models, diagnostic pipelines, or automated financial systems, backed by data engineering that turns raw input into something a person could actually act on. Example directions: diagnostic software that processes device telemetry; analytics pipelines for pharmaceutical research; quantitative trading models driven by market indicators; automated risk scoring or fraud detection. All datasets must be public or de-identified, and prototypes must not be deployed on real patients or real money. See the Rules page. Track 03: Open (General Technical Invention) Build a functional prototype that shows technical novelty and cross-disciplinary engineering. Software, hardware, interactive media, generative systems, or any combination. No architectural limits and no resource constraints. Example directions: IoT-connected physical infrastructure; a tool that changes how you work day to day; a generative AI product; a full-stack application aimed at an environmental or community problem. Get started 1. Register on Devpost (July 11 to September 21) Sign up here on Devpost. You must be registered on Devpost to submit, even if you signed up on our website first. 2. Build solo or form a team (1 to 6 members) Work alone or assemble a team of up to 6. Once your team is set, pick the one track that fits what you want to build. Each team submits one project to one track. 3. Join the Discord (recommended) Join the official GIBC V2 Discord to find teammates, ask the organizers questions, and get announcements: https://discord.gg/4y6RghaSt5 4. Submit before the deadline (September 21, 11:45pm Taipei time, UTC+8) Submit all six required components on Devpost before the deadline. Late submissions are not reviewed. ⚠️ THIS COMPETITION DOES NOT HAVE CASH PRIZE. The cashes in prize is not cash money, it is the Value of the prizes listed. This award consists of sponsor-provided product credits, subscriptions, software licenses, domains, or other non-cash benefits and cannot be exchanged or redeemed for cash.",
+    "description": "About the challenge Getting code to run has never been easier. Getting a system to actually work, at scale, under real constraints, is still hard. That gap is what this hackathon is about. Global Innovation Build Challenge (GIBC) V2 is a fully online, student-led international hackathon. GIBC V1 brought together 552 participants worldwide with backing from sponsors including NordVPN. V2 builds on that with three tracks, an international judging panel, and a larger sponsor lineup. Over the 10-week build period from July 11 to October 1, 2026 , you can register at any time, build solo or in a team of up to 6, and submit to one of three tracks. Projects are reviewed by a panel of industry professionals and academic experts, with winners announced at a virtual closing ceremony on October 8, 2026 . Track 01: TECH (Foundational LLM Development) Build and train a language model capped at 50 million parameters. You design the architecture, curate the data, and write the training loop. We want to see how much capability you can pull out of a deliberately small model. See the Rules page for exactly what the 50M cap includes and which benchmarks we score on. Example directions: a domain-specific assistant for legal or cryptographic text; a model optimized for on-device inference; a small generative model trained on a narrow technical corpus without touching a commercial API. Track 02: Applied (Medical Technology & Finance) Build a data-driven system on real, empirical datasets that solves a problem in healthcare or finance. This means predictive models, diagnostic pipelines, or automated financial systems, backed by data engineering that turns raw input into something a person could actually act on. Example directions: diagnostic software that processes device telemetry; analytics pipelines for pharmaceutical research; quantitative trading models driven by market indicators; automated risk scoring or fraud detection. All datasets must be public or de-identified, and prototypes must not be deployed on real patients or real money. See the Rules page. Track 03: Open (General Technical Invention) Build a functional prototype that shows technical novelty and cross-disciplinary engineering. Software, hardware, interactive media, generative systems, or any combination. No architectural limits and no resource constraints. Example directions: IoT-connected physical infrastructure; a tool that changes how you work day to day; a generative AI product; a full-stack application aimed at an environmental or community problem. Get started 1. Register on Devpost (July 11 to October 1) Sign up here on Devpost. You must be registered on Devpost to submit, even if you signed up on our website first. 2. Build solo or form a team (1 to 6 members) Work alone or assemble a team of up to 6. Once your team is set, pick the one track that fits what you want to build. Each team submits one project to one track. 3. Join the Discord (recommended) Join the official GIBC V2 Discord to find teammates, ask the organizers questions, and get announcements: https://discord.gg/4y6RghaSt5 4. Submit before the deadline (October 1, 11:45pm GMT+8) Submit all six required components on Devpost before the deadline. Late submissions are not reviewed. ⚠️ THIS COMPETITION DOES NOT HAVE CASH PRIZE. The cashes in prize is not cash money, it is the Value of the prizes listed. This award consists of sponsor-provided product credits, subscriptions, software licenses, domains, or other non-cash benefits and cannot be exchanged or redeemed for cash.",
     "event_dates": "Jul 11 - Oct 01, 2026",
     "prize_amount": "$ 156,525",
     "modes": "remote",
@@ -103,18 +115,6 @@
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://revenuecat-shipaton-2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "VoltHacks",
-    "description": "About the Challenge VoltHacks 2026 is a hackathon focused on building real world solutions using hardware, IoT, and AI. Participants are encouraged to go beyond traditional software projects and create systems that interact with the physical world through sensors, embedded systems, automation, and intelligent devices. Whether you're interested in robotics, smart devices, sustainability, healthcare technology, or open innovation, VoltHacks is designed to push creativity and engineering skills toward solving meaningful problems. Tracks could include: Robotics & Embedded Systems AI + Hardware Integration Smart Health Technology Sustainability & Smart Cities Open Innovation Anything Engineering based with Impact Participants will present their projects to a panel of judges, with awards recognizing innovation, technical complexity, and real world impact. Get Started Register individually or with a team Brainstorm a project idea related to the challenge themes Build your project during the hackathon period Submit your final project on Devpost before the deadline All skill levels are welcome. Whether you're experienced with hardware or just getting started, VoltHacks is meant to be a place to learn, collaborate, and build something meaningful.",
-    "event_dates": "May 22 - Sep 13, 2026",
-    "prize_amount": "$ 35,785",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://volthacks.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
@@ -216,18 +216,6 @@
     "level": null
   },
   {
-    "title": "HACKBIOS 2K26",
-    "description": "HackBIOS 2k26 is a national-level hackathon bringing together the brightest young innovators, developers, and tech enthusiasts from across the country to solve real-world problems through technology. Our previous edition saw 350+ attendees come together for an incredible offline experience , a remarkable success that left a lasting impression on all who attended. This year, HackBIOS 2k26 will be conducted in two rounds: 📁 A detailed guide and demo video are available to help you prepare — https://drive.google.com/drive/folders/1sz2XH2rJgvy8TrmQ468ALh2hkZBq9b9s?usp=sharing HackBIOS 2k26 is a national-level hackathon bringing together the brightest young innovators, developers, and tech enthusiasts from across the country to solve real-world problems through technology. Our previous edition saw 350+ attendees come together for an incredible offline experience , a remarkable success that left a lasting impression on all who attended. This year, HackBIOS 2k26 will be conducted in two rounds: 📁 A detailed guide and demo video are available to help you prepare — https://drive.google.com/drive/folders/1sz2XH2rJgvy8TrmQ468ALh2hkZBq9b9s?usp=sharing",
-    "event_dates": "Oct 9 - 10, 2026",
-    "prize_amount": "$1,055 Available in Prizes",
-    "modes": "in-person",
-    "location": "Junwani, India",
-    "hackathon_page_url": "https://hackbios2k26.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "Realm Hack '26",
     "description": "Realm Hack '26 is the flagship annual hackathon organized by CFRA — Computer Science Forum: Realm of Academics, College of Engineering Karunagappally. Built for students and independent developers across India, Realm Hack brings together builders, and problem-solvers to create impactful technology solutions. The hackathon is designed as a three-round selection process, ensuring every team is evaluated on both the quality of its idea and its technical execution before the on-campus finale. Whether you're building your first project or your next big startup idea, Realm Hack '26 is your opportunity to learn, collaborate, and compete on a national stage. Full rules, submission guidelines, announcements, and Round 2 updates will be available on the official website: realmhack.in Realm Hack '26 is the flagship annual hackathon organized by CFRA — Computer Science Forum: Realm of Academics, College of Engineering Karunagappally. Built for students and independent developers across India, Realm Hack brings together builders, and problem-solvers to create impactful technology solutions. The hackathon is designed as a three-round selection process, ensuring every team is evaluated on both the quality of its idea and its technical execution before the on-campus finale. Whether you're building your first project or your next big startup idea, Realm Hack '26 is your opportunity to learn, collaborate, and compete on a national stage. Full rules, submission guidelines, announcements, and Round 2 updates will be available on the official website: realmhack.in",
     "event_dates": "Oct 9 - 10, 2026",
@@ -247,6 +235,18 @@
     "modes": "in-person",
     "location": "Thiruvananthapuram, India",
     "hackathon_page_url": "https://define4.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "HACKBIOS 2K26",
+    "description": "HackBIOS 2k26 is a national-level hackathon bringing together the brightest young innovators, developers, and tech enthusiasts from across the country to solve real-world problems through technology. Our previous edition saw 350+ attendees come together for an incredible offline experience , a remarkable success that left a lasting impression on all who attended. This year, HackBIOS 2k26 will be conducted in two rounds: 📁 A detailed guide and demo video are available to help you prepare — https://drive.google.com/drive/folders/1sz2XH2rJgvy8TrmQ468ALh2hkZBq9b9s?usp=sharing HackBIOS 2k26 is a national-level hackathon bringing together the brightest young innovators, developers, and tech enthusiasts from across the country to solve real-world problems through technology. Our previous edition saw 350+ attendees come together for an incredible offline experience , a remarkable success that left a lasting impression on all who attended. This year, HackBIOS 2k26 will be conducted in two rounds: 📁 A detailed guide and demo video are available to help you prepare — https://drive.google.com/drive/folders/1sz2XH2rJgvy8TrmQ468ALh2hkZBq9b9s?usp=sharing",
+    "event_dates": "Oct 9 - 10, 2026",
+    "prize_amount": "$11,000 Available in Prizes",
+    "modes": "in-person",
+    "location": "Junwani, India",
+    "hackathon_page_url": "https://hackbios2k26.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -324,18 +324,6 @@
     "level": null
   },
   {
-    "title": "Builders Day by HackUnion",
-    "description": "Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day. Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day.",
-    "event_dates": "Sep 26, 2026",
-    "prize_amount": "$350 Available in Prizes",
-    "modes": "in-person",
-    "location": "Hyderabad, India",
-    "hackathon_page_url": "https://builders-day-hackunion.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "GlitchFiesta",
     "description": "Devfolio ke About section ke liye direct markdown template: 🚀 About GlitchFiesta Welcome to GlitchFiesta, where bugs turn into breakthroughs and problems turn into prototypes. Driven by our motto, \"Code the Chaos,\" GlitchFiesta brings together ambitious student developers, designers, and innovators under one roof to build real-world solutions in high-intensity sprints. Whether you are hacking your first web app or integrating advanced machine learning pipelines, this is your playground to experiment, fail fast, and build fearlessly. 🔥 Why Participate? Devfolio ke About section ke liye direct markdown template: 🚀 About GlitchFiesta Welcome to GlitchFiesta, where bugs turn into breakthroughs and problems turn into prototypes. Driven by our motto, \"Code the Chaos,\" GlitchFiesta brings together ambitious student developers, designers, and innovators under one roof to build real-world solutions in high-intensity sprints. Whether you are hacking your first web app or integrating advanced machine learning pipelines, this is your playground to experiment, fail fast, and build fearlessly. 🔥 Why Participate?",
     "event_dates": "Sep 26, 2026",
@@ -343,6 +331,18 @@
     "modes": "in-person",
     "location": "Kanpur, India",
     "hackathon_page_url": "https://glitchfiesta2026.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "Builders Day by HackUnion",
+    "description": "Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day. Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day.",
+    "event_dates": "Sep 26, 2026",
+    "prize_amount": "$350 Available in Prizes",
+    "modes": "in-person",
+    "location": "Hyderabad, India",
+    "hackathon_page_url": "https://builders-day-hackunion.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
