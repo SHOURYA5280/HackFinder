@@ -12,18 +12,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "Agents for Humans Hackathon",
-    "description": "Every day, people lose hours to small, repetitive tasks like paying bills, scheduling meetings, or filling out the same paperwork again. On their own they're minor, but together they drain real time and attention. AWS wants to help you change that! Build an AI agent with the Strands Agents SDK that handles routine and repetitive tasks in the background. Instead of another app people open and manage, the agent runs autonomously and only surfaces when there's a real decision to make. This theme is open to any part of life, from home and work to health, money, errands, and family. Whatever you want to solve, there's a track for it. Six weeks. One build. We're looking forward to seeing what you create. Why Join? 🏆 Compete for $40,000 in cash prizes across three tracks 🌐 Build with Strands Agents SDK, open source, production ready, built and trusted by teams at AWS 🛠️ Solve real problems people actually deal with, from daily chores to professional workloads to community logistics 💳 Get $50 in AWS credits to cover your build costs (go to the Resources tab for request form) 🌍 Open to developers worldwide, solo or team, new or seasoned 📝 Earn bonus points by publishing your build story on builder.aws.com (see rules for details)",
-    "event_dates": "Aug 10 - Sep 14, 2026",
-    "prize_amount": "$ 40,000",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://agentsforhumans.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
     "title": "AI Builders Hackathon",
     "description": "About the challenge The world doesn't need another AI demo. Every day, thousands of AI projects are launched. Most never move beyond a prototype, a landing page, or a collection of prompts. What the world truly needs are AI products that solve real problems, save time, create value, and earn a place in people's daily lives. AI Builders Hackathon is designed for builders who want to go beyond experimentation and create software that matters. Over the course of the challenge, participants will design, build, and launch AI-powered applications, agents, workflows, and platforms that address real-world needs. Whether you're creating a productivity tool, developer platform, research assistant, business automation system, education solution, healthcare application, or an entirely new category of software, the focus remains the same: build something useful. We are not looking for pitch decks, concept videos, or AI wrappers with minimal differentiation. We are looking for products that demonstrate thoughtful problem solving, strong technical execution, excellent user experience, and clear value for users. The best submissions will be those that people can actually use, adopt, and recommend. Projects should showcase how AI can move beyond novelty and become a meaningful part of everyday workflows. This is your opportunity to build the product you've always wanted to exist, validate your ideas with experienced judges, gain visibility within the AI community, and compete alongside some of the most ambitious builders from around the world. If you can build something that makes people say, \"I would use this tomorrow,\" you're exactly who this challenge is for. Get started 1. Register for the AI Builders Hackathon. 2. Form your team or participate individually. 3. Explore the challenge themes, resources, and sponsor technologies. 4. Brainstorm ideas and identify a real-world problem to solve. 5. Build an AI-powered solution, agent, workflow, or application. 6. Submit your project before the deadline with: Project description Demo video Source code repository Presentation or documentation 7. Present your project to judges and compete for prizes, recognition, and opportunities. Who Can Participate? • Students • Developers • Designers • Startup founders • AI enthusiasts Whether you're new to AI or an experienced builder, everyone is welcome to participate and create something impactful.",
     "event_dates": "Aug 21 - Sep 15, 2026",
@@ -43,6 +31,18 @@ const DATA = [
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://nextstep2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
+    "title": "Beginner's Paradise - FirstCommit",
+    "description": "Submission Requirements To complete your submission, each team or individual must submit the following on Devpost before the deadline: Required A working project created during the hackathon. A public GitHub repository containing your source code. A project description explaining what you built, how it works, and the problem it solves. A demo video (3–5 minutes) showcasing your project and its main features. Clear setup instructions (README) so judges can run your project if necessary. Recommended A live deployment or hosted version of your project. Screenshots or images of your project. A list of technologies, frameworks, APIs, or libraries used. Any presentation slides or additional documentation. Rules Your project should be started during the hackathon. Existing libraries, templates, and frameworks are allowed, but the core work must be completed during the event. Projects may be built individually or in teams (within the allowed team size). You must own or have permission to use all assets included in your submission. AI tools may be used unless a specific prize category states otherwise. Please disclose any significant AI assistance in your project description. Incomplete, non-functional, or plagiarized submissions may be disqualified. Most importantly, don't worry if your project isn't perfect. First Commit is about learning, building, and taking the next step in your development journey.",
+    "event_dates": "Aug 21 - Sep 30, 2026",
+    "prize_amount": "$ 1,024",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://firstcommit.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
@@ -91,18 +91,6 @@ const DATA = [
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://gibc-v2.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "CALL-E: Your Code Is Calling",
-    "description": "About the challenge CALL-E is a developer-first platform for building AI agents that make real phone calls and get real-world tasks done. Instead of stopping at text, your agents can plan a call, dial out, hold a natural conversation, adapt in real time, and return structured results you can act on — all through CALL-E's SDK, API, and MCP. In other words: your agents can finally pick up the phone (and actually get something done while they're on the line). ☎️ In CALL-E: Your Code Is Calling , you'll put that to work. Build and deploy a functional application that uses CALL-E to solve a real business or project problem — customer outreach, appointment scheduling, lead qualification, service coordination, workflow automation, or something no one's tried yet. Whether you're an AI engineer, agent builder, or technical founder, this is your chance to push a brand-new platform in directions its makers haven't imagined, share feedback that shapes the roadmap, and compete for a share of $10,000 in prizes . Why join Build something real . Ship an AI agent that completes actual tasks over the phone — not a demo that just generates text. Work with a new platform first . Get hands-on early with CALL-E's SDK, API, MCP, CLI, or SKILL, and help shape what it becomes. Shape the roadmap . Your feedback and bug reports go straight to the CALL-E team, with prizes for the most useful input. Compete for $10,000 in cash prizes, plus meetings with the CALL-E team, blog features, and CALL-E credits. Get started Install CALL-E and sign in (5 min) by following the installation guide . You'll get a CALL-E account with 20 free calls automatically. Need more? Request additional calls via this form . Connect it to your agent via MCP, SDK, API, CLI, or SKILL using the integration guide (~30 min). Browse example skills and apps and brainstorm your build (30 minutes)",
-    "event_dates": "Jul 23 - Sep 14, 2026",
-    "prize_amount": "$ 10,000",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://call-e.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
@@ -216,18 +204,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "Realm Hack '26",
-    "description": "Realm Hack '26 is the flagship annual hackathon organized by CFRA — Computer Science Forum: Realm of Academics, College of Engineering Karunagappally. Built for students and independent developers across India, Realm Hack brings together builders, and problem-solvers to create impactful technology solutions. The hackathon is designed as a three-round selection process, ensuring every team is evaluated on both the quality of its idea and its technical execution before the on-campus finale. Whether you're building your first project or your next big startup idea, Realm Hack '26 is your opportunity to learn, collaborate, and compete on a national stage. Full rules, submission guidelines, announcements, and Round 2 updates will be available on the official website: realmhack.in Realm Hack '26 is the flagship annual hackathon organized by CFRA — Computer Science Forum: Realm of Academics, College of Engineering Karunagappally. Built for students and independent developers across India, Realm Hack brings together builders, and problem-solvers to create impactful technology solutions. The hackathon is designed as a three-round selection process, ensuring every team is evaluated on both the quality of its idea and its technical execution before the on-campus finale. Whether you're building your first project or your next big startup idea, Realm Hack '26 is your opportunity to learn, collaborate, and compete on a national stage. Full rules, submission guidelines, announcements, and Round 2 updates will be available on the official website: realmhack.in",
-    "event_dates": "Oct 9 - 10, 2026",
-    "prize_amount": "$700 Available in Prizes",
-    "modes": "in-person",
-    "location": "Thodiyoor, India",
-    "hackathon_page_url": "https://realm-hack-1.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "DEFINE 4.0",
     "description": "The Department of Computer Science and Engineering of Mar Baselios College of Engineering and Technology , Thiruvananthapuram proudly present the fourth edition of DEFINE, an exclusive, exciting and stimulating 24-Hour Hackathon . Finding problems and building solutions is what makes a practicing engineer. Define is a supporting and encouraging way to bring the spotlight to students. Being present at our event would give you the chance to see how the attendees surge themselves to work together, and make life easier with the help of technology. The Department of Computer Science and Engineering of Mar Baselios College of Engineering and Technology , Thiruvananthapuram proudly present the fourth edition of DEFINE, an exclusive, exciting and stimulating 24-Hour Hackathon . Finding problems and building solutions is what makes a practicing engineer. Define is a supporting and encouraging way to bring the spotlight to students. Being present at our event would give you the chance to see how the attendees surge themselves to work together, and make life easier with the help of technology.",
     "event_dates": "Oct 9 - 10, 2026",
@@ -235,6 +211,18 @@ const DATA = [
     "modes": "in-person",
     "location": "Thiruvananthapuram, India",
     "hackathon_page_url": "https://define4.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "Realm Hack '26",
+    "description": "Realm Hack '26 is the flagship annual hackathon organized by CFRA — Computer Science Forum: Realm of Academics, College of Engineering Karunagappally. Built for students and independent developers across India, Realm Hack brings together builders, and problem-solvers to create impactful technology solutions. The hackathon is designed as a three-round selection process, ensuring every team is evaluated on both the quality of its idea and its technical execution before the on-campus finale. Whether you're building your first project or your next big startup idea, Realm Hack '26 is your opportunity to learn, collaborate, and compete on a national stage. Full rules, submission guidelines, announcements, and Round 2 updates will be available on the official website: realmhack.in Realm Hack '26 is the flagship annual hackathon organized by CFRA — Computer Science Forum: Realm of Academics, College of Engineering Karunagappally. Built for students and independent developers across India, Realm Hack brings together builders, and problem-solvers to create impactful technology solutions. The hackathon is designed as a three-round selection process, ensuring every team is evaluated on both the quality of its idea and its technical execution before the on-campus finale. Whether you're building your first project or your next big startup idea, Realm Hack '26 is your opportunity to learn, collaborate, and compete on a national stage. Full rules, submission guidelines, announcements, and Round 2 updates will be available on the official website: realmhack.in",
+    "event_dates": "Oct 9 - 10, 2026",
+    "prize_amount": "$700 Available in Prizes",
+    "modes": "in-person",
+    "location": "Thodiyoor, India",
+    "hackathon_page_url": "https://realm-hack-1.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -273,6 +261,18 @@ const DATA = [
     "hackathon_page_url": "https://www.wemakedevs.org/hackathons/falkordb",
     "status": "open",
     "source": "WeMakeDevs",
+    "level": null
+  },
+  {
+    "title": "OneAquaHealth IEEE Global Hackathon",
+    "description": "About the challenge ***At this stage, the judging panel has been carefully selected and finalized, and we are not seeking additional judges**** Please register to receive regular updates and access upcoming sessions listed under the Rules section, which are essential for building a successful project. Coming Up Next: Session 5 – Build with OneAquaHealth: Turning Data into Hackathon Innovation 📅 Sep 15, 2026 17:00 -18:30 CET: Our next IEEE Global Hackathon Learning Series webinar, “Build with OneAquaHealth: Turning Data into Hackathon Innovation”, takes place on 16 September. Register here For complete session schedules and participation details, please visit the Rules section. The IEEE OneAquaHealth Global Hackathon 2026 focuses on improving the sustainability and health of urban freshwater ecosystems by combining technology, citizen science, and the One Health approach. Urban aquatic environments are critical to biodiversity and human well-being but face increasing challenges due to urbanization, climate change, and limited monitoring capabilities. This challenge invites participants to build solutions that empower citizens and communities to actively contribute to environmental monitoring through intuitive tools and engaging experiences. Teams will explore ways to transform citizen-generated and environmental data into actionable insights that support researchers, policymakers, and local communities in making informed decisions. Participants are encouraged to leverage AI, data platforms, and digital health standards to improve the accuracy, reliability, and interoperability of ecosystem data while maintaining a human-centered approach. The hackathon also emphasizes raising awareness, fostering community engagement, and promoting long-term stewardship of urban water ecosystems through storytelling, gamification, and participatory design. By integrating environmental, climate, and citizen data, teams will help build early-warning systems, resilience tools, and decision-support platforms that strengthen ecosystem sustainability. Ultimately, this hackathon aims to advance the OneAquaHealth mission of connecting ecosystem health, biodiversity, and human well-being , driving innovation toward healthier communities and a more sustainable future. The hackathon aligns closely with the OneAquaHealth project, which is funded by the European Union. OneAquaHealth connects ecosystem health and human well-being through innovative tools for early detection of environmental risks. By combining biodiversity indicators, digital monitoring technologies, and community participation, OneAquaHealth helps identify how urban aquatic ecosystems respond to stressors. This holistic One Health approach supports evidence-based decisions for healthier, more resilient cities. Get started Register on Devpost before the deadline Form a team or participate individually Choose a track aligned with your interests Understand the problem and define your impact Build a prototype using AI, data, or citizen science approaches Follow OneAquaHealth project on LinkedIn , X and Facebook to make hackathon announcements, engage with the community in Europe and receive ideas that may support your project. Join the OneAquaHealth Community to connect with researchers, innovators, and citizen scientists and access domain knowledge relevant to your hackathon solution. Download and use the OneAquaHealth Citizen Science App to explore real environmental data, contribute your own observations, and gain hands ‑ on experience with the types of inputs your hackathon prototype may build upon. Join sessions & mentorship for guidance Submit your project with demo, code, and description 🌱 Tip Focus on building solutions that are impactful, practical, and scalable .",
+    "event_dates": "Sep 14 - Oct 01, 2026",
+    "prize_amount": "$ 3,500",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://oneaquahealth-ieee-hackathon.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
     "level": null
   },
   {
@@ -324,18 +324,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "GlitchFiesta",
-    "description": "Devfolio ke About section ke liye direct markdown template: 🚀 About GlitchFiesta Welcome to GlitchFiesta, where bugs turn into breakthroughs and problems turn into prototypes. Driven by our motto, \"Code the Chaos,\" GlitchFiesta brings together ambitious student developers, designers, and innovators under one roof to build real-world solutions in high-intensity sprints. Whether you are hacking your first web app or integrating advanced machine learning pipelines, this is your playground to experiment, fail fast, and build fearlessly. 🔥 Why Participate? Devfolio ke About section ke liye direct markdown template: 🚀 About GlitchFiesta Welcome to GlitchFiesta, where bugs turn into breakthroughs and problems turn into prototypes. Driven by our motto, \"Code the Chaos,\" GlitchFiesta brings together ambitious student developers, designers, and innovators under one roof to build real-world solutions in high-intensity sprints. Whether you are hacking your first web app or integrating advanced machine learning pipelines, this is your playground to experiment, fail fast, and build fearlessly. 🔥 Why Participate?",
-    "event_dates": "Sep 26, 2026",
-    "prize_amount": "",
-    "modes": "in-person",
-    "location": "Kanpur, India",
-    "hackathon_page_url": "https://glitchfiesta2026.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "Builders Day by HackUnion",
     "description": "Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day. Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day.",
     "event_dates": "Sep 26, 2026",
@@ -343,6 +331,18 @@ const DATA = [
     "modes": "in-person",
     "location": "Hyderabad, India",
     "hackathon_page_url": "https://builders-day-hackunion.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "GlitchFiesta",
+    "description": "Devfolio ke About section ke liye direct markdown template: 🚀 About GlitchFiesta Welcome to GlitchFiesta, where bugs turn into breakthroughs and problems turn into prototypes. Driven by our motto, \"Code the Chaos,\" GlitchFiesta brings together ambitious student developers, designers, and innovators under one roof to build real-world solutions in high-intensity sprints. Whether you are hacking your first web app or integrating advanced machine learning pipelines, this is your playground to experiment, fail fast, and build fearlessly. 🔥 Why Participate? Devfolio ke About section ke liye direct markdown template: 🚀 About GlitchFiesta Welcome to GlitchFiesta, where bugs turn into breakthroughs and problems turn into prototypes. Driven by our motto, \"Code the Chaos,\" GlitchFiesta brings together ambitious student developers, designers, and innovators under one roof to build real-world solutions in high-intensity sprints. Whether you are hacking your first web app or integrating advanced machine learning pipelines, this is your playground to experiment, fail fast, and build fearlessly. 🔥 Why Participate?",
+    "event_dates": "Sep 26, 2026",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "Kanpur, India",
+    "hackathon_page_url": "https://glitchfiesta2026.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -532,7 +532,7 @@ clearDateButton.addEventListener("click", () => {
 });
 
 // Header stats
-document.getElementById("last-checked-date").textContent = "Sep 14, 2026";
+document.getElementById("last-checked-date").textContent = "Sep 15, 2026";
 document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
   (h) => h.status === "open" || h.status === "running",
 ).length;
