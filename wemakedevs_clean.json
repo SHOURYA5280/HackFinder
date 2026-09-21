@@ -12,18 +12,6 @@
     "level": null
   },
   {
-    "title": "First Commit",
-    "description": "",
-    "event_dates": "Sep 17–20",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "",
-    "hackathon_page_url": "https://www.wemakedevs.org/aws/first-commit",
-    "status": "running",
-    "source": "WeMakeDevs",
-    "level": null
-  },
-  {
     "title": "Graph Hacks: Building Next-Gen RAG",
     "description": "",
     "event_dates": "October 2026",
@@ -32,6 +20,18 @@
     "location": "",
     "hackathon_page_url": "https://www.wemakedevs.org/hackathons/falkordb",
     "status": "open",
+    "source": "WeMakeDevs",
+    "level": null
+  },
+  {
+    "title": "First Commit",
+    "description": "",
+    "event_dates": "Sep 17–21",
+    "prize_amount": "",
+    "modes": "remote",
+    "location": "",
+    "hackathon_page_url": "https://www.wemakedevs.org/aws/first-commit",
+    "status": "running",
     "source": "WeMakeDevs",
     "level": null
   }

@@ -12,18 +12,6 @@
     "level": null
   },
   {
-    "title": "NextStep Hacks 2026",
-    "description": "UPDATE: NextStep Hacks 2026 will be extended for 1 MORE WEEK! Mark your calendars for August 21st to September 13th as we kick off an inspiring weekend of creativity and innovation at NextStep Hacks 2026! This year's theme, Earth Forward, is all about tackling environmental challenges with technology and bold ideas. From climate resilience and renewable energy to conservation, sustainable agriculture, and waste reduction, this is your chance to build projects that protect our planet and create a more sustainable future for generations to come. HackAlphaX, the visionary force behind NextStep Hacks, was founded by students committed to shaping the future of STEM and making technology accessible to all. Over the past six years, our events have reached and inspired over 3,000 students, fostering a vibrant community of changemakers. This week-long experience is packed with exciting activities: Engaging workshops to expand your skills. Thrilling raffles and giveaways for participants. Mentor sessions to guide your projects. A celebration of innovation with countless opportunities to connect and collaborate. We can’t wait to welcome you to NextStep Hacks 2026. Join us on this journey to create a future that’s truly Earth Forward ! Those interested in judging or volunteering please fill out this form: Volunteer/Judging Form . Join our discord for more information, announcements, and help from workshop hosts and judges. If you need to reach the team with any questions you can contact them through the server as well. Here is the invite link: https://discord.gg/hFxwvgZDsh. To tune into the opening ceremony, workshops, and closing ceremony, take a look at our YouTube Channel: https://www.youtube.com/@hackalphax .",
-    "event_dates": "Aug 21 - Sep 20, 2026",
-    "prize_amount": "$ 1,750",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://nextstep2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
     "title": "Beginner's Paradise - FirstCommit",
     "description": "Submission Requirements To complete your submission, each team or individual must submit the following on Devpost before the deadline: Required A working project created during the hackathon. A public GitHub repository containing your source code. A project description explaining what you built, how it works, and the problem it solves. A demo video (3–5 minutes) showcasing your project and its main features. Clear setup instructions (README) so judges can run your project if necessary. Recommended A live deployment or hosted version of your project. Screenshots or images of your project. A list of technologies, frameworks, APIs, or libraries used. Any presentation slides or additional documentation. Rules Your project should be started during the hackathon. Existing libraries, templates, and frameworks are allowed, but the core work must be completed during the event. Projects may be built individually or in teams (within the allowed team size). You must own or have permission to use all assets included in your submission. AI tools may be used unless a specific prize category states otherwise. Please disclose any significant AI assistance in your project description. Incomplete, non-functional, or plagiarized submissions may be disqualified. Most importantly, don't worry if your project isn't perfect. First Commit is about learning, building, and taking the next step in your development journey.",
     "event_dates": "Aug 21 - Sep 30, 2026",
@@ -75,7 +63,7 @@
     "title": "Global Innovation Build Challenge V2",
     "description": "About the challenge Getting code to run has never been easier. Getting a system to actually work, at scale, under real constraints, is still hard. That gap is what this hackathon is about. Global Innovation Build Challenge (GIBC) V2 is a fully online, student-led international hackathon. GIBC V1 brought together 552 participants worldwide with backing from sponsors including NordVPN. V2 builds on that with three tracks, an international judging panel, and a larger sponsor lineup. Over the 10-week build period from July 11 to October 1, 2026 , you can register at any time, build solo or in a team of up to 6, and submit to one of three tracks. Projects are reviewed by a panel of industry professionals and academic experts, with winners announced at a virtual closing ceremony on October 8, 2026 . Track 01: TECH (Foundational LLM Development) Build and train a language model capped at 50 million parameters. You design the architecture, curate the data, and write the training loop. We want to see how much capability you can pull out of a deliberately small model. See the Rules page for exactly what the 50M cap includes and which benchmarks we score on. Example directions: a domain-specific assistant for legal or cryptographic text; a model optimized for on-device inference; a small generative model trained on a narrow technical corpus without touching a commercial API. Track 02: Applied (Medical Technology & Finance) Build a data-driven system on real, empirical datasets that solves a problem in healthcare or finance. This means predictive models, diagnostic pipelines, or automated financial systems, backed by data engineering that turns raw input into something a person could actually act on. Example directions: diagnostic software that processes device telemetry; analytics pipelines for pharmaceutical research; quantitative trading models driven by market indicators; automated risk scoring or fraud detection. All datasets must be public or de-identified, and prototypes must not be deployed on real patients or real money. See the Rules page. Track 03: Open (General Technical Invention) Build a functional prototype that shows technical novelty and cross-disciplinary engineering. Software, hardware, interactive media, generative systems, or any combination. No architectural limits and no resource constraints. Example directions: IoT-connected physical infrastructure; a tool that changes how you work day to day; a generative AI product; a full-stack application aimed at an environmental or community problem. Get started 1. Register on Devpost (July 11 to October 1) Sign up here on Devpost. You must be registered on Devpost to submit, even if you signed up on our website first. 2. Build solo or form a team (1 to 6 members) Work alone or assemble a team of up to 6. Once your team is set, pick the one track that fits what you want to build. Each team submits one project to one track. 3. Join the Discord (recommended) Join the official GIBC V2 Discord to find teammates, ask the organizers questions, and get announcements: https://discord.gg/4y6RghaSt5 4. Submit before the deadline (October 1, 11:45pm GMT+8) Submit all six required components on Devpost before the deadline. Late submissions are not reviewed.",
     "event_dates": "Jul 11 - Oct 01, 2026",
-    "prize_amount": "$ 0",
+    "prize_amount": "6",
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://gibc-v2.devpost.com/?ref_feature=challenge&ref_medium=discover",
@@ -96,6 +84,18 @@
     "level": null
   },
   {
+    "title": "Innosprint2.0",
+    "description": "Welcome to the epicentre of innovation and collaboration – the D4 Community's Hackathon at CGC Jhanjeri! What We Are: D4 Community is proud to present an exhilarating hackathon hosted at CGC Jhanjeri, where we bring together budding tech enthusiasts, aspiring innovators, and problem solvers under one roof. With a passion for technology and a drive for innovation, we're dedicated to fostering an environment where bright minds can thrive. Our Mission: Our mission is simple yet profound: to challenge participants to harness their creativity, coding skills, and teamwork to solve real-world problems. We believe in the transformative power of collaboration and coding, and we aim to inspire the next generation of tech leaders. What to Expect: Expect an adrenaline-fueled 24 hours of non-stop coding, brainstorming, and networking. Participants will tackle exciting challenges, engage in workshops, and have the opportunity to win fantastic prizes. HealthTech Innovation : Dive into the world of healthcare and wellness by developing solutions that can improve medical services, patient care, or health monitoring. EdTech Revolution : Revolutionize education with technology. Create tools and platforms that enhance the learning experience, making education more accessible and engaging. Smart Cities and IoT : Innovate for the future of urban living. Build IoT solutions that can make cities smarter, more efficient, and better connected. Agriculture and AgriTech : Explore innovations in agriculture. Build tools or systems that can improve crop yield, farm management, or address food security challenges. Blockchain and Cryptocurrency : Dive into the world of blockchain technology and cryptocurrencies. Work on projects related to decentralized finance (DeFi), NFTs (Non-Fungible Tokens), or blockchain-based voting systems. Robotics and Automation : Explore the possibilities of robotics and automation. Build robots or automated systems that can assist in various industries, from manufacturing to healthcare. E-Commerce Enhancement : Explore ways to enhance the e-commerce experience. Develop solutions for better online shopping, personalized recommendations, or streamlined supply chain management. Open Theme : Don't see a theme that fits your idea? No problem! You're welcome to participate with any tech-related project that excites you. Why Join Us: Join us to broaden your horizons, sharpen your skills, and make lifelong connections with like-minded individuals. Whether you're a seasoned coder or just getting started, the D4 Community's Hackathon at CGC Jhanjeri is the place to be. Stay Tuned: Stay tuned for updates, registration details, and exciting announcements as we gear up for an unforgettable hackathon experience. Together, let's push the boundaries of innovation and make a positive impact on the world through technology. Mark your calendars and get ready to code your way to success with D4 Community's Hackathon at CGC Jhanjeri! Welcome to the epicentre of innovation and collaboration – the D4 Community's Hackathon at CGC Jhanjeri! What We Are: D4 Community is proud to present an exhilarating hackathon hosted at CGC Jhanjeri, where we bring together budding tech enthusiasts, aspiring innovators, and problem solvers under one roof. With a passion for technology and a drive for innovation, we're dedicated to fostering an environment where bright minds can thrive. Our Mission: Our mission is simple yet profound: to challenge participants to harness their creativity, coding skills, and teamwork to solve real-world problems. We believe in the transformative power of collaboration and coding, and we aim to inspire the next generation of tech leaders. What to Expect: Expect an adrenaline-fueled 24 hours of non-stop coding, brainstorming, and networking. Participants will tackle exciting challenges, engage in workshops, and have the opportunity to win fantastic prizes. HealthTech Innovation : Dive into the world of healthcare and wellness by developing solutions that can improve medical services, patient care, or health monitoring. EdTech Revolution : Revolutionize education with technology. Create tools and platforms that enhance the learning experience, making education more accessible and engaging. Smart Cities and IoT : Innovate for the future of urban living. Build IoT solutions that can make cities smarter, more efficient, and better connected. Agriculture and AgriTech : Explore innovations in agriculture. Build tools or systems that can improve crop yield, farm management, or address food security challenges. Blockchain and Cryptocurrency : Dive into the world of blockchain technology and cryptocurrencies. Work on projects related to decentralized finance (DeFi), NFTs (Non-Fungible Tokens), or blockchain-based voting systems. Robotics and Automation : Explore the possibilities of robotics and automation. Build robots or automated systems that can assist in various industries, from manufacturing to healthcare. E-Commerce Enhancement : Explore ways to enhance the e-commerce experience. Develop solutions for better online shopping, personalized recommendations, or streamlined supply chain management. Open Theme : Don't see a theme that fits your idea? No problem! You're welcome to participate with any tech-related project that excites you. Why Join Us: Join us to broaden your horizons, sharpen your skills, and make lifelong connections with like-minded individuals. Whether you're a seasoned coder or just getting started, the D4 Community's Hackathon at CGC Jhanjeri is the place to be. Stay Tuned: Stay tuned for updates, registration details, and exciting announcements as we gear up for an unforgettable hackathon experience. Together, let's push the boundaries of innovation and make a positive impact on the world through technology. Mark your calendars and get ready to code your way to success with D4 Community's Hackathon at CGC Jhanjeri!",
+    "event_dates": "Oct 10 - 11, 2026",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "India",
+    "hackathon_page_url": "https://innosprint-3.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "Innohacks 4.0",
     "description": "Innohacks 4.0 is the flagship national-level 24-hour hackathon organized by Innogeeks , the technical club of KIET Deemed to be University, Delhi-NCR, Ghaziabad. After three successful editions, Innohacks 4.0 is back to bring together developers, designers, innovators, and problem-solvers from across India. With 6 exciting themes, Innohacks 4.0 is a platform to transform ideas into impactful technological solutions. Whether you're building your first prototype or bringing years of technical experience to the table, this is your chance to learn, collaborate, build, and showcase what you can create. The journey begins with your idea. Submit a PPT outlining your problem statement, proposed solution, technology stack, and implementation approach . Follow this template for PPT submission: PPT Template Note: Simply registering on Devfolio does not guarantee shortlisting. To be eligible for consideration, teams must submit their Idea PPT and GitHub team details by 25th September 2026 . The top 50-100 teams will be shortlisted for the final 24-hour offline hackathon at KIET Deemed to be University, where you'll turn your ideas into working prototypes, collaborate with your team, and present your solution to the judges. Get your team ready, bring your ideas, and prepare for 24 hours of building, learning, and innovation. Join the Innohacks Discord Server as a mandatory step! Whether you're a blockchain enthusiast , an AI aficionado , or a fintech wizard , Innohacks 4.0 has something for everyone! From AR/VR marvels to AIoT wonders , get ready to push the boundaries of what's possible! ⚡ Innohacks 4.0 is the flagship national-level 24-hour hackathon organized by Innogeeks , the technical club of KIET Deemed to be University, Delhi-NCR, Ghaziabad. After three successful editions, Innohacks 4.0 is back to bring together developers, designers, innovators, and problem-solvers from across India. With 6 exciting themes, Innohacks 4.0 is a platform to transform ideas into impactful technological solutions. Whether you're building your first prototype or bringing years of technical experience to the table, this is your chance to learn, collaborate, build, and showcase what you can create. The journey begins with your idea. Submit a PPT outlining your problem statement, proposed solution, technology stack, and implementation approach . Follow this template for PPT submission: PPT Template Note: Simply registering on Devfolio does not guarantee shortlisting. To be eligible for consideration, teams must submit their Idea PPT and GitHub team details by 25th September 2026 . The top 50-100 teams will be shortlisted for the final 24-hour offline hackathon at KIET Deemed to be University, where you'll turn your ideas into working prototypes, collaborate with your team, and present your solution to the judges. Get your team ready, bring your ideas, and prepare for 24 hours of building, learning, and innovation. Join the Innohacks Discord Server as a mandatory step! Whether you're a blockchain enthusiast , an AI aficionado , or a fintech wizard , Innohacks 4.0 has something for everyone! From AR/VR marvels to AIoT wonders , get ready to push the boundaries of what's possible! ⚡",
     "event_dates": "Oct 10 - 11, 2026",
@@ -103,30 +103,6 @@
     "modes": "in-person",
     "location": "Ghaziabad, India",
     "hackathon_page_url": "https://innohacks-4.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
-    "title": "Srijan Setu",
-    "description": "A 24-hour hackathon where real problems meet the people who can actually solve them. Srijan Setu connects real challenges—from local communities, businesses, and industry partners—with developers who want to build something that actually works, not just pitch an idea. If you've ever finished a hackathon with a deck instead of a demo, this one's different. Bring your team, pick a problem statement, and get 24 hours to design, build, and ship a working prototype. Mentors are around throughout to help when you're stuck; not just for a photo-op at the start. A 24-hour hackathon where real problems meet the people who can actually solve them. Srijan Setu connects real challenges—from local communities, businesses, and industry partners—with developers who want to build something that actually works, not just pitch an idea. If you've ever finished a hackathon with a deck instead of a demo, this one's different. Bring your team, pick a problem statement, and get 24 hours to design, build, and ship a working prototype. Mentors are around throughout to help when you're stuck; not just for a photo-op at the start.",
-    "event_dates": "Oct 10 - 11, 2026",
-    "prize_amount": "",
-    "modes": "in-person",
-    "location": "New Chandigarh, India",
-    "hackathon_page_url": "https://srijan-setu.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
-    "title": "Innosprint2.0",
-    "description": "",
-    "event_dates": "Oct 10 - 11, 2026",
-    "prize_amount": "",
-    "modes": "in-person",
-    "location": "India",
-    "hackathon_page_url": "https://innosprint-3.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -144,6 +120,18 @@
     "level": null
   },
   {
+    "title": "Srijan Setu",
+    "description": "] Srijan Setu is a 24-hour hackathon by Google Developer Groups on Campus: Indo Global College , built around one simple idea — turning ideas into meaningful solutions. Inspired by the spirit of Spider-Man , Srijan Setu is about using your skills, creativity, and technology with purpose. Just as every thread becomes stronger when it connects to another, great solutions are built when people, ideas, and technology come together. Bring your team of 2–4 members , choose a challenge from our innovation tracks, and spend 24 hours turning your idea into a working solution. Whether you're a developer, designer, problem-solver, or someone with an idea worth building, Srijan Setu is your space to experiment, collaborate, learn, and create. Explore challenges across: • HealthTech • EdTech • AgriTech • E-Commerce • Open Theme You can choose the domain that interests you and build a solution that addresses a meaningful problem. It's about finding problems worth solving, building with purpose, learning from others, and connecting your ideas to real-world impact. •💡 Turn ideas into working solutions •🤝 Collaborate with people from different backgrounds •🧠 Learn through hands-on building •🛠️ Experiment with modern technologies •🌐 Connect with fellow builders and the developer community •🎯 Take your solution from concept to prototype Use AI as a tool to think, build, experiment, and accelerate your development. Your solution should still reflect your team's understanding, creativity, and contribution. Every great solution begins with a connection — between a problem and an idea, an idea and technology, and technology and people. ] Srijan Setu is a 24-hour hackathon by Google Developer Groups on Campus: Indo Global College , built around one simple idea — turning ideas into meaningful solutions. Inspired by the spirit of Spider-Man , Srijan Setu is about using your skills, creativity, and technology with purpose. Just as every thread becomes stronger when it connects to another, great solutions are built when people, ideas, and technology come together. Bring your team of 2–4 members , choose a challenge from our innovation tracks, and spend 24 hours turning your idea into a working solution. Whether you're a developer, designer, problem-solver, or someone with an idea worth building, Srijan Setu is your space to experiment, collaborate, learn, and create. Explore challenges across: • HealthTech • EdTech • AgriTech • E-Commerce • Open Theme You can choose the domain that interests you and build a solution that addresses a meaningful problem. It's about finding problems worth solving, building with purpose, learning from others, and connecting your ideas to real-world impact. •💡 Turn ideas into working solutions •🤝 Collaborate with people from different backgrounds •🧠 Learn through hands-on building •🛠️ Experiment with modern technologies •🌐 Connect with fellow builders and the developer community •🎯 Take your solution from concept to prototype Use AI as a tool to think, build, experiment, and accelerate your development. Your solution should still reflect your team's understanding, creativity, and contribution. Every great solution begins with a connection — between a problem and an idea, an idea and technology, and technology and people.",
+    "event_dates": "Oct 10 - 11, 2026",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "New Chandigarh, India",
+    "hackathon_page_url": "https://srijan-setu.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "HackTopus'FE",
     "description": "HACKTOPUS is a premier 48-hour in-person hackathon organised by GDG On Campus GLA University. It brings together 600+ developers, designers, AI enthusiasts, and startup founders at GLA University, Mathura to build real projects from scratch. WHY HACKTOPUS? To give students and creators a high-energy environment where they can build without limits — with mentors, workshops, food, accommodation, and prizes all included. No excuses, just building. HACKTOPUS is a premier 48-hour in-person hackathon organised by GDG On Campus GLA University. It brings together 600+ developers, designers, AI enthusiasts, and startup founders at GLA University, Mathura to build real projects from scratch. WHY HACKTOPUS? To give students and creators a high-energy environment where they can build without limits — with mentors, workshops, food, accommodation, and prizes all included. No excuses, just building.",
     "event_dates": "Oct 14 - 16, 2026",
@@ -151,6 +139,18 @@
     "modes": "in-person",
     "location": "Bharthia, India",
     "hackathon_page_url": "https://hacktopusgdg.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "Winter of Code 2026",
+    "description": "Winter of Code 2026 is an open-source contribution program designed to help students and developers get started with real-world software development and open-source collaboration. Participants will have the opportunity to explore open-source projects, contribute code, fix issues, improve documentation, and collaborate with project maintainers and fellow developers. The program focuses on learning by doing, encouraging participants to build practical development skills, understand real-world Git and GitHub workflows, and make meaningful contributions to the open-source community. Whether you are new to open source or already have development experience, Winter of Code 2026 provides an opportunity to learn, contribute, and grow as a developer. Winter of Code 2026 is an open-source contribution program designed to help students and developers get started with real-world software development and open-source collaboration. Participants will have the opportunity to explore open-source projects, contribute code, fix issues, improve documentation, and collaborate with project maintainers and fellow developers. The program focuses on learning by doing, encouraging participants to build practical development skills, understand real-world Git and GitHub workflows, and make meaningful contributions to the open-source community. Whether you are new to open source or already have development experience, Winter of Code 2026 provides an opportunity to learn, contribute, and grow as a developer.",
+    "event_dates": "Oct 15 - Dec 1, 2026",
+    "prize_amount": "",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://winter-of-code-4.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -240,18 +240,6 @@
     "level": null
   },
   {
-    "title": "HACKBIOS 2K26",
-    "description": "HackBIOS 2k26 is a national-level hackathon bringing together the brightest young innovators, developers, and tech enthusiasts from across the country to solve real-world problems through technology. Our previous edition saw 350+ attendees come together for an incredible offline experience , a remarkable success that left a lasting impression on all who attended. This year, HackBIOS 2k26 will be conducted in two rounds: 📁 A detailed guide and demo video are available to help you prepare — https://drive.google.com/drive/folders/1sz2XH2rJgvy8TrmQ468ALh2hkZBq9b9s?usp=sharing HackBIOS 2k26 is a national-level hackathon bringing together the brightest young innovators, developers, and tech enthusiasts from across the country to solve real-world problems through technology. Our previous edition saw 350+ attendees come together for an incredible offline experience , a remarkable success that left a lasting impression on all who attended. This year, HackBIOS 2k26 will be conducted in two rounds: 📁 A detailed guide and demo video are available to help you prepare — https://drive.google.com/drive/folders/1sz2XH2rJgvy8TrmQ468ALh2hkZBq9b9s?usp=sharing",
-    "event_dates": "Oct 9 - 10, 2026",
-    "prize_amount": "$11,000 Available in Prizes",
-    "modes": "in-person",
-    "location": "Junwani, India",
-    "hackathon_page_url": "https://hackbios2k26.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "DEFINE 4.0",
     "description": "The Department of Computer Science and Engineering of Mar Baselios College of Engineering and Technology , Thiruvananthapuram proudly present the fourth edition of DEFINE, an exclusive, exciting and stimulating 24-Hour Hackathon . Finding problems and building solutions is what makes a practicing engineer. Define is a supporting and encouraging way to bring the spotlight to students. Being present at our event would give you the chance to see how the attendees surge themselves to work together, and make life easier with the help of technology. The Department of Computer Science and Engineering of Mar Baselios College of Engineering and Technology , Thiruvananthapuram proudly present the fourth edition of DEFINE, an exclusive, exciting and stimulating 24-Hour Hackathon . Finding problems and building solutions is what makes a practicing engineer. Define is a supporting and encouraging way to bring the spotlight to students. Being present at our event would give you the chance to see how the attendees surge themselves to work together, and make life easier with the help of technology.",
     "event_dates": "Oct 9 - 10, 2026",
@@ -259,6 +247,18 @@
     "modes": "in-person",
     "location": "Thiruvananthapuram, India",
     "hackathon_page_url": "https://define4.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "HACKBIOS 2K26",
+    "description": "HackBIOS 2k26 is a national-level hackathon bringing together the brightest young innovators, developers, and tech enthusiasts from across the country to solve real-world problems through technology. Our previous edition saw 350+ attendees come together for an incredible offline experience , a remarkable success that left a lasting impression on all who attended. This year, HackBIOS 2k26 will be conducted in two rounds: 📁 A detailed guide and demo video are available to help you prepare — https://drive.google.com/drive/folders/1sz2XH2rJgvy8TrmQ468ALh2hkZBq9b9s?usp=sharing HackBIOS 2k26 is a national-level hackathon bringing together the brightest young innovators, developers, and tech enthusiasts from across the country to solve real-world problems through technology. Our previous edition saw 350+ attendees come together for an incredible offline experience , a remarkable success that left a lasting impression on all who attended. This year, HackBIOS 2k26 will be conducted in two rounds: 📁 A detailed guide and demo video are available to help you prepare — https://drive.google.com/drive/folders/1sz2XH2rJgvy8TrmQ468ALh2hkZBq9b9s?usp=sharing",
+    "event_dates": "Oct 9 - 10, 2026",
+    "prize_amount": "$11,000 Available in Prizes",
+    "modes": "in-person",
+    "location": "Junwani, India",
+    "hackathon_page_url": "https://hackbios2k26.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -288,6 +288,18 @@
     "level": null
   },
   {
+    "title": "OneAquaHealth IEEE Global Hackathon",
+    "description": "About the challenge ***At this stage, the judging panel has been carefully selected and finalized, and we are not seeking additional judges**** Please register to receive regular updates and access upcoming sessions listed under the Rules section, which are essential for building a successful project. ** Registration Still Open** Register and Start Building Recordings from all previous sessions are available here: https://www.oneaquahealth.eu/project-events/ These sessions cover the key concepts, resources, expectations, and guidance participants need for the hackathon, including what we are looking for in strong submissions. We highly encourage participants to review the recordings as they develop and finalize their solutions. For complete session schedules and participation details, please visit the Rules section. The IEEE OneAquaHealth Global Hackathon 2026 focuses on improving the sustainability and health of urban freshwater ecosystems by combining technology, citizen science, and the One Health approach. Urban aquatic environments are critical to biodiversity and human well-being but face increasing challenges due to urbanization, climate change, and limited monitoring capabilities. This challenge invites participants to build solutions that empower citizens and communities to actively contribute to environmental monitoring through intuitive tools and engaging experiences. Teams will explore ways to transform citizen-generated and environmental data into actionable insights that support researchers, policymakers, and local communities in making informed decisions. Participants are encouraged to leverage AI, data platforms, and digital health standards to improve the accuracy, reliability, and interoperability of ecosystem data while maintaining a human-centered approach. The hackathon also emphasizes raising awareness, fostering community engagement, and promoting long-term stewardship of urban water ecosystems through storytelling, gamification, and participatory design. By integrating environmental, climate, and citizen data, teams will help build early-warning systems, resilience tools, and decision-support platforms that strengthen ecosystem sustainability. Ultimately, this hackathon aims to advance the OneAquaHealth mission of connecting ecosystem health, biodiversity, and human well-being , driving innovation toward healthier communities and a more sustainable future. The hackathon aligns closely with the OneAquaHealth project, which is funded by the European Union. OneAquaHealth connects ecosystem health and human well-being through innovative tools for early detection of environmental risks. By combining biodiversity indicators, digital monitoring technologies, and community participation, OneAquaHealth helps identify how urban aquatic ecosystems respond to stressors. This holistic One Health approach supports evidence-based decisions for healthier, more resilient cities. Get started Register on Devpost before the deadline Form a team or participate individually Choose a track aligned with your interests Understand the problem and define your impact Build a prototype using AI, data, or citizen science approaches Follow OneAquaHealth project on LinkedIn , X and Facebook to make hackathon announcements, engage with the community in Europe and receive ideas that may support your project. Join the OneAquaHealth Community to connect with researchers, innovators, and citizen scientists and access domain knowledge relevant to your hackathon solution. Download and use the OneAquaHealth Citizen Science App to explore real environmental data, contribute your own observations, and gain hands ‑ on experience with the types of inputs your hackathon prototype may build upon. Join sessions & mentorship for guidance Submit your project with demo, code, and description 🌱 Tip Focus on building solutions that are impactful, practical, and scalable .",
+    "event_dates": "Sep 14 - Oct 01, 2026",
+    "prize_amount": "$ 3,500",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://oneaquahealth-ieee-hackathon.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
     "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
     "description": "Calling all AWS Partners! We are inviting you to build the next wave of conversational solutions on AWS Communication Developer Services (CDS)! AWS CDS enables AWS Partners to help customers engage users at a global scale through AWS End User Messaging (EUM) which includes Rich Communication Services (RCS), Short Message Services (SMS), and WhatsApp. It also includes Amazon Simple Email Service (SES). AWS CDS is the infrastructure that powers messaging across Amazon.com , Amazon Cognito, SNS, and Amazon Connect. AWS CDS is often used for one-time passwords (OTP), notifications, and rules-based chatbots that follow rigid scripts. We challenge you to think beyond this. The future of customer engagement is conversational: reaching customers in the channel (i.e. email vs. RCS vs. WhatsApp) they prefer, picking up right where the last conversation left off, and using two-way communication so customers tell you directly what they want and share signals that improve your products and services. Picture omnichannel experiences where a conversation starts in one channel and completes an action in another: a prescription refill reminder via SMS that lets the patient find and schedule the nearest pharmacy pickup through RCS with a tap, then sends dosage instructions via email, all without leaving the messaging experience. Push the boundaries. Build agentic solutions where AWS CDS is the communications backbone, powered by AI such as Amazon Bedrock AgentCore. Surprise us with your real customer and industry solutions! Why You Should Participate Innovate with AWS CDS . Get hands-on with AWS CDS combined with agentic AI powered by Amazon Bedrock AgentCore. Solve Real Customer Problems . Create agentic solutions tied to customer and industry use cases that can scale across your customer base. Package your hackathon submission into a repeatable offering, list it on AWS Marketplace, and win AWS Specialist GTM and enablement support to accelerate real customer deals. Win Big . Compete for your share of $40,000 USD in cash prizes, in addition to an opportunity for a joint case study and 1:1 access to AWS Specialists to build and grow your AWS CDS practice and hackathon solution. Visibility for Your Organization . Winners will be announced via Devpost and the top winner will be offered a joint case study with AWS. Drive awareness and new leads to your practice. Direct Access to AWS Specialists . Join live webinars and weekly office hours to ask questions, get feedback, and shape the services roadmap. How to Get Started Now Brainstorm Your Idea . Think outside the box to improve customer communication experience through AWS CDS. Review the Tech Stack . Familiarize yourself with the AWS CDS services and how to pair them with agentic AI frameworks such as Amazon Bedrock AgentCore. See the Requirements below. Form Your Team (Optional). Find collaborators within the same AWS Partner organization who are excited to improve customer problems through AWS CDS. Diverse skillsets in development, architecture, and customer engagement can go a long way. Start Building . Stand up an RCS agent within 5 minutes to develop an entire solution, decide later to use RCS or phone numbers for each country you’re serving, and expand from there.",
     "event_dates": "Sep 14 - Oct 28, 2026",
@@ -302,7 +314,7 @@
   {
     "title": "First Commit",
     "description": "",
-    "event_dates": "Sep 17–20",
+    "event_dates": "Sep 17–21",
     "prize_amount": "",
     "modes": "remote",
     "location": "",
@@ -312,27 +324,15 @@
     "level": null
   },
   {
-    "title": "Hack the North 2026",
-    "description": "Join 1000+ students from all around the globe at the University of Waterloo to build something incredible in just 36 hours. At Hack the North, our goal is to make it easy for anyone to dream big. As a student-run organization, we aim to engage and empower students of all backgrounds and experience levels by providing the resources to turn your ideas into a reality! NOTE: Registering on Devpost does not give you access to the event. You must have been admitted to Hack the North 2026 through our application process in order to attend.",
-    "event_dates": "Sep 18 - 20, 2026",
-    "prize_amount": "39",
-    "modes": "in-person",
-    "location": "University of Waterloo — E5/PSE",
-    "hackathon_page_url": "https://hackthenorth2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "title": "MLAI Hackathon 2026",
+    "description": "MLAI Hackathon 2026 là cuộc thi lập trình Trí tuệ Nhân tạo quy mô lớn tại TP.HCM dành cho sinh viên Việt Nam, do Mạng lưới trung tâm đào tạo xuất sắc và tài năng về Công nghệ 4.0 trong Lĩnh vực Trí tuệ nhân tạo (AI) khu vực phía Nam (viết tắt là Mạng lưới AI) tổ chức Đại học Bách Khoa TP.HCM (HCMUT), với sự hỗ trợ chuyên môn từ OpenAI. Thí sinh có thể đăng ký dự thi theo nhóm từ 1 đến 4 thành viên. Mỗi thành viên trong nhóm phải là sinh viên hoặc cựu sinh viên đang/đã theo học tại một trong 23 trường thành viên thuộc Mạng lưới .",
+    "event_dates": "Sep 18 - Oct 16, 2026",
+    "prize_amount": "4",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://mlai-hackathon.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "Builders Day by HackUnion",
-    "description": "Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day. Builders Day is not about starting your project from scratch on the final day. Projects can be developed from 28 July to 26 September , with the final submission deadline at 3:00 PM IST on 26 September . Whether you're bringing an MVP from the OBW Campus Series or building independently, come prepared with a working product. We recommend having your project ~95% complete before Builders Day . Use the final day to improve, test, scale, polish, network, showcase your work, and celebrate what you've built. We've put together the Builders Day Participant Guide with everything you need to know — eligibility, project requirements, development timeline, judging criteria, submissions, AI and tool usage, team participation, prizes, final-day expectations, and the submission checklist. 📖 Read the complete Hackathon Guide → HACKATHON GUIDE LINK Read it. Prepare your project. Then come ready to build. Builders Day by HackUnion is the culmination of the OpenBuild Week journey, a space where builders come together to collaborate, solve problems, build products, and compete. From learning to building. From ideas to prototypes. From campus communities to one Builders Day. Builders Day is not about starting your project from scratch on the final day. Projects can be developed from 28 July to 26 September , with the final submission deadline at 3:00 PM IST on 26 September . Whether you're bringing an MVP from the OBW Campus Series or building independently, come prepared with a working product. We recommend having your project ~95% complete before Builders Day . Use the final day to improve, test, scale, polish, network, showcase your work, and celebrate what you've built. We've put together the Builders Day Participant Guide with everything you need to know — eligibility, project requirements, development timeline, judging criteria, submissions, AI and tool usage, team participation, prizes, final-day expectations, and the submission checklist. 📖 Read the complete Hackathon Guide → HACKATHON GUIDE LINK Read it. Prepare your project. Then come ready to build.",
-    "event_dates": "Sep 26, 2026",
-    "prize_amount": "$350 Available in Prizes",
-    "modes": "in-person",
-    "location": "Hyderabad, India",
-    "hackathon_page_url": "https://builders-day-hackunion.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
     "level": null
   },
   {

@@ -51,22 +51,10 @@
     "title": "Global Innovation Build Challenge V2",
     "description": "About the challenge Getting code to run has never been easier. Getting a system to actually work, at scale, under real constraints, is still hard. That gap is what this hackathon is about. Global Innovation Build Challenge (GIBC) V2 is a fully online, student-led international hackathon. GIBC V1 brought together 552 participants worldwide with backing from sponsors including NordVPN. V2 builds on that with three tracks, an international judging panel, and a larger sponsor lineup. Over the 10-week build period from July 11 to October 1, 2026 , you can register at any time, build solo or in a team of up to 6, and submit to one of three tracks. Projects are reviewed by a panel of industry professionals and academic experts, with winners announced at a virtual closing ceremony on October 8, 2026 . Track 01: TECH (Foundational LLM Development) Build and train a language model capped at 50 million parameters. You design the architecture, curate the data, and write the training loop. We want to see how much capability you can pull out of a deliberately small model. See the Rules page for exactly what the 50M cap includes and which benchmarks we score on. Example directions: a domain-specific assistant for legal or cryptographic text; a model optimized for on-device inference; a small generative model trained on a narrow technical corpus without touching a commercial API. Track 02: Applied (Medical Technology & Finance) Build a data-driven system on real, empirical datasets that solves a problem in healthcare or finance. This means predictive models, diagnostic pipelines, or automated financial systems, backed by data engineering that turns raw input into something a person could actually act on. Example directions: diagnostic software that processes device telemetry; analytics pipelines for pharmaceutical research; quantitative trading models driven by market indicators; automated risk scoring or fraud detection. All datasets must be public or de-identified, and prototypes must not be deployed on real patients or real money. See the Rules page. Track 03: Open (General Technical Invention) Build a functional prototype that shows technical novelty and cross-disciplinary engineering. Software, hardware, interactive media, generative systems, or any combination. No architectural limits and no resource constraints. Example directions: IoT-connected physical infrastructure; a tool that changes how you work day to day; a generative AI product; a full-stack application aimed at an environmental or community problem. Get started 1. Register on Devpost (July 11 to October 1) Sign up here on Devpost. You must be registered on Devpost to submit, even if you signed up on our website first. 2. Build solo or form a team (1 to 6 members) Work alone or assemble a team of up to 6. Once your team is set, pick the one track that fits what you want to build. Each team submits one project to one track. 3. Join the Discord (recommended) Join the official GIBC V2 Discord to find teammates, ask the organizers questions, and get announcements: https://discord.gg/4y6RghaSt5 4. Submit before the deadline (October 1, 11:45pm GMT+8) Submit all six required components on Devpost before the deadline. Late submissions are not reviewed.",
     "event_dates": "Jul 11 - Oct 01, 2026",
-    "prize_amount": "$ 0",
+    "prize_amount": "6",
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://gibc-v2.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "Hack the North 2026",
-    "description": "Join 1000+ students from all around the globe at the University of Waterloo to build something incredible in just 36 hours. At Hack the North, our goal is to make it easy for anyone to dream big. As a student-run organization, we aim to engage and empower students of all backgrounds and experience levels by providing the resources to turn your ideas into a reality! NOTE: Registering on Devpost does not give you access to the event. You must have been admitted to Hack the North 2026 through our application process in order to attend.",
-    "event_dates": "Sep 18 - 20, 2026",
-    "prize_amount": "39",
-    "modes": "in-person",
-    "location": "University of Waterloo — E5/PSE",
-    "hackathon_page_url": "https://hackthenorth2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
@@ -84,18 +72,6 @@
     "level": null
   },
   {
-    "title": "NextStep Hacks 2026",
-    "description": "UPDATE: NextStep Hacks 2026 will be extended for 1 MORE WEEK! Mark your calendars for August 21st to September 13th as we kick off an inspiring weekend of creativity and innovation at NextStep Hacks 2026! This year's theme, Earth Forward, is all about tackling environmental challenges with technology and bold ideas. From climate resilience and renewable energy to conservation, sustainable agriculture, and waste reduction, this is your chance to build projects that protect our planet and create a more sustainable future for generations to come. HackAlphaX, the visionary force behind NextStep Hacks, was founded by students committed to shaping the future of STEM and making technology accessible to all. Over the past six years, our events have reached and inspired over 3,000 students, fostering a vibrant community of changemakers. This week-long experience is packed with exciting activities: Engaging workshops to expand your skills. Thrilling raffles and giveaways for participants. Mentor sessions to guide your projects. A celebration of innovation with countless opportunities to connect and collaborate. We can’t wait to welcome you to NextStep Hacks 2026. Join us on this journey to create a future that’s truly Earth Forward ! Those interested in judging or volunteering please fill out this form: Volunteer/Judging Form . Join our discord for more information, announcements, and help from workshop hosts and judges. If you need to reach the team with any questions you can contact them through the server as well. Here is the invite link: https://discord.gg/hFxwvgZDsh. To tune into the opening ceremony, workshops, and closing ceremony, take a look at our YouTube Channel: https://www.youtube.com/@hackalphax .",
-    "event_dates": "Aug 21 - Sep 20, 2026",
-    "prize_amount": "$ 1,750",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://nextstep2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
     "title": "Beginner's Paradise - FirstCommit",
     "description": "Submission Requirements To complete your submission, each team or individual must submit the following on Devpost before the deadline: Required A working project created during the hackathon. A public GitHub repository containing your source code. A project description explaining what you built, how it works, and the problem it solves. A demo video (3–5 minutes) showcasing your project and its main features. Clear setup instructions (README) so judges can run your project if necessary. Recommended A live deployment or hosted version of your project. Screenshots or images of your project. A list of technologies, frameworks, APIs, or libraries used. Any presentation slides or additional documentation. Rules Your project should be started during the hackathon. Existing libraries, templates, and frameworks are allowed, but the core work must be completed during the event. Projects may be built individually or in teams (within the allowed team size). You must own or have permission to use all assets included in your submission. AI tools may be used unless a specific prize category states otherwise. Please disclose any significant AI assistance in your project description. Incomplete, non-functional, or plagiarized submissions may be disqualified. Most importantly, don't worry if your project isn't perfect. First Commit is about learning, building, and taking the next step in your development journey.",
     "event_dates": "Aug 21 - Sep 30, 2026",
@@ -103,6 +79,30 @@
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://firstcommit.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
+    "title": "OneAquaHealth IEEE Global Hackathon",
+    "description": "About the challenge ***At this stage, the judging panel has been carefully selected and finalized, and we are not seeking additional judges**** Please register to receive regular updates and access upcoming sessions listed under the Rules section, which are essential for building a successful project. ** Registration Still Open** Register and Start Building Recordings from all previous sessions are available here: https://www.oneaquahealth.eu/project-events/ These sessions cover the key concepts, resources, expectations, and guidance participants need for the hackathon, including what we are looking for in strong submissions. We highly encourage participants to review the recordings as they develop and finalize their solutions. For complete session schedules and participation details, please visit the Rules section. The IEEE OneAquaHealth Global Hackathon 2026 focuses on improving the sustainability and health of urban freshwater ecosystems by combining technology, citizen science, and the One Health approach. Urban aquatic environments are critical to biodiversity and human well-being but face increasing challenges due to urbanization, climate change, and limited monitoring capabilities. This challenge invites participants to build solutions that empower citizens and communities to actively contribute to environmental monitoring through intuitive tools and engaging experiences. Teams will explore ways to transform citizen-generated and environmental data into actionable insights that support researchers, policymakers, and local communities in making informed decisions. Participants are encouraged to leverage AI, data platforms, and digital health standards to improve the accuracy, reliability, and interoperability of ecosystem data while maintaining a human-centered approach. The hackathon also emphasizes raising awareness, fostering community engagement, and promoting long-term stewardship of urban water ecosystems through storytelling, gamification, and participatory design. By integrating environmental, climate, and citizen data, teams will help build early-warning systems, resilience tools, and decision-support platforms that strengthen ecosystem sustainability. Ultimately, this hackathon aims to advance the OneAquaHealth mission of connecting ecosystem health, biodiversity, and human well-being , driving innovation toward healthier communities and a more sustainable future. The hackathon aligns closely with the OneAquaHealth project, which is funded by the European Union. OneAquaHealth connects ecosystem health and human well-being through innovative tools for early detection of environmental risks. By combining biodiversity indicators, digital monitoring technologies, and community participation, OneAquaHealth helps identify how urban aquatic ecosystems respond to stressors. This holistic One Health approach supports evidence-based decisions for healthier, more resilient cities. Get started Register on Devpost before the deadline Form a team or participate individually Choose a track aligned with your interests Understand the problem and define your impact Build a prototype using AI, data, or citizen science approaches Follow OneAquaHealth project on LinkedIn , X and Facebook to make hackathon announcements, engage with the community in Europe and receive ideas that may support your project. Join the OneAquaHealth Community to connect with researchers, innovators, and citizen scientists and access domain knowledge relevant to your hackathon solution. Download and use the OneAquaHealth Citizen Science App to explore real environmental data, contribute your own observations, and gain hands ‑ on experience with the types of inputs your hackathon prototype may build upon. Join sessions & mentorship for guidance Submit your project with demo, code, and description 🌱 Tip Focus on building solutions that are impactful, practical, and scalable .",
+    "event_dates": "Sep 14 - Oct 01, 2026",
+    "prize_amount": "$ 3,500",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://oneaquahealth-ieee-hackathon.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
+    "title": "MLAI Hackathon 2026",
+    "description": "MLAI Hackathon 2026 là cuộc thi lập trình Trí tuệ Nhân tạo quy mô lớn tại TP.HCM dành cho sinh viên Việt Nam, do Mạng lưới trung tâm đào tạo xuất sắc và tài năng về Công nghệ 4.0 trong Lĩnh vực Trí tuệ nhân tạo (AI) khu vực phía Nam (viết tắt là Mạng lưới AI) tổ chức Đại học Bách Khoa TP.HCM (HCMUT), với sự hỗ trợ chuyên môn từ OpenAI. Thí sinh có thể đăng ký dự thi theo nhóm từ 1 đến 4 thành viên. Mỗi thành viên trong nhóm phải là sinh viên hoặc cựu sinh viên đang/đã theo học tại một trong 23 trường thành viên thuộc Mạng lưới .",
+    "event_dates": "Sep 18 - Oct 16, 2026",
+    "prize_amount": "4",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://mlai-hackathon.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
