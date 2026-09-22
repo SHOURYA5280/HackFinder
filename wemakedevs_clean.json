@@ -22,17 +22,5 @@
     "status": "open",
     "source": "WeMakeDevs",
     "level": null
-  },
-  {
-    "title": "First Commit",
-    "description": "",
-    "event_dates": "Sep 17–21",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "",
-    "hackathon_page_url": "https://www.wemakedevs.org/aws/first-commit",
-    "status": "running",
-    "source": "WeMakeDevs",
-    "level": null
   }
 ]
