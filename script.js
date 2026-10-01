@@ -1,14 +1,14 @@
 const DATA = [
   {
-    "title": "Beginner's Paradise - FirstCommit",
-    "description": "Submission Requirements To complete your submission, each team or individual must submit the following on Devpost before the deadline: Required A working project created during the hackathon. A public GitHub repository containing your source code. A project description explaining what you built, how it works, and the problem it solves. A demo video (3–5 minutes) showcasing your project and its main features. Clear setup instructions (README) so judges can run your project if necessary. Recommended A live deployment or hosted version of your project. Screenshots or images of your project. A list of technologies, frameworks, APIs, or libraries used. Any presentation slides or additional documentation. Rules Your project should be started during the hackathon. Existing libraries, templates, and frameworks are allowed, but the core work must be completed during the event. Projects may be built individually or in teams (within the allowed team size). You must own or have permission to use all assets included in your submission. AI tools may be used unless a specific prize category states otherwise. Please disclose any significant AI assistance in your project description. Incomplete, non-functional, or plagiarized submissions may be disqualified. Most importantly, don't worry if your project isn't perfect. First Commit is about learning, building, and taking the next step in your development journey.",
-    "event_dates": "Aug 21 - Sep 30, 2026",
-    "prize_amount": "$ 1,024",
+    "title": "CodeStorm 2026: FutureForge",
+    "description": "CodeStorm 2026: FutureForge is a student-focused innovation hackathon where developers, designers, creators, and problem-solvers come together to build impactful solutions using technology. Unlike traditional hackathons that focus on a single domain, FutureForge embraces Open Innovation , allowing participants to tackle real-world challenges across any field they are passionate about. Whether it's Artificial Intelligence, Web Development, Cybersecurity, Education Technology, Sustainability, Productivity Tools, Mobile Applications, or something entirely unique, this is your platform to innovate. This hackathon is part of the CodeStorm 2026 Series , an initiative dedicated to empowering students through hands-on learning, collaboration, and innovation. The event will be conducted completely online through our Discord community. Participation is free, and teams may consist of 1–6 members . Participants are encouraged to think boldly, experiment fearlessly, and build projects that create meaningful impact while showcasing technical excellence and creativity. CodeStorm is a student-led initiative dedicated to creating opportunities for young innovators, builders, and creators across India. CodeStorm 2026: FutureForge is a student-focused innovation hackathon where developers, designers, creators, and problem-solvers come together to build impactful solutions using technology. Unlike traditional hackathons that focus on a single domain, FutureForge embraces Open Innovation , allowing participants to tackle real-world challenges across any field they are passionate about. Whether it's Artificial Intelligence, Web Development, Cybersecurity, Education Technology, Sustainability, Productivity Tools, Mobile Applications, or something entirely unique, this is your platform to innovate. This hackathon is part of the CodeStorm 2026 Series , an initiative dedicated to empowering students through hands-on learning, collaboration, and innovation. The event will be conducted completely online through our Discord community. Participation is free, and teams may consist of 1–6 members . Participants are encouraged to think boldly, experiment fearlessly, and build projects that create meaningful impact while showcasing technical excellence and creativity. CodeStorm is a student-led initiative dedicated to creating opportunities for young innovators, builders, and creators across India.",
+    "event_dates": "Aug 1 - Oct 15, 2026",
+    "prize_amount": "",
     "modes": "remote",
     "location": "Online",
-    "hackathon_page_url": "https://firstcommit.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "hackathon_page_url": "https://codestorm-futureforge.devfolio.co/overview",
     "status": "running",
-    "source": "Devpost",
+    "source": "Devfolio",
     "level": null
   },
   {
@@ -72,25 +72,13 @@ const DATA = [
     "level": null
   },
   {
-    "title": "sudo Hacktober",
-    "description": "FOSS SRM AP brings to you: MLH HACKTOBER FEST!! Get ready for the best hackathon of the year, organized by Next Tech Lab and FOSS. 12 hours of pure open-source building, late-night debugging, and shipping code. Work alongside top builders on campus, tackle real repositories, and claim official MLH and Hacktoberfest swag while fueled by constant caffeine and solid food. Bring your laptop and get ready to push commits all event long. Register now!! FOSS SRM AP brings to you: MLH HACKTOBER FEST!! Get ready for the best hackathon of the year, organized by Next Tech Lab and FOSS. 12 hours of pure open-source building, late-night debugging, and shipping code. Work alongside top builders on campus, tackle real repositories, and claim official MLH and Hacktoberfest swag while fueled by constant caffeine and solid food. Bring your laptop and get ready to push commits all event long. Register now!!",
-    "event_dates": "Oct 10 - 11, 2026",
-    "prize_amount": "",
+    "title": "Hacknauts 2.0",
+    "description": "Hacknauts 2.0 (HKN-26) is a 24-hour, space-themed hackathon at Guru Nanak Dev Engineering College, Ludhiana , organized by the Causmic Club . 🚀 After a successful first mission, we're back in orbit. 🛰️ This year, everything revolves around one idea: a black hole pulling streams of code into itself. 🕳️ The brightest builders, designers, and problem-solvers converge for one weekend - to ideate, build, and ship something that didn't exist before. 💻✨ One mission. One singularity. Your code, pulled toward something bigger. 🌠 All participating teams are required to submit their project presentation (PPT) before the deadline. Make sure your presentation follows the provided template and is submitted before the deadline. 🚀 Build boldly. Think beyond the obvious. Solve something that matters. The singularity is waiting. What will you pull into orbit? 🕳️🚀 Hacknauts 2.0 - Beyond the Known, Begins the Extraordinary. Hacknauts 2.0 (HKN-26) is a 24-hour, space-themed hackathon at Guru Nanak Dev Engineering College, Ludhiana , organized by the Causmic Club . 🚀 After a successful first mission, we're back in orbit. 🛰️ This year, everything revolves around one idea: a black hole pulling streams of code into itself. 🕳️ The brightest builders, designers, and problem-solvers converge for one weekend - to ideate, build, and ship something that didn't exist before. 💻✨ One mission. One singularity. Your code, pulled toward something bigger. 🌠 All participating teams are required to submit their project presentation (PPT) before the deadline. Make sure your presentation follows the provided template and is submitted before the deadline. 🚀 Build boldly. Think beyond the obvious. Solve something that matters. The singularity is waiting. What will you pull into orbit? 🕳️🚀 Hacknauts 2.0 - Beyond the Known, Begins the Extraordinary.",
+    "event_dates": "Nov 14 - 15, 2026",
+    "prize_amount": "$3,016 Available in Prizes",
     "modes": "in-person",
-    "location": "Mangalagiri, India",
-    "hackathon_page_url": "https://sudo-hacktober.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
-    "title": "HackInverse 1.0",
-    "description": "Not everything worth discovering is right in front of you. Some ideas exist just beyond the obvious, waiting to be noticed, explored, and brought to life. Hackinverse is a 24-hour hackathon for those who aren't afraid to chase the unexpected, question what's possible, and build what others can't yet see. Step into an experience where curiosity drives every decision, creativity outpaces convention, and collaboration turns ambitious ideas into reality. Whether you're a developer, designer, or innovator, you'll spend the next 24 hours solving real problems, learning from mentors, pushing your limits, and creating something extraordinary alongside a community that shares your passion. Expect late-night breakthroughs, endless brainstorming, caffeine-fueled conversations, exciting challenges, and moments you'll remember long after the final submission. After all, the most interesting things rarely happen in broad daylight. Some signals are easy to miss, but the best builders never ignore them. Welcome to Hackinverse. Join our WhatsApp Community Not everything worth discovering is right in front of you. Some ideas exist just beyond the obvious, waiting to be noticed, explored, and brought to life. Hackinverse is a 24-hour hackathon for those who aren't afraid to chase the unexpected, question what's possible, and build what others can't yet see. Step into an experience where curiosity drives every decision, creativity outpaces convention, and collaboration turns ambitious ideas into reality. Whether you're a developer, designer, or innovator, you'll spend the next 24 hours solving real problems, learning from mentors, pushing your limits, and creating something extraordinary alongside a community that shares your passion. Expect late-night breakthroughs, endless brainstorming, caffeine-fueled conversations, exciting challenges, and moments you'll remember long after the final submission. After all, the most interesting things rarely happen in broad daylight. Some signals are easy to miss, but the best builders never ignore them. Welcome to Hackinverse. Join our WhatsApp Community",
-    "event_dates": "Oct 10 - 11, 2026",
-    "prize_amount": "",
-    "modes": "in-person",
-    "location": "Kolkata, India",
-    "hackathon_page_url": "https://hackinverse-s1.devfolio.co/overview",
+    "location": "Ludhiana, India",
+    "hackathon_page_url": "https://hacknauts26.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -108,6 +96,18 @@ const DATA = [
     "level": null
   },
   {
+    "title": "sudo Hacktober",
+    "description": "FOSS SRM AP brings to you: MLH HACKTOBER FEST!! Get ready for the best hackathon of the year, organized by Next Tech Lab and FOSS. 12 hours of pure open-source building, late-night debugging, and shipping code. Work alongside top builders on campus, tackle real repositories, and claim official MLH and Hacktoberfest swag while fueled by constant caffeine and solid food. Bring your laptop and get ready to push commits all event long. Register now!! FOSS SRM AP brings to you: MLH HACKTOBER FEST!! Get ready for the best hackathon of the year, organized by Next Tech Lab and FOSS. 12 hours of pure open-source building, late-night debugging, and shipping code. Work alongside top builders on campus, tackle real repositories, and claim official MLH and Hacktoberfest swag while fueled by constant caffeine and solid food. Bring your laptop and get ready to push commits all event long. Register now!!",
+    "event_dates": "Oct 10 - 11, 2026",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "Mangalagiri, India",
+    "hackathon_page_url": "https://sudo-hacktober.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "Wild Bugs",
     "description": "Welcome to Wild Bugs — a 24-hour online hackathon where ideas are tested, solutions are built, and developers venture into the unpredictable wilderness of technology. Participants will be given problem statements at the beginning of the hackathon and challenged to transform them into functional, innovative solutions within 24 hours. From ideation and architecture to development and deployment, every decision counts. It's about thinking beyond the obvious, adapting to constraints, solving real problems, and shipping something that works. Teams will compete through the preliminary round, tackling their assigned challenge with creativity, technical depth, and execution. Whether you debug your way through the night, discover an unconventional approach, or build something nobody expected — the wilderness rewards those who adapt. Welcome to Wild Bugs — a 24-hour online hackathon where ideas are tested, solutions are built, and developers venture into the unpredictable wilderness of technology. Participants will be given problem statements at the beginning of the hackathon and challenged to transform them into functional, innovative solutions within 24 hours. From ideation and architecture to development and deployment, every decision counts. It's about thinking beyond the obvious, adapting to constraints, solving real problems, and shipping something that works. Teams will compete through the preliminary round, tackling their assigned challenge with creativity, technical depth, and execution. Whether you debug your way through the night, discover an unconventional approach, or build something nobody expected — the wilderness rewards those who adapt.",
     "event_dates": "Oct 14 - 15, 2026",
@@ -117,6 +117,18 @@ const DATA = [
     "hackathon_page_url": "https://wild-bugs.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "Graph Hacks: Building Next-Gen RAG",
+    "description": "",
+    "event_dates": "Oct 14–18",
+    "prize_amount": "",
+    "modes": "remote",
+    "location": "",
+    "hackathon_page_url": "https://www.wemakedevs.org/hackathons/falkordb",
+    "status": "open",
+    "source": "WeMakeDevs",
     "level": null
   },
   {
@@ -169,7 +181,7 @@ const DATA = [
   },
   {
     "title": "Innosprint2.0",
-    "description": "Welcome to the epicentre of innovation and collaboration – the D4 Community's Hackathon at Chandigarh University! What We Are: D4 Community is proud to present an exhilarating hackathon hosted at Chandigarh University, where we bring together budding tech enthusiasts, aspiring innovators, and problem solvers under one roof. With a passion for technology and a drive for innovation, we're dedicated to fostering an environment where bright minds can thrive. Our Mission: Our mission is simple yet profound: to challenge participants to harness their creativity, coding skills, and teamwork to solve real-world problems. We believe in the transformative power of collaboration and coding, and we aim to inspire the next generation of tech leaders. What to Expect: Expect an adrenaline-fueled 24 hours of non-stop coding, brainstorming, and networking. Participants will tackle exciting challenges, engage in workshops, and have the opportunity to win fantastic prizes. HealthTech Innovation : Dive into the world of healthcare and wellness by developing solutions that can improve medical services, patient care, or health monitoring. EdTech Revolution : Revolutionize education with technology. Create tools and platforms that enhance the learning experience, making education more accessible and engaging. Smart Cities and IoT : Innovate for the future of urban living. Build IoT solutions that can make cities smarter, more efficient, and better connected. Agriculture and AgriTech : Explore innovations in agriculture. Build tools or systems that can improve crop yield, farm management, or address food security challenges. Blockchain and Cryptocurrency : Dive into the world of blockchain technology and cryptocurrencies. Work on projects related to decentralized finance (DeFi), NFTs (Non-Fungible Tokens), or blockchain-based voting systems. Robotics and Automation : Explore the possibilities of robotics and automation. Build robots or automated systems that can assist in various industries, from manufacturing to healthcare. E-Commerce Enhancement : Explore ways to enhance the e-commerce experience. Develop solutions for better online shopping, personalized recommendations, or streamlined supply chain management. Open Theme : Don't see a theme that fits your idea? No problem! You're welcome to participate with any tech-related project that excites you. Why Join Us: Join us to broaden your horizons, sharpen your skills, and make lifelong connections with like-minded individuals. Whether you're a seasoned coder or just getting started, the D4 Community's Hackathon at Chandgarh University is the place to be. Stay Tuned: Stay tuned for updates, registration details, and exciting announcements as we gear up for an unforgettable hackathon experience. Together, let's push the boundaries of innovation and make a positive impact on the world through technology. Mark your calendars and get ready to code your way to success with D4 Community's Hackathon at Chandigarh University! Welcome to the epicentre of innovation and collaboration – the D4 Community's Hackathon at Chandigarh University! What We Are: D4 Community is proud to present an exhilarating hackathon hosted at Chandigarh University, where we bring together budding tech enthusiasts, aspiring innovators, and problem solvers under one roof. With a passion for technology and a drive for innovation, we're dedicated to fostering an environment where bright minds can thrive. Our Mission: Our mission is simple yet profound: to challenge participants to harness their creativity, coding skills, and teamwork to solve real-world problems. We believe in the transformative power of collaboration and coding, and we aim to inspire the next generation of tech leaders. What to Expect: Expect an adrenaline-fueled 24 hours of non-stop coding, brainstorming, and networking. Participants will tackle exciting challenges, engage in workshops, and have the opportunity to win fantastic prizes. HealthTech Innovation : Dive into the world of healthcare and wellness by developing solutions that can improve medical services, patient care, or health monitoring. EdTech Revolution : Revolutionize education with technology. Create tools and platforms that enhance the learning experience, making education more accessible and engaging. Smart Cities and IoT : Innovate for the future of urban living. Build IoT solutions that can make cities smarter, more efficient, and better connected. Agriculture and AgriTech : Explore innovations in agriculture. Build tools or systems that can improve crop yield, farm management, or address food security challenges. Blockchain and Cryptocurrency : Dive into the world of blockchain technology and cryptocurrencies. Work on projects related to decentralized finance (DeFi), NFTs (Non-Fungible Tokens), or blockchain-based voting systems. Robotics and Automation : Explore the possibilities of robotics and automation. Build robots or automated systems that can assist in various industries, from manufacturing to healthcare. E-Commerce Enhancement : Explore ways to enhance the e-commerce experience. Develop solutions for better online shopping, personalized recommendations, or streamlined supply chain management. Open Theme : Don't see a theme that fits your idea? No problem! You're welcome to participate with any tech-related project that excites you. Why Join Us: Join us to broaden your horizons, sharpen your skills, and make lifelong connections with like-minded individuals. Whether you're a seasoned coder or just getting started, the D4 Community's Hackathon at Chandgarh University is the place to be. Stay Tuned: Stay tuned for updates, registration details, and exciting announcements as we gear up for an unforgettable hackathon experience. Together, let's push the boundaries of innovation and make a positive impact on the world through technology. Mark your calendars and get ready to code your way to success with D4 Community's Hackathon at Chandigarh University!",
+    "description": "What We Are: D4 Community is proud to present an exciting one-day hackathon hosted at Chandigarh University , bringing together undergraduate students, budding tech enthusiasts, aspiring innovators, and problem solvers under one roof. This hackathon is all about building ideas into working products using Vibe Coding and Antigravity . Instead of spending hours worrying about every line of code, participants can focus on their ideas, creativity, experimentation, and problem-solving while using AI-powered development to bring their vision to life. Individual Participation Only — this is a solo hackathon. Every participant will ideate, build, and present their own project. Important Note: This is an individual participation hackathon . On the registration platform, you may see an option to add up to 4 participants . Please ignore this and register as an individual participant. Due to platform restrictions, we are currently unable to change the maximum participant limit from 4 to 1. Our Mission: Our mission is simple yet profound: to challenge participants to take an idea and turn it into something real within a single day. With Vibe Coding using Antigravity , participants can experiment with AI-assisted development, iterate quickly, and transform their ideas into functional prototypes. The focus isn't on how much code you can write. It's about what you can imagine, how you solve problems, and what you can build. What to Expect: Expect an action-packed one day of ideation, vibe coding, experimentation, and building . You don't need to spend the entire day writing code line by line. Bring an idea. Bring your creativity. Bring your curiosity. Let Antigravity handle the building with you. Health & Wellness : Build solutions that make healthcare, wellness, fitness, or everyday well-being simpler, smarter, and more accessible. Education & Learning : Create products that improve the way people learn, teach, practice, collaborate, or access educational resources. Productivity & Lifestyle : Build tools that help people manage their time, work, tasks, routines, finances, or everyday activities more effectively. Social Impact : Use technology to address problems faced by communities, individuals, or society and create solutions that can make a meaningful difference. Business & Innovation : Build innovative products, platforms, or tools that solve business problems, improve existing experiences, or create new opportunities. Entertainment & Creativity : Build something fun, interactive, creative, or completely unexpected. Explore new ways to entertain, create, and engage. Open Theme : Have an idea that doesn't fit into any of the above? That's completely fine. Build anything you want . If you can imagine it, you can build it. Why Join Us: Join us to experience a completely different way of building products. Sharpen your problem-solving skills, experiment with Vibe Coding , learn how to work with AI-assisted development, and turn an idea into a working prototype — all in a single day. Whether you're already familiar with AI-powered development or you're trying it for the first time, this hackathon is an opportunity to learn by building . No team. No waiting for teammates. No complicated setup. Just you, your idea, Antigravity, and one day to build. Stay Tuned: Stay tuned for updates, registration details, rules, judging criteria, and exciting announcements as we gear up for an unforgettable hackathon experience. Get ready to experiment with Vibe Coding , explore what you can build with Antigravity , and turn your ideas into reality. Mark your calendars and get ready to build with D4 Community's One-Day Vibe Coding Hackathon at Chandigarh University! What We Are: D4 Community is proud to present an exciting one-day hackathon hosted at Chandigarh University , bringing together undergraduate students, budding tech enthusiasts, aspiring innovators, and problem solvers under one roof. This hackathon is all about building ideas into working products using Vibe Coding and Antigravity . Instead of spending hours worrying about every line of code, participants can focus on their ideas, creativity, experimentation, and problem-solving while using AI-powered development to bring their vision to life. Individual Participation Only — this is a solo hackathon. Every participant will ideate, build, and present their own project. Important Note: This is an individual participation hackathon . On the registration platform, you may see an option to add up to 4 participants . Please ignore this and register as an individual participant. Due to platform restrictions, we are currently unable to change the maximum participant limit from 4 to 1. Our Mission: Our mission is simple yet profound: to challenge participants to take an idea and turn it into something real within a single day. With Vibe Coding using Antigravity , participants can experiment with AI-assisted development, iterate quickly, and transform their ideas into functional prototypes. The focus isn't on how much code you can write. It's about what you can imagine, how you solve problems, and what you can build. What to Expect: Expect an action-packed one day of ideation, vibe coding, experimentation, and building . You don't need to spend the entire day writing code line by line. Bring an idea. Bring your creativity. Bring your curiosity. Let Antigravity handle the building with you. Health & Wellness : Build solutions that make healthcare, wellness, fitness, or everyday well-being simpler, smarter, and more accessible. Education & Learning : Create products that improve the way people learn, teach, practice, collaborate, or access educational resources. Productivity & Lifestyle : Build tools that help people manage their time, work, tasks, routines, finances, or everyday activities more effectively. Social Impact : Use technology to address problems faced by communities, individuals, or society and create solutions that can make a meaningful difference. Business & Innovation : Build innovative products, platforms, or tools that solve business problems, improve existing experiences, or create new opportunities. Entertainment & Creativity : Build something fun, interactive, creative, or completely unexpected. Explore new ways to entertain, create, and engage. Open Theme : Have an idea that doesn't fit into any of the above? That's completely fine. Build anything you want . If you can imagine it, you can build it. Why Join Us: Join us to experience a completely different way of building products. Sharpen your problem-solving skills, experiment with Vibe Coding , learn how to work with AI-assisted development, and turn an idea into a working prototype — all in a single day. Whether you're already familiar with AI-powered development or you're trying it for the first time, this hackathon is an opportunity to learn by building . No team. No waiting for teammates. No complicated setup. Just you, your idea, Antigravity, and one day to build. Stay Tuned: Stay tuned for updates, registration details, rules, judging criteria, and exciting announcements as we gear up for an unforgettable hackathon experience. Get ready to experiment with Vibe Coding , explore what you can build with Antigravity , and turn your ideas into reality. Mark your calendars and get ready to build with D4 Community's One-Day Vibe Coding Hackathon at Chandigarh University!",
     "event_dates": "Oct 24, 2026",
     "prize_amount": "",
     "modes": "in-person",
@@ -187,30 +199,6 @@ const DATA = [
     "modes": "in-person",
     "location": "India",
     "hackathon_page_url": "https://hacker-house-goa-2026.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
-    "title": "Codeutsava X.0",
-    "description": "CODEUTSAVA isn’t just an event—it’s a magnificent celebration of code ! Hosted annually by the esteemed Turing Club of Programmers , it acts as a magnet for coding enthusiasts from across the nation . With a mission to ignite a vibrant coding culture in the student community, CodeUtsava unleashes an electrifying lineup : immersive workshops , neuro-igniting hackathons , mind-bending coding competitions , epic gaming battles , and enlightening mic sessions — we’ve got it all (and more)! And no, we don’t say “Pack Up!!” there. CodeUtsava goes beyond the screen , unlocking the boundless potential of students to tackle real-world problems of public interest . Join this extravaganza of algorithms , creativity , and camaraderie —and let’s script a brighter future together ! CODEUTSAVA isn’t just an event—it’s a magnificent celebration of code ! Hosted annually by the esteemed Turing Club of Programmers , it acts as a magnet for coding enthusiasts from across the nation . With a mission to ignite a vibrant coding culture in the student community, CodeUtsava unleashes an electrifying lineup : immersive workshops , neuro-igniting hackathons , mind-bending coding competitions , epic gaming battles , and enlightening mic sessions — we’ve got it all (and more)! And no, we don’t say “Pack Up!!” there. CodeUtsava goes beyond the screen , unlocking the boundless potential of students to tackle real-world problems of public interest . Join this extravaganza of algorithms , creativity , and camaraderie —and let’s script a brighter future together !",
-    "event_dates": "Oct 3 - 4, 2026",
-    "prize_amount": "$11,370 Available in Prizes",
-    "modes": "in-person",
-    "location": "Raipur, India",
-    "hackathon_page_url": "https://codeutsava-x.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
-    "title": "Grand Innovation Challenge",
-    "description": "",
-    "event_dates": "Oct 3, 2026",
-    "prize_amount": "",
-    "modes": "in-person",
-    "location": "Digdoh, India",
-    "hackathon_page_url": "https://grand-innovation-challenge.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -235,6 +223,30 @@ const DATA = [
     "modes": "in-person",
     "location": "München, Germany",
     "hackathon_page_url": "https://tum.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "BIOS V2",
+    "description": "In a computer, the BIOS is the first thing that runs. Here it is the first point of contact, where life and computation begin speaking to each other. In a computer, the BIOS is the first thing that runs. Here it is the first point of contact, where life and computation begin speaking to each other.",
+    "event_dates": "Oct 30 - Nov 1, 2026",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "Patiala, India",
+    "hackathon_page_url": "https://biosv2.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "hackodisha-6.0",
+    "description": "Eastern India's one of the largest hackathon organized by Webwiz, NIT Rourkela. Welcome to HackOdisha 6.0 A 36-hour hybrid hackathon organized by Webwiz, the official tech club of NIT Rourkela After five successful seasons, HackOdisha returns bigger and better uniting developers and creatives from across the globe to tackle real-world challenges. Whether you’re a beginner or an expert, if you thrive on problem‑solving and innovation, this is your arena. You can participate solo or form a team but remember: every member must register individually to be eligible. Join us on this journey of creativity, code, and community at HackOdisha 6.0! Eastern India's one of the largest hackathon organized by Webwiz, NIT Rourkela. Welcome to HackOdisha 6.0 A 36-hour hybrid hackathon organized by Webwiz, the official tech club of NIT Rourkela After five successful seasons, HackOdisha returns bigger and better uniting developers and creatives from across the globe to tackle real-world challenges. Whether you’re a beginner or an expert, if you thrive on problem‑solving and innovation, this is your arena. You can participate solo or form a team but remember: every member must register individually to be eligible. Join us on this journey of creativity, code, and community at HackOdisha 6.0!",
+    "event_dates": "Oct 31 - Nov 1, 2026",
+    "prize_amount": "$1,620 Available in Prizes",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://hackodisha-6a.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -276,6 +288,18 @@ const DATA = [
     "level": null
   },
   {
+    "title": "Hackverse.2026",
+    "description": "TECHFEST 2026–27 is a 24-hour Space Technology Hackathon where innovators, developers, and problem-solvers come together to build solutions for the future of space technology. Explore challenges across AI/ML, Cybersecurity, Data, Satellite Systems, IoT, Robotics, Earth Observation, Communication, and more. 🛰️ 5–6 October 2026 📍 Smt. Indira Gandhi College of Engineering, Navi Mumbai 🏆 ₹35,000 Prize Pool ⚡ 2 Rounds | Online PPT Submission → Offline 24-Hour Hackathon The mission starts with an idea. Build it. Test it. Take it beyond. 🌌 TECHFEST 2026–27 is a 24-hour Space Technology Hackathon where innovators, developers, and problem-solvers come together to build solutions for the future of space technology. Explore challenges across AI/ML, Cybersecurity, Data, Satellite Systems, IoT, Robotics, Earth Observation, Communication, and more. 🛰️ 5–6 October 2026 📍 Smt. Indira Gandhi College of Engineering, Navi Mumbai 🏆 ₹35,000 Prize Pool ⚡ 2 Rounds | Online PPT Submission → Offline 24-Hour Hackathon The mission starts with an idea. Build it. Test it. Take it beyond. 🌌",
+    "event_dates": "Oct 5 - 6, 2026",
+    "prize_amount": "$365 Available in Prizes",
+    "modes": "in-person",
+    "location": "Navi Mumbai, India",
+    "hackathon_page_url": "https://hackverse-19.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "Environmental Hacks",
     "description": "",
     "event_dates": "Oct 8–11",
@@ -288,18 +312,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "HACKBIOS 2K26",
-    "description": "HackBIOS 2k26 is a national-level hackathon bringing together the brightest young innovators, developers, and tech enthusiasts from across the country to solve real-world problems through technology. Our previous edition saw 350+ attendees come together for an incredible offline experience , a remarkable success that left a lasting impression on all who attended. This year, HackBIOS 2k26 will be conducted in two rounds: 📁 A detailed guide and demo video are available to help you prepare — https://drive.google.com/drive/folders/1sz2XH2rJgvy8TrmQ468ALh2hkZBq9b9s?usp=sharing Why HackBIOS? More than a competition, HackBIOS is a hub of innovation, collaboration, and talent development encouraging young minds to explore technology, engage with the latest innovations, and connect with vibrant tech communities. HackBIOS 2k26 is a national-level hackathon bringing together the brightest young innovators, developers, and tech enthusiasts from across the country to solve real-world problems through technology. Our previous edition saw 350+ attendees come together for an incredible offline experience , a remarkable success that left a lasting impression on all who attended. This year, HackBIOS 2k26 will be conducted in two rounds: 📁 A detailed guide and demo video are available to help you prepare — https://drive.google.com/drive/folders/1sz2XH2rJgvy8TrmQ468ALh2hkZBq9b9s?usp=sharing Why HackBIOS? More than a competition, HackBIOS is a hub of innovation, collaboration, and talent development encouraging young minds to explore technology, engage with the latest innovations, and connect with vibrant tech communities.",
-    "event_dates": "Oct 9 - 10, 2026",
-    "prize_amount": "$11,000 Available in Prizes",
-    "modes": "in-person",
-    "location": "Junwani, India",
-    "hackathon_page_url": "https://hackbios2k26.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "Hackify 3.0",
     "description": "Hackify 3.0 – Blueprint for Peace: Powering Defence, Protecting Lives, Rebuilding Nations Hackify 3.0 is the third edition of the flagship national-level hackathon organized by IEDC MACE, bringing together student innovators from across the country to solve real-world challenges through technology. This year's theme, \"Blueprint for Peace: Powering Defence, Protecting Lives, Rebuilding Nations,\" challenges participants to develop technology-driven solutions in areas such as national security, defence technologies, cyber defence, civilian protection, humanitarian response, and post-war reconstruction. Over 36 hours participants will collaborate, innovate, and transform ideas into impactful solutions under the guidance of mentors, industry experts, and startup ecosystem leaders. Hackify 3.0 provides a platform for aspiring innovators to showcase their skills, tackle real-world problems, and create technology that drives meaningful change. 🚀 Ready to hack? Register now and be part of the innovation! 💬 Join our WhatsApp Community for announcements, event updates, team formation, and participant support: Hackify 3.0 – Blueprint for Peace: Powering Defence, Protecting Lives, Rebuilding Nations Hackify 3.0 is the third edition of the flagship national-level hackathon organized by IEDC MACE, bringing together student innovators from across the country to solve real-world challenges through technology. This year's theme, \"Blueprint for Peace: Powering Defence, Protecting Lives, Rebuilding Nations,\" challenges participants to develop technology-driven solutions in areas such as national security, defence technologies, cyber defence, civilian protection, humanitarian response, and post-war reconstruction. Over 36 hours participants will collaborate, innovate, and transform ideas into impactful solutions under the guidance of mentors, industry experts, and startup ecosystem leaders. Hackify 3.0 provides a platform for aspiring innovators to showcase their skills, tackle real-world problems, and create technology that drives meaningful change. 🚀 Ready to hack? Register now and be part of the innovation! 💬 Join our WhatsApp Community for announcements, event updates, team formation, and participant support:",
     "event_dates": "Oct 9 - 11, 2026",
@@ -309,18 +321,6 @@ const DATA = [
     "hackathon_page_url": "https://hackify-3.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
-    "level": null
-  },
-  {
-    "title": "Graph Hacks: Building Next-Gen RAG",
-    "description": "",
-    "event_dates": "October 2026",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "",
-    "hackathon_page_url": "https://www.wemakedevs.org/hackathons/falkordb",
-    "status": "open",
-    "source": "WeMakeDevs",
     "level": null
   },
   {
@@ -360,6 +360,18 @@ const DATA = [
     "level": null
   },
   {
+    "title": "Multimodal AI Hackathon 2026",
+    "description": "About the challenge Welcome to the Multimodal AI Hackathon 2026, organized by KamandPrompt, the Programming Club of IIT Mandi, Augli.ai, PurpleRain Tech, and LDV Labs. This nationwide hackathon invites students to work at the intersection of Generative AI, Agentic AI, and real-world problem-solving, applying these emerging technologies to domains where they can create genuine impact. Multimodal AI systems, ones that can reason across text, images, data, and more, are increasingly capable of tackling problems that were previously out of reach for automated systems. Yet in fields like Space research, BioTech, and Education, this potential remains largely untapped. Building solutions in these domains requires not just technical skill but a genuine understanding of the problems being solved, which is exactly the gap this hackathon is designed to close. This hackathon offers participants the opportunity to design and build solutions that could meaningfully improve how problems are approached in Space, BioTech, and Education. Whether it's a tool that accelerates research, an application that improves access to learning, or a system that solves an overlooked operational bottleneck, your work here has the potential to extend well beyond a submission page. Get started - Mode: Fully online, nationwide - Team Size: Solo/Upto 4 members (inter-college teams allowed) - Duration: 15 days - Tracks: 4 tracks across Space, BioTech, and Education - Registration: Free, no fees - Submissions to be made on devpost - All further information will be shared in the official Discord community post-registration Please note that this hackathon have a well defined set of Problem Statements and Judging criteria and the submissions will be evaluated on the same basis Problem statements: click here Join Discord community: https://discord.gg/UD8EVcdcq",
+    "event_dates": "Sep 29 - Oct 14, 2026",
+    "prize_amount": "₹ 100,000",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://multimodal-ai-hackathon-2026-7.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
     "title": "Bharat Builds Tour",
     "description": "",
     "event_dates": "Sept - Dec",
@@ -369,18 +381,6 @@ const DATA = [
     "hackathon_page_url": "https://www.wemakedevs.org/aws",
     "status": "open",
     "source": "WeMakeDevs",
-    "level": null
-  },
-  {
-    "title": "Hefty-Hacks",
-    "description": "Hefty Hacks is a fully-online Finance × Trading hackathon presented by TechZap . Over one intense sprint, engineers, quants and designers turn market chaos into working product — trading systems, market predictors, fintech, risk engines, DeFi and everything in between. Pick a niche. Go absurdly deep. Ship something the street hasn't seen yet. 🌟 Exclusive Career Opportunity : The Top 10 teams will get a chance to participate in direct hiring rounds with leading companies and fast-growing startups. (Selection for interviews and hiring is solely at the discretion of the participating companies and subject to their individual eligibility criteria and recruitment policies.) Finance. Trading. Innovation. — one laptop, a thesis worth defending, and 36 hours to prove it. The markets never sleep, and neither do great builders. Hefty Hacks challenges you to build at the intersection of finance and trading — from high-frequency execution engines to market predictors, robo-advisors, fraud radars and on-chain quant tooling. There's one rule that decides winners: go narrow. Anyone can build \"a trading app.\" The teams that win pick a niche so specific it sounds obsessive — then own it. Build on either track — or fuse them into something nobody has shipped yet. Reinvent how money moves, grows and stays safe — on-chain or off. Combine both tracks into something genuinely unique. Generating your idea straight from an AI is strongly discouraged — judges can smell a generated pitch, and a borrowed thesis has no conviction behind it. Instead: Your niche, AI's leverage. Originality is the edge we score for. A sharp, unique idea executed well beats a broad idea half-built. Hefty Hacks is built and run by TechZap — bringing builders together to disrupt finance. Hefty Hacks is a fully-online Finance × Trading hackathon presented by TechZap . Over one intense sprint, engineers, quants and designers turn market chaos into working product — trading systems, market predictors, fintech, risk engines, DeFi and everything in between. Pick a niche. Go absurdly deep. Ship something the street hasn't seen yet. 🌟 Exclusive Career Opportunity : The Top 10 teams will get a chance to participate in direct hiring rounds with leading companies and fast-growing startups. (Selection for interviews and hiring is solely at the discretion of the participating companies and subject to their individual eligibility criteria and recruitment policies.) Finance. Trading. Innovation. — one laptop, a thesis worth defending, and 36 hours to prove it. The markets never sleep, and neither do great builders. Hefty Hacks challenges you to build at the intersection of finance and trading — from high-frequency execution engines to market predictors, robo-advisors, fraud radars and on-chain quant tooling. There's one rule that decides winners: go narrow. Anyone can build \"a trading app.\" The teams that win pick a niche so specific it sounds obsessive — then own it. Build on either track — or fuse them into something nobody has shipped yet. Reinvent how money moves, grows and stays safe — on-chain or off. Combine both tracks into something genuinely unique. Generating your idea straight from an AI is strongly discouraged — judges can smell a generated pitch, and a borrowed thesis has no conviction behind it. Instead: Your niche, AI's leverage. Originality is the edge we score for. A sharp, unique idea executed well beats a broad idea half-built. Hefty Hacks is built and run by TechZap — bringing builders together to disrupt finance.",
-    "event_dates": "",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "",
-    "hackathon_page_url": "https://hefty-hacks.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
     "level": null
   }
 ];
@@ -532,7 +532,7 @@ clearDateButton.addEventListener("click", () => {
 });
 
 // Header stats
-document.getElementById("last-checked-date").textContent = "Sep 30, 2026";
+document.getElementById("last-checked-date").textContent = "Oct 1, 2026";
 document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
   (h) => h.status === "open" || h.status === "running",
 ).length;
