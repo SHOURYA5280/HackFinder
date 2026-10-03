@@ -1,17 +1,5 @@
 [
   {
-    "title": "Bharat Builds Tour",
-    "description": "",
-    "event_dates": "Sept - Dec",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "",
-    "hackathon_page_url": "https://www.wemakedevs.org/aws",
-    "status": "open",
-    "source": "WeMakeDevs",
-    "level": null
-  },
-  {
     "title": "Environmental Hacks",
     "description": "",
     "event_dates": "Oct 8–11",
@@ -32,6 +20,18 @@
     "location": "",
     "hackathon_page_url": "https://www.wemakedevs.org/hackathons/falkordb",
     "status": "open",
+    "source": "WeMakeDevs",
+    "level": null
+  },
+  {
+    "title": "Mergetober: Open Source Month",
+    "description": "",
+    "event_dates": "Sep 30 – Oct 31",
+    "prize_amount": "",
+    "modes": "remote",
+    "location": "",
+    "hackathon_page_url": "https://www.wemakedevs.org/hackathons/mergetober",
+    "status": "running",
     "source": "WeMakeDevs",
     "level": null
   }
