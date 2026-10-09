@@ -121,7 +121,7 @@ const DATA = [
   },
   {
     "title": "ForgeHacks Online 2026",
-    "description": "Visit our website: https://www.forgehacks.dev/ Join the discord: https://discord.gg/HmS3CHYAv6 About the challenge ForgeHacks is a student-focused online hackathon dedicated to AI for Real World Problems . We challenge you to forge practical, impactful AI solutions that address genuine challenges people and communities face today, whether in healthcare, education, or everyday life. This is about building something that could realistically be used, tested, or extended beyond the hackathon. You will work across six specialized tracks (), each with a focused problem space. Track prompts will be released closer to the event so everyone starts on equal footing. Tracks: - AI + Healthcare - AI + Education - AI + Climate - AI + Business - AI + Cybersecurity - AI + Creativity Find the released prompts at https://forgehacks.dev What makes ForgeHacks special Pure focus on real-world applicability of AI Student-led organizing team Emphasis on learning, mentorship, and building something that lasts Participation Perks - We've partnered with multiple organizations to provide participants with tools, credits, APIs, and other resources during the hackathon build session! Redeem them in our Discord Get started Register on Devpost Join the ForgeHacks Discord : Form a team of 1–4 students (solo is welcome). Find team members on the Discord Watch for track prompts and kickoff announcements Whether this is your first hackathon or your tenth, come forge something real.",
+    "description": "Visit our website: https://www.forgehacks.dev/ Join the discord: https://discord.gg/HmS3CHYAv6 Follow our instagram: https://www.instagram.com/forge.hacks About the challenge ForgeHacks is a student-focused online hackathon dedicated to AI for Real World Problems . We challenge you to forge practical, impactful AI solutions that address genuine challenges people and communities face today, whether in healthcare, education, or everyday life. This is about building something that could realistically be used, tested, or extended beyond the hackathon. You will work across six specialized tracks (), each with a focused problem space. Track prompts will be released closer to the event so everyone starts on equal footing. Tracks: - AI + Healthcare - AI + Education - AI + Climate - AI + Business - AI + Cybersecurity - AI + Creativity Find the released prompts at https://forgehacks.dev What makes ForgeHacks special Pure focus on real-world applicability of AI Student-led organizing team Emphasis on learning, mentorship, and building something that lasts Participation Perks - We've partnered with multiple organizations to provide participants with tools, credits, APIs, and other resources during the hackathon build session! Redeem them in our Discord Get started Register on Devpost Join the ForgeHacks Discord : Form a team of 1–4 students (solo is welcome). Find team members on the Discord Watch for track prompts and kickoff announcements Whether this is your first hackathon or your tenth, come forge something real.",
     "event_dates": "Oct 01 - 10, 2026",
     "prize_amount": "$ 1,382,700",
     "modes": "remote",
@@ -343,7 +343,7 @@ const DATA = [
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://arkiv.devfolio.co/overview",
-    "status": "open",
+    "status": "running",
     "source": "Devfolio",
     "level": null
   },
@@ -544,7 +544,7 @@ clearDateButton.addEventListener("click", () => {
 });
 
 // Header stats
-document.getElementById("last-checked-date").textContent = "Oct 8, 2026";
+document.getElementById("last-checked-date").textContent = "Oct 9, 2026";
 document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
   (h) => h.status === "open" || h.status === "running",
 ).length;
