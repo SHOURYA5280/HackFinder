@@ -84,18 +84,6 @@
     "level": null
   },
   {
-    "title": "ForgeHacks Online 2026",
-    "description": "Visit our website: https://www.forgehacks.dev/ Join the discord: https://discord.gg/HmS3CHYAv6 Follow our instagram: https://www.instagram.com/forge.hacks About the challenge ForgeHacks is a student-focused online hackathon dedicated to AI for Real World Problems . We challenge you to forge practical, impactful AI solutions that address genuine challenges people and communities face today, whether in healthcare, education, or everyday life. This is about building something that could realistically be used, tested, or extended beyond the hackathon. You will work across six specialized tracks (), each with a focused problem space. Track prompts will be released closer to the event so everyone starts on equal footing. Tracks: - AI + Healthcare - AI + Education - AI + Climate - AI + Business - AI + Cybersecurity - AI + Creativity Find the released prompts at https://forgehacks.dev What makes ForgeHacks special Pure focus on real-world applicability of AI Student-led organizing team Emphasis on learning, mentorship, and building something that lasts Participation Perks - We've partnered with multiple organizations to provide participants with tools, credits, APIs, and other resources during the hackathon build session! Redeem them in our Discord Get started Register on Devpost Join the ForgeHacks Discord : Form a team of 1–4 students (solo is welcome). Find team members on the Discord Watch for track prompts and kickoff announcements Whether this is your first hackathon or your tenth, come forge something real.",
-    "event_dates": "Oct 01 - 10, 2026",
-    "prize_amount": "$ 1,382,700",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://forgehacks-2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
     "title": "Life After Code",
     "description": "Code generation is solved. What happens next is the challenge. Life After Code is the GitLab Transcend Hackathon. Build agents and flows that take over the rest of the DevSecOps lifecycle: code review, security scanning, testing, compliance, deployment, monitoring, and more. You pick how much control you hand over. Then you show us how far your automation goes. Why join? Use agents,flows, triggers, and MCP servers - as many features of the GitLab Duo Agent Platform and see how much of your software development lifecycle you can automate. Compete for $45,000 in cash . Get your work in front of judges from GitLab, Google, and Anthropic. Get Started Register for the hackathon here on Devpost Start GitLab Transcend Hackathon contributor onboarding (5 minutes, plus about 24 hours for approval) Build your first agent with the Duo Agent Platform quickstart (45 minutes) Read the two Paths below and pick yours , then browse the DevSecOps lifecycle stages and plan how many your agents and flows can reach (30 minutes) Attend the Build Session with Missy Davies and Dennis Meister on Oct 9, 10am ET. It’ll be a live walkthrough of GitLab Duo Agent Platform automating what happens after the code is written.",
     "event_dates": "Oct 05 - 27, 2026",
@@ -103,6 +91,18 @@
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://gitlab-transcend.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
+    "title": "WarriorHacks 2.0",
+    "description": "Who Are We? Westwood Computer Science Club is located at Westwood High School in Austin, Texas. We've won the Spike App Prediction Competition hosted by Harvard students and generated millions of views on our Instagram reels and posts. Hackathon Tracks This hackathon is split into two tracks: hackathon and ideathon. Participants who select the hackathon track are required to submit a project involving code related to the hackathon theme. Participants who select the ideathon track are not required to submit a project involving code. Instead, you will be tasked with conceptually developing a solution to the given theme. Theme Create a project that solves an issue in your community, county, state, or nation. Quick Links WarriorHacks 2.0 Site Westwood CS Club Discord Westwood CS Club Instagram",
+    "event_dates": "Sep 28 - Oct 14, 2026",
+    "prize_amount": "8",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://warriorhacks-2-0.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null

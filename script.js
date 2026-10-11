@@ -120,18 +120,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "ForgeHacks Online 2026",
-    "description": "Visit our website: https://www.forgehacks.dev/ Join the discord: https://discord.gg/HmS3CHYAv6 Follow our instagram: https://www.instagram.com/forge.hacks About the challenge ForgeHacks is a student-focused online hackathon dedicated to AI for Real World Problems . We challenge you to forge practical, impactful AI solutions that address genuine challenges people and communities face today, whether in healthcare, education, or everyday life. This is about building something that could realistically be used, tested, or extended beyond the hackathon. You will work across six specialized tracks (), each with a focused problem space. Track prompts will be released closer to the event so everyone starts on equal footing. Tracks: - AI + Healthcare - AI + Education - AI + Climate - AI + Business - AI + Cybersecurity - AI + Creativity Find the released prompts at https://forgehacks.dev What makes ForgeHacks special Pure focus on real-world applicability of AI Student-led organizing team Emphasis on learning, mentorship, and building something that lasts Participation Perks - We've partnered with multiple organizations to provide participants with tools, credits, APIs, and other resources during the hackathon build session! Redeem them in our Discord Get started Register on Devpost Join the ForgeHacks Discord : Form a team of 1–4 students (solo is welcome). Find team members on the Discord Watch for track prompts and kickoff announcements Whether this is your first hackathon or your tenth, come forge something real.",
-    "event_dates": "Oct 01 - 10, 2026",
-    "prize_amount": "$ 1,382,700",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://forgehacks-2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
     "title": "PayPal AI Hackathon",
     "description": "About the challenge PayPal already moves money for millions of people and businesses, every day, all over the world. This hackathon is us opening that platform up and asking what happens when you put AI behind the wheel. New agents, new ways to pay and get paid, tools nobody's built yet. We want to see what you make of it. AI is changing how people build, buy, sell, work, connect, and move money. Now it's your turn to imagine what comes next. Build What's Next with PayPal and AI is a global online hackathon inviting developers, designers, founders, students, and builders to create something new using PayPal and AI . There are no prescribed problem statements and no set of tracks. Build an agent, an app, an automation, a new payment experience, a business tool, a social product, or something we haven't thought of yet. The only fundamental requirement: your project must meaningfully use both PayPal and AI . Why Join? Build something ambitious — Turn an idea into a working project using PayPal and AI. Explore what’s next — Experiment with new ways people, businesses, and AI agents can interact with money and payments. Win part of $ 69,750 in total prizes — Compete for overall prizes and special awards across creativity, impact, execution, and more. Show what you can build — Put your project in front of PayPal judges, developers, and the wider hackathon community. Learn by building — Explore PayPal APIs, AI tools, agents, automations, and emerging development workflows. Build your way — Join individually or as a team, and start something new or meaningfully advance an existing project. Get started Get a PayPal Developer account (5 minutes) Review example projects and brainstorm your own (30 minutes) Webinars Oct 6th 9am PT - 9:45am PT ~ Start building with PayPal Recording Oct 7th 9am PT - 9:30am PT ~ Power Your PayPal Hackathon Project with APIMatic Context Plugins Oct 12th 7am PT - 7:45am PT ~ Build a payments dashboard without building a dashboard Oct 13th 1am PT - 2am PT ~ Start building with PayPal",
     "event_dates": "Oct 01 - Nov 12, 2026",
@@ -192,18 +180,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "CODEARAMBH 2.0",
-    "description": "CODEARAMBH 2.0 is a 24-hour offline hackathon organized by TechFusion — the Official Technical & Coding Club of CSE, Hi-Tech Institute of Engineering & Technology (HIET), Ghaziabad . Bring your ideas to life, collaborate with fellow innovators, and build a working prototype/MVP that solves real-world problems. PPT submission on the official CODEARAMBH 2.0 portal is MANDATORY for every participating team. After completing your Devfolio registration, you must submit your PPT through the CODEARAMBH 2.0 Main Portal using the provided template. 🔴 IMPORTANT: If your team does not submit the PPT on the official CODEARAMBH 2.0 Main Portal within the specified deadline, your team will NOT be considered or qualified for the next round. Devfolio registration alone does NOT complete the application process. Please make sure your PPT follows the official template and is submitted successfully on the main portal before the deadline. 🎯 What to Expect Developers, designers, students, innovators, and tech enthusiasts are welcome to participate and turn their ideas into impactful solutions. Whether you're an experienced hacker or participating in your first hackathon, CODEARAMBH 2.0 is your opportunity to build something meaningful. Organized by: TechFusion, HIET Ghaziabad Mode: Offline Duration: 24 Hours Venue: Hi-Tech Institute of Engineering & Technology, Ghaziabad Official Email: hackathonhiet@gmail.com TechFusion Email: techfusion@hietgroup.org 💼 LinkedIn: https://www.linkedin.com/company/hiet-techfusion/ 📸 Instagram: https://instagram.com/hiet.techfusion For registration, technical, submission, or event-related queries, participants can contact the organizing team through the official email addresses above. CODEARAMBH 2.0 is a 24-hour offline hackathon organized by TechFusion — the Official Technical & Coding Club of CSE, Hi-Tech Institute of Engineering & Technology (HIET), Ghaziabad . Bring your ideas to life, collaborate with fellow innovators, and build a working prototype/MVP that solves real-world problems. PPT submission on the official CODEARAMBH 2.0 portal is MANDATORY for every participating team. After completing your Devfolio registration, you must submit your PPT through the CODEARAMBH 2.0 Main Portal using the provided template. 🔴 IMPORTANT: If your team does not submit the PPT on the official CODEARAMBH 2.0 Main Portal within the specified deadline, your team will NOT be considered or qualified for the next round. Devfolio registration alone does NOT complete the application process. Please make sure your PPT follows the official template and is submitted successfully on the main portal before the deadline. 🎯 What to Expect Developers, designers, students, innovators, and tech enthusiasts are welcome to participate and turn their ideas into impactful solutions. Whether you're an experienced hacker or participating in your first hackathon, CODEARAMBH 2.0 is your opportunity to build something meaningful. Organized by: TechFusion, HIET Ghaziabad Mode: Offline Duration: 24 Hours Venue: Hi-Tech Institute of Engineering & Technology, Ghaziabad Official Email: hackathonhiet@gmail.com TechFusion Email: techfusion@hietgroup.org 💼 LinkedIn: https://www.linkedin.com/company/hiet-techfusion/ 📸 Instagram: https://instagram.com/hiet.techfusion For registration, technical, submission, or event-related queries, participants can contact the organizing team through the official email addresses above.",
-    "event_dates": "Oct 23 - 24, 2026",
-    "prize_amount": "$178 Available in Prizes",
-    "modes": "in-person",
-    "location": "Ghaziabad, India",
-    "hackathon_page_url": "https://codearambh.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "Srijan Setu",
     "description": "Indo Global Colleges presents Srijan Setu . It is a 24-hour hackathon by Google Developer Groups on Campus: Indo Global College , built around one simple idea — turning ideas into meaningful solutions. Inspired by the spirit of Spider-Man , Srijan Setu is about using your skills, creativity, and technology with purpose. Just as every thread becomes stronger when it connects to another, great solutions are built when people, ideas, and technology come together. Bring your team of 2–4 members , choose a challenge from our innovation tracks, and spend 24 hours turning your idea into a working solution. Whether you're a developer, designer, problem-solver, or someone with an idea worth building, Srijan Setu is your space to experiment, collaborate, learn, and create. Explore challenges across: • HealthTech • EdTech • AgriTech • E-Commerce • Open Theme You can choose the domain that interests you and build a solution that addresses a meaningful problem. It's about finding problems worth solving, building with purpose, learning from others, and connecting your ideas to real-world impact. •💡 Turn ideas into working solutions •🤝 Collaborate with people from different backgrounds •🧠 Learn through hands-on building •🛠️ Experiment with modern technologies •🌐 Connect with fellow builders and the developer community •🎯 Take your solution from concept to prototype Use AI as a tool to think, build, experiment, and accelerate your development. Your solution should still reflect your team's understanding, creativity, and contribution. Every great solution begins with a connection — between a problem and an idea, an idea and technology, and technology and people. For all future updates and communication, Join here: https://chat.whatsapp.com/EO6Wmn2rdVIBa5uh2IevYP Indo Global Colleges presents Srijan Setu . It is a 24-hour hackathon by Google Developer Groups on Campus: Indo Global College , built around one simple idea — turning ideas into meaningful solutions. Inspired by the spirit of Spider-Man , Srijan Setu is about using your skills, creativity, and technology with purpose. Just as every thread becomes stronger when it connects to another, great solutions are built when people, ideas, and technology come together. Bring your team of 2–4 members , choose a challenge from our innovation tracks, and spend 24 hours turning your idea into a working solution. Whether you're a developer, designer, problem-solver, or someone with an idea worth building, Srijan Setu is your space to experiment, collaborate, learn, and create. Explore challenges across: • HealthTech • EdTech • AgriTech • E-Commerce • Open Theme You can choose the domain that interests you and build a solution that addresses a meaningful problem. It's about finding problems worth solving, building with purpose, learning from others, and connecting your ideas to real-world impact. •💡 Turn ideas into working solutions •🤝 Collaborate with people from different backgrounds •🧠 Learn through hands-on building •🛠️ Experiment with modern technologies •🌐 Connect with fellow builders and the developer community •🎯 Take your solution from concept to prototype Use AI as a tool to think, build, experiment, and accelerate your development. Your solution should still reflect your team's understanding, creativity, and contribution. Every great solution begins with a connection — between a problem and an idea, an idea and technology, and technology and people. For all future updates and communication, Join here: https://chat.whatsapp.com/EO6Wmn2rdVIBa5uh2IevYP",
     "event_dates": "Oct 23 - 24, 2026",
@@ -240,13 +216,25 @@ const DATA = [
     "level": null
   },
   {
+    "title": "Hackman X",
+    "description": "Hackman X is here, and we're celebrating 10 years of Hackman!! Ten years ago, Hackman began at DSCE, bringing students together to build, experiment, and turn their ideas into projects. Today, it stands as the oldest hackathon at DSCE and one of the oldest student hackathons in Bengaluru. Now, as we return for our 10th edition , we're excited to celebrate a decade of Hackman with all of you! Organised by GENESIS , the student club of the Department of Information Science & Engineering at Dayananda Sagar College of Engineering, Hackman X is a 24-hour offline hackathon happening at the DSCE campus. Got an idea you've been waiting to work on? Want to try something you've never built before? Or just want to spend 24 hours coding, figuring things out with your team, and turning an idea into something real? This is your chance! And of course, you get to be part of Hackman's 10th edition , a milestone we're genuinely excited to celebrate! Get your team together, start thinking about what you want to build, and send in your application. We can't wait to see what you come up with! Hackman X is here, and we're celebrating 10 years of Hackman!! Ten years ago, Hackman began at DSCE, bringing students together to build, experiment, and turn their ideas into projects. Today, it stands as the oldest hackathon at DSCE and one of the oldest student hackathons in Bengaluru. Now, as we return for our 10th edition , we're excited to celebrate a decade of Hackman with all of you! Organised by GENESIS , the student club of the Department of Information Science & Engineering at Dayananda Sagar College of Engineering, Hackman X is a 24-hour offline hackathon happening at the DSCE campus. Got an idea you've been waiting to work on? Want to try something you've never built before? Or just want to spend 24 hours coding, figuring things out with your team, and turning an idea into something real? This is your chance! And of course, you get to be part of Hackman's 10th edition , a milestone we're genuinely excited to celebrate! Get your team together, start thinking about what you want to build, and send in your application. We can't wait to see what you come up with!",
+    "event_dates": "Oct 26 - 27, 2026",
+    "prize_amount": "$1,622 Available in Prizes",
+    "modes": "in-person",
+    "location": "Bengaluru, India",
+    "hackathon_page_url": "https://hackman-x.devfolio.co/",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "HACKER HOUSE GOA 2026",
     "description": "Hacker House Goa 2026 is India's premier builder residency - where the best developers, designers, marketers, and AI-native creators don't just hack, they ship. For 4 days at a private beach resort in Goa, 247 selected builders will live under one roof - building, scaling, launching, and marketing real products. Just focused building with mentors, VCs, and ecosystem leaders in the same building as you. Most hackathons give you 36 hours, a sleepless weekend, and a GitHub repo nobody opens on Monday. Hacker House Goa gives you 4 days to ship something real. HHG 2024 brought 6,800+ registrations, 390+ hackers, and 100 projects - several of which went on to receive ecosystem funding, ship on mainnet, and gain traction on new chains. In 2026, we go bigger. AI × Crypto. Multichain. Goa. Powered by 2:47PM Studio - APAC & MENA's premier Web3 Ecosystem Growth and Venture Studio. Hacker House Goa 2026 is India's premier builder residency - where the best developers, designers, marketers, and AI-native creators don't just hack, they ship. For 4 days at a private beach resort in Goa, 247 selected builders will live under one roof - building, scaling, launching, and marketing real products. Just focused building with mentors, VCs, and ecosystem leaders in the same building as you. Most hackathons give you 36 hours, a sleepless weekend, and a GitHub repo nobody opens on Monday. Hacker House Goa gives you 4 days to ship something real. HHG 2024 brought 6,800+ registrations, 390+ hackers, and 100 projects - several of which went on to receive ecosystem funding, ship on mainnet, and gain traction on new chains. In 2026, we go bigger. AI × Crypto. Multichain. Goa. Powered by 2:47PM Studio - APAC & MENA's premier Web3 Ecosystem Growth and Venture Studio.",
     "event_dates": "Oct 28 - 31, 2026",
     "prize_amount": "",
     "modes": "in-person",
     "location": "India",
-    "hackathon_page_url": "https://hacker-house-goa-2026.devfolio.co/overview",
+    "hackathon_page_url": "https://hacker-house-goa-2026.devfolio.co/",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -259,18 +247,6 @@ const DATA = [
     "modes": "in-person",
     "location": "München, Germany",
     "hackathon_page_url": "https://tum.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
-    "title": "Q-HACK INDIA 2026",
-    "description": "Q-Hack India 2026 is a national-level quantum hackathon hosted by QuantumRIT at Ramaiah Institute of Technology, Bengaluru, as part of Quantum Week 2026, a IBM Qiskit Fall Fest program. The hackathon brings together students, developers, researchers and quantum enthusiasts to explore real-world applications of quantum computing. Participants will move from idea to prototype through a competitive build experience, with access to mentorship, technical resources and a platform to showcase their work. Whether you are new to quantum computing or an expert, the challenge is designed to encourage experimentation, practical problem-solving and ambitious ideas. Hackathon at a Glance Format: 2 Rounds + Grand Finale Team Size: 3–4 members Eligibility: Undergraduate & Postgraduate Students Location: Online + In-person Finale at Ramaiah Institute of Technology, Bengaluru Round 1 — Idea & Prototype Submission 27 Sep – 7 Oct 2026 Round 2 — Enhancement Sprint 10 – 29 Oct 2026 Grand Finale: 30–31 Oct 2026 Tracks Quantum Biotech & Chemistry Quantum Security & Cryptography Quantum AI & Software Open Quantum Innovation PPT Template for Hackathon: PPT TEMPLATE Note- Make a copy of the template before editing. Submit your team's project here: ROUND 1 PROJECT SUBMISSION Round 1 results will be announced on 10 October 2026. The Top 30 teams shortlisted from Round 1 will participate in the Round 2 Enhancement Sprint and subsequently attend the Grand Finale at Ramaiah Institute of Technology on 30–31 October 2026. Q-Hack India 2026 is a national-level quantum hackathon hosted by QuantumRIT at Ramaiah Institute of Technology, Bengaluru, as part of Quantum Week 2026, a IBM Qiskit Fall Fest program. The hackathon brings together students, developers, researchers and quantum enthusiasts to explore real-world applications of quantum computing. Participants will move from idea to prototype through a competitive build experience, with access to mentorship, technical resources and a platform to showcase their work. Whether you are new to quantum computing or an expert, the challenge is designed to encourage experimentation, practical problem-solving and ambitious ideas. Hackathon at a Glance Format: 2 Rounds + Grand Finale Team Size: 3–4 members Eligibility: Undergraduate & Postgraduate Students Location: Online + In-person Finale at Ramaiah Institute of Technology, Bengaluru Round 1 — Idea & Prototype Submission 27 Sep – 7 Oct 2026 Round 2 — Enhancement Sprint 10 – 29 Oct 2026 Grand Finale: 30–31 Oct 2026 Tracks Quantum Biotech & Chemistry Quantum Security & Cryptography Quantum AI & Software Open Quantum Innovation PPT Template for Hackathon: PPT TEMPLATE Note- Make a copy of the template before editing. Submit your team's project here: ROUND 1 PROJECT SUBMISSION Round 1 results will be announced on 10 October 2026. The Top 30 teams shortlisted from Round 1 will participate in the Round 2 Enhancement Sprint and subsequently attend the Grand Finale at Ramaiah Institute of Technology on 30–31 October 2026.",
-    "event_dates": "Oct 30 - 31, 2026",
-    "prize_amount": "$1,054 Available in Prizes",
-    "modes": "in-person",
-    "location": "Bengaluru, India",
-    "hackathon_page_url": "https://qhack-india.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -342,7 +318,7 @@ const DATA = [
     "prize_amount": "$5,000 Available in Prizes",
     "modes": "remote",
     "location": "Online",
-    "hackathon_page_url": "https://arkiv.devfolio.co/overview",
+    "hackathon_page_url": "https://arkiv.devfolio.co/",
     "status": "running",
     "source": "Devfolio",
     "level": null
@@ -367,6 +343,18 @@ const DATA = [
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://start-developer-competition-26.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
+    "title": "WarriorHacks 2.0",
+    "description": "Who Are We? Westwood Computer Science Club is located at Westwood High School in Austin, Texas. We've won the Spike App Prediction Competition hosted by Harvard students and generated millions of views on our Instagram reels and posts. Hackathon Tracks This hackathon is split into two tracks: hackathon and ideathon. Participants who select the hackathon track are required to submit a project involving code related to the hackathon theme. Participants who select the ideathon track are not required to submit a project involving code. Instead, you will be tasked with conceptually developing a solution to the given theme. Theme Create a project that solves an issue in your community, county, state, or nation. Quick Links WarriorHacks 2.0 Site Westwood CS Club Discord Westwood CS Club Instagram",
+    "event_dates": "Sep 28 - Oct 14, 2026",
+    "prize_amount": "8",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://warriorhacks-2-0.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
@@ -544,7 +532,7 @@ clearDateButton.addEventListener("click", () => {
 });
 
 // Header stats
-document.getElementById("last-checked-date").textContent = "Oct 9, 2026";
+document.getElementById("last-checked-date").textContent = "Oct 11, 2026";
 document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
   (h) => h.status === "open" || h.status === "running",
 ).length;
