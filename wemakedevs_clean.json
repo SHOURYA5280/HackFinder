@@ -1,17 +1,5 @@
 [
   {
-    "title": "Environmental Hacks",
-    "description": "",
-    "event_dates": "Oct 8–11",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "",
-    "hackathon_page_url": "https://www.wemakedevs.org/aws/env",
-    "status": "running",
-    "source": "WeMakeDevs",
-    "level": null
-  },
-  {
     "title": "Graph Hacks: Building Next-Gen RAG",
     "description": "",
     "event_dates": "Oct 14–18",

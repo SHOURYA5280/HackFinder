@@ -222,7 +222,7 @@ const DATA = [
     "prize_amount": "$1,622 Available in Prizes",
     "modes": "in-person",
     "location": "Bengaluru, India",
-    "hackathon_page_url": "https://hackman-x.devfolio.co/",
+    "hackathon_page_url": "https://hackman-x.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -234,7 +234,7 @@ const DATA = [
     "prize_amount": "",
     "modes": "in-person",
     "location": "India",
-    "hackathon_page_url": "https://hacker-house-goa-2026.devfolio.co/",
+    "hackathon_page_url": "https://hacker-house-goa-2026.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -276,18 +276,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "Hack On Hills 8.0",
-    "description": "Welcome to Hack on Hills 8.0, the flagship 48-hour hackathon hosted by the App Team, NIT Hamirpur. Over the years, Hack on Hills has grown into one of North India's largest student-run hackathons, bringing together thousands of developers, designers, innovators, and technology enthusiasts from across the country. This edition explores a defining shift in technology: the rise of autonomous agents. As AI systems evolve from tools that generate content to systems that can reason, plan, and execute tasks, we stand at the beginning of a new computing paradigm. Hack on Hills 8.0 invites participants to build products, platforms, and experiences that leverage this transformation to solve real-world problems. Whether you're building intelligent agents, decentralized applications, sustainable technology solutions, or entirely new ideas, this is your opportunity to turn ambitious concepts into working products. Build systems capable of reasoning, planning, decision-making, and autonomous execution. Develop decentralized applications, protocols, and infrastructure for the next generation of the internet. Create technology solutions addressing environmental, social, and community challenges. Explore bold ideas beyond predefined categories and build solutions that create meaningful impact. Shortlisting: Based on participant profiles and application review Finals: 48-hour in-person hackathon at NIT Hamirpur Participants will collaborate, prototype, and present their projects before a panel of industry experts, mentors, and judges. Hack on Hills 8.0 features a prize pool, sponsor challenges, and ecosystem bounties designed to recognize outstanding innovation across multiple domains. Prize details and partner tracks will be announced soon. With over 1,500+ registrations across previous editions, Hack on Hills continues to foster a community of builders who are passionate about technology, innovation, and problem-solving. Join us for 48 hours of innovation, collaboration, and creation at Hack on Hills 8.0. Welcome to Hack on Hills 8.0, the flagship 48-hour hackathon hosted by the App Team, NIT Hamirpur. Over the years, Hack on Hills has grown into one of North India's largest student-run hackathons, bringing together thousands of developers, designers, innovators, and technology enthusiasts from across the country. This edition explores a defining shift in technology: the rise of autonomous agents. As AI systems evolve from tools that generate content to systems that can reason, plan, and execute tasks, we stand at the beginning of a new computing paradigm. Hack on Hills 8.0 invites participants to build products, platforms, and experiences that leverage this transformation to solve real-world problems. Whether you're building intelligent agents, decentralized applications, sustainable technology solutions, or entirely new ideas, this is your opportunity to turn ambitious concepts into working products. Build systems capable of reasoning, planning, decision-making, and autonomous execution. Develop decentralized applications, protocols, and infrastructure for the next generation of the internet. Create technology solutions addressing environmental, social, and community challenges. Explore bold ideas beyond predefined categories and build solutions that create meaningful impact. Shortlisting: Based on participant profiles and application review Finals: 48-hour in-person hackathon at NIT Hamirpur Participants will collaborate, prototype, and present their projects before a panel of industry experts, mentors, and judges. Hack on Hills 8.0 features a prize pool, sponsor challenges, and ecosystem bounties designed to recognize outstanding innovation across multiple domains. Prize details and partner tracks will be announced soon. With over 1,500+ registrations across previous editions, Hack on Hills continues to foster a community of builders who are passionate about technology, innovation, and problem-solving. Join us for 48 hours of innovation, collaboration, and creation at Hack on Hills 8.0.",
-    "event_dates": "Oct 31 - Nov 2, 2026",
-    "prize_amount": "$1,194 Available in Prizes",
-    "modes": "in-person",
-    "location": "Hamirpur, India",
-    "hackathon_page_url": "https://hackonhills8.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "Lean In Hacks 8.0",
     "description": "Lean In Hacks is an annual flagship hackathon of Lean In IGDTUW - the first chapter of Lean In India. Lean In Hacks is a beginner-friendly hackathon and has a place for everyone wanting to learn, build, share, and grow in their lives through their unique ideas. Our hackathon journey started in 2020 when we conducted the first edition of Lean In Hacks to give grounds to new thoughts and tools to animate the imaginative and critical thinking side of developers. This time, hackers from any college can participate in our hackathon, which will be held in hybrid mode . The only requirement is to have at least 1 female in your team ! Hackers will be given the weekend to build their product online and the top teams will be given a chance to pitch in the offline mode . As a beginner-friendly hackathon, we offer a dedicated Beginner’s Track exclusively for first-time hackers. This track is designed as an ideathon for first-year students , aimed at fostering innovative thinking, creativity, and confidence in problem-solving. Lean In Hacks is an annual flagship hackathon of Lean In IGDTUW - the first chapter of Lean In India. Lean In Hacks is a beginner-friendly hackathon and has a place for everyone wanting to learn, build, share, and grow in their lives through their unique ideas. Our hackathon journey started in 2020 when we conducted the first edition of Lean In Hacks to give grounds to new thoughts and tools to animate the imaginative and critical thinking side of developers. This time, hackers from any college can participate in our hackathon, which will be held in hybrid mode . The only requirement is to have at least 1 female in your team ! Hackers will be given the weekend to build their product online and the top teams will be given a chance to pitch in the offline mode . As a beginner-friendly hackathon, we offer a dedicated Beginner’s Track exclusively for first-time hackers. This track is designed as an ideathon for first-year students , aimed at fostering innovative thinking, creativity, and confidence in problem-solving.",
     "event_dates": "Oct 31 - Nov 2, 2026",
@@ -300,15 +288,15 @@ const DATA = [
     "level": null
   },
   {
-    "title": "Environmental Hacks",
-    "description": "",
-    "event_dates": "Oct 8–11",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "",
-    "hackathon_page_url": "https://www.wemakedevs.org/aws/env",
-    "status": "running",
-    "source": "WeMakeDevs",
+    "title": "Hack On Hills 8.0",
+    "description": "Welcome to Hack on Hills 8.0, the flagship 48-hour hackathon hosted by the App Team, NIT Hamirpur. Over the years, Hack on Hills has grown into one of North India's largest student-run hackathons, bringing together thousands of developers, designers, innovators, and technology enthusiasts from across the country. This edition explores a defining shift in technology: the rise of autonomous agents. As AI systems evolve from tools that generate content to systems that can reason, plan, and execute tasks, we stand at the beginning of a new computing paradigm. Hack on Hills 8.0 invites participants to build products, platforms, and experiences that leverage this transformation to solve real-world problems. Whether you're building intelligent agents, decentralized applications, sustainable technology solutions, or entirely new ideas, this is your opportunity to turn ambitious concepts into working products. Build systems capable of reasoning, planning, decision-making, and autonomous execution. Develop decentralized applications, protocols, and infrastructure for the next generation of the internet. Create technology solutions addressing environmental, social, and community challenges. Explore bold ideas beyond predefined categories and build solutions that create meaningful impact. Shortlisting: Based on participant profiles and application review Finals: 48-hour in-person hackathon at NIT Hamirpur Participants will collaborate, prototype, and present their projects before a panel of industry experts, mentors, and judges. Hack on Hills 8.0 features a prize pool, sponsor challenges, and ecosystem bounties designed to recognize outstanding innovation across multiple domains. Prize details and partner tracks will be announced soon. With over 1,500+ registrations across previous editions, Hack on Hills continues to foster a community of builders who are passionate about technology, innovation, and problem-solving. Join us for 48 hours of innovation, collaboration, and creation at Hack on Hills 8.0. Welcome to Hack on Hills 8.0, the flagship 48-hour hackathon hosted by the App Team, NIT Hamirpur. Over the years, Hack on Hills has grown into one of North India's largest student-run hackathons, bringing together thousands of developers, designers, innovators, and technology enthusiasts from across the country. This edition explores a defining shift in technology: the rise of autonomous agents. As AI systems evolve from tools that generate content to systems that can reason, plan, and execute tasks, we stand at the beginning of a new computing paradigm. Hack on Hills 8.0 invites participants to build products, platforms, and experiences that leverage this transformation to solve real-world problems. Whether you're building intelligent agents, decentralized applications, sustainable technology solutions, or entirely new ideas, this is your opportunity to turn ambitious concepts into working products. Build systems capable of reasoning, planning, decision-making, and autonomous execution. Develop decentralized applications, protocols, and infrastructure for the next generation of the internet. Create technology solutions addressing environmental, social, and community challenges. Explore bold ideas beyond predefined categories and build solutions that create meaningful impact. Shortlisting: Based on participant profiles and application review Finals: 48-hour in-person hackathon at NIT Hamirpur Participants will collaborate, prototype, and present their projects before a panel of industry experts, mentors, and judges. Hack on Hills 8.0 features a prize pool, sponsor challenges, and ecosystem bounties designed to recognize outstanding innovation across multiple domains. Prize details and partner tracks will be announced soon. With over 1,500+ registrations across previous editions, Hack on Hills continues to foster a community of builders who are passionate about technology, innovation, and problem-solving. Join us for 48 hours of innovation, collaboration, and creation at Hack on Hills 8.0.",
+    "event_dates": "Oct 31 - Nov 2, 2026",
+    "prize_amount": "$1,194 Available in Prizes",
+    "modes": "in-person",
+    "location": "Hamirpur, India",
+    "hackathon_page_url": "https://hackonhills8.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
     "level": null
   },
   {
@@ -318,7 +306,7 @@ const DATA = [
     "prize_amount": "$5,000 Available in Prizes",
     "modes": "remote",
     "location": "Online",
-    "hackathon_page_url": "https://arkiv.devfolio.co/",
+    "hackathon_page_url": "https://arkiv.devfolio.co/overview",
     "status": "running",
     "source": "Devfolio",
     "level": null
@@ -532,7 +520,7 @@ clearDateButton.addEventListener("click", () => {
 });
 
 // Header stats
-document.getElementById("last-checked-date").textContent = "Oct 11, 2026";
+document.getElementById("last-checked-date").textContent = "Oct 12, 2026";
 document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
   (h) => h.status === "open" || h.status === "running",
 ).length;
