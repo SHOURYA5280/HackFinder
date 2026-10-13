@@ -6,7 +6,7 @@
     "prize_amount": "",
     "modes": "remote",
     "location": "Online",
-    "hackathon_page_url": "https://codestorm-futureforge.devfolio.co/overview",
+    "hackathon_page_url": "https://codestorm-futureforge.devfolio.co/",
     "status": "running",
     "source": "Devfolio",
     "level": null
@@ -90,7 +90,7 @@
     "prize_amount": "$3,016 Available in Prizes",
     "modes": "in-person",
     "location": "Ludhiana, India",
-    "hackathon_page_url": "https://hacknauts26.devfolio.co/overview",
+    "hackathon_page_url": "https://hacknauts26.devfolio.co/",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -133,7 +133,7 @@
   },
   {
     "title": "Life After Code",
-    "description": "Code generation is solved. What happens next is the challenge. Life After Code is the GitLab Transcend Hackathon. Build agents and flows that take over the rest of the DevSecOps lifecycle: code review, security scanning, testing, compliance, deployment, monitoring, and more. You pick how much control you hand over. Then you show us how far your automation goes. Why join? Use agents,flows, triggers, and MCP servers - as many features of the GitLab Duo Agent Platform and see how much of your software development lifecycle you can automate. Compete for $45,000 in cash . Get your work in front of judges from GitLab, Google, and Anthropic. Get Started Register for the hackathon here on Devpost Start GitLab Transcend Hackathon contributor onboarding (5 minutes, plus about 24 hours for approval) Build your first agent with the Duo Agent Platform quickstart (45 minutes) Read the two Paths below and pick yours , then browse the DevSecOps lifecycle stages and plan how many your agents and flows can reach (30 minutes) Attend the Build Session with Missy Davies and Dennis Meister on Oct 9, 10am ET. It’ll be a live walkthrough of GitLab Duo Agent Platform automating what happens after the code is written.",
+    "description": "Code generation is solved. What happens next is the challenge. Life After Code is the GitLab Transcend Hackathon. Build agents and flows that take over the rest of the DevSecOps lifecycle: code review, security scanning, testing, compliance, deployment, monitoring, and more. You pick how much control you hand over. Then you show us how far your automation goes. Why join? Use agents,flows, triggers, and MCP servers - as many features of the GitLab Duo Agent Platform and see how much of your software development lifecycle you can automate. Compete for $45,000 in cash . Get your work in front of judges from GitLab, Google, and Anthropic. Get Started Register for the hackathon here on Devpost Start GitLab Transcend Hackathon contributor onboarding (5 minutes, plus about 24 hours for approval) Build your first agent with the Duo Agent Platform quickstart (45 minutes) Read the two Paths below and pick yours , then browse the DevSecOps lifecycle stages and plan how many your agents and flows can reach (30 minutes) Watch the Build Session with Missy Davies and Dennis Meister on Oct 9, 10am ET. It’ll be a live walkthrough of GitLab Duo Agent Platform automating what happens after the code is written.",
     "event_dates": "Oct 05 - 27, 2026",
     "prize_amount": "$ 45,000",
     "modes": "remote",
@@ -141,18 +141,6 @@
     "hackathon_page_url": "https://gitlab-transcend.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "Wild Bugs",
-    "description": "Welcome to Wild Bugs — a 24-hour online hackathon where ideas are tested, solutions are built, and developers venture into the unpredictable wilderness of technology. Participants will be given problem statements at the beginning of the hackathon and challenged to transform them into functional, innovative solutions within 24 hours. From ideation and architecture to development and deployment, every decision counts. It's about thinking beyond the obvious, adapting to constraints, solving real problems, and shipping something that works. Teams will compete through the preliminary round, tackling their assigned challenge with creativity, technical depth, and execution. Whether you debug your way through the night, discover an unconventional approach, or build something nobody expected — the wilderness rewards those who adapt. Welcome to Wild Bugs — a 24-hour online hackathon where ideas are tested, solutions are built, and developers venture into the unpredictable wilderness of technology. Participants will be given problem statements at the beginning of the hackathon and challenged to transform them into functional, innovative solutions within 24 hours. From ideation and architecture to development and deployment, every decision counts. It's about thinking beyond the obvious, adapting to constraints, solving real problems, and shipping something that works. Teams will compete through the preliminary round, tackling their assigned challenge with creativity, technical depth, and execution. Whether you debug your way through the night, discover an unconventional approach, or build something nobody expected — the wilderness rewards those who adapt.",
-    "event_dates": "Oct 14 - 15, 2026",
-    "prize_amount": "$1,000 Available in Prizes",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://wild-bugs.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
     "level": null
   },
   {
@@ -217,7 +205,7 @@
   },
   {
     "title": "Hackman X",
-    "description": "Hackman X is here, and we're celebrating 10 years of Hackman!! Ten years ago, Hackman began at DSCE, bringing students together to build, experiment, and turn their ideas into projects. Today, it stands as the oldest hackathon at DSCE and one of the oldest student hackathons in Bengaluru. Now, as we return for our 10th edition , we're excited to celebrate a decade of Hackman with all of you! Organised by GENESIS , the student club of the Department of Information Science & Engineering at Dayananda Sagar College of Engineering, Hackman X is a 24-hour offline hackathon happening at the DSCE campus. Got an idea you've been waiting to work on? Want to try something you've never built before? Or just want to spend 24 hours coding, figuring things out with your team, and turning an idea into something real? This is your chance! And of course, you get to be part of Hackman's 10th edition , a milestone we're genuinely excited to celebrate! Get your team together, start thinking about what you want to build, and send in your application. We can't wait to see what you come up with! Hackman X is here, and we're celebrating 10 years of Hackman!! Ten years ago, Hackman began at DSCE, bringing students together to build, experiment, and turn their ideas into projects. Today, it stands as the oldest hackathon at DSCE and one of the oldest student hackathons in Bengaluru. Now, as we return for our 10th edition , we're excited to celebrate a decade of Hackman with all of you! Organised by GENESIS , the student club of the Department of Information Science & Engineering at Dayananda Sagar College of Engineering, Hackman X is a 24-hour offline hackathon happening at the DSCE campus. Got an idea you've been waiting to work on? Want to try something you've never built before? Or just want to spend 24 hours coding, figuring things out with your team, and turning an idea into something real? This is your chance! And of course, you get to be part of Hackman's 10th edition , a milestone we're genuinely excited to celebrate! Get your team together, start thinking about what you want to build, and send in your application. We can't wait to see what you come up with!",
+    "description": "Hackman X is here, and we're celebrating 10 years of Hackman!! Ten years ago, Hackman began at DSCE, bringing students together to build, experiment, and turn their ideas into projects. Today, it stands as the oldest hackathon at DSCE and one of the oldest student hackathons in Bengaluru. Now, as we return for our 10th edition , we're excited to celebrate a decade of Hackman with all of you! Organised by GENESIS , the student club of the Department of Information Science & Engineering at Dayananda Sagar College of Engineering, Hackman X is a 24-hour offline hackathon happening at the DSCE campus. Got an idea you've been waiting to work on? Want to try something you've never built before? Or just want to spend 24 hours coding, figuring things out with your team, and turning an idea into something real? This is your chance! There are no fixed problem statements or restricted domains. Build in any domain you’re interested in, from AI/ML and healthcare to fintech, sustainability, cybersecurity, robotics, and more. And of course, you get to be part of Hackman's 10th edition , a milestone we're genuinely excited to celebrate! Get your team together, start thinking about what you want to build, and send in your application. We can't wait to see what you come up with! Hackman X is here, and we're celebrating 10 years of Hackman!! Ten years ago, Hackman began at DSCE, bringing students together to build, experiment, and turn their ideas into projects. Today, it stands as the oldest hackathon at DSCE and one of the oldest student hackathons in Bengaluru. Now, as we return for our 10th edition , we're excited to celebrate a decade of Hackman with all of you! Organised by GENESIS , the student club of the Department of Information Science & Engineering at Dayananda Sagar College of Engineering, Hackman X is a 24-hour offline hackathon happening at the DSCE campus. Got an idea you've been waiting to work on? Want to try something you've never built before? Or just want to spend 24 hours coding, figuring things out with your team, and turning an idea into something real? This is your chance! There are no fixed problem statements or restricted domains. Build in any domain you’re interested in, from AI/ML and healthcare to fintech, sustainability, cybersecurity, robotics, and more. And of course, you get to be part of Hackman's 10th edition , a milestone we're genuinely excited to celebrate! Get your team together, start thinking about what you want to build, and send in your application. We can't wait to see what you come up with!",
     "event_dates": "Oct 26 - 27, 2026",
     "prize_amount": "$1,622 Available in Prizes",
     "modes": "in-person",
@@ -234,7 +222,7 @@
     "prize_amount": "",
     "modes": "in-person",
     "location": "India",
-    "hackathon_page_url": "https://hacker-house-goa-2026.devfolio.co/overview",
+    "hackathon_page_url": "https://hacker-house-goa-2026.devfolio.co/",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -325,7 +313,7 @@
   },
   {
     "title": "Meta VR Start Developer Competition 2026",
-    "description": "THE META VR START DEVELOPER COMPETITION IS BACK! This year’s eight-week challenge calls on Start program members to build the next generation of Entertainment, Gaming, and Productivity experiences for Meta VR devices – including Meta VR Glasses and Meta Quest. We’re looking for hands-first apps that make interaction more natural and gameplay more intuitive than ever before. Last year, over 2,900 developers joined the competition and delivered more than 650 submissions that pushed the boundaries of immersive technology. This year, we’re raising the bar again. Whether you’re a first-time Start developer with a breakthrough idea or a seasoned creator ready to showcase what’s possible with the latest platform capabilities, this is your moment to help redefine the future of VR. Here’s what’s waiting for you: 🤝 Build hands-first. Design experiences powered by hand interactions that feel natural, responsive, and deeply immersive—no controllers required. 🛠️ Explore new tech. Take advantage of the latest OS capabilities and device features across Meta VR Glasses and Meta Quest, accelerate your development with AI tooling, including Meta VR CLI. 🌍 Join a global community. Boost your skills through mentor programming, collaborate with fellow developers, share insights, and learn from a thriving network of experienced VR developers. 🏆 Compete for $1M in cash prizes with top prizes of $100,000. The future of VR is in your hands literally . We can’t wait to see what you build. GETTING STARTED If you’re not already a member of the Start program, apply now to join the competition. Estimated time: 5 minutes Explore last year’s winning submissions and Sample Use Cases for Inspiration Estimated time: 30 minutes Entertainment Gaming I ​​Quest Gamer Segments Productivity: AnExplorer Hands: Hands Physics Lab I ​​ Table Troopers Follow a Quickstart Tutorial (below) Estimated time: 30 minutes Unity: VR 101 I VR 102 Unreal: How to Make VR Games in UE5 Android: From Mobile to VR Overview Immersive Web SDK: Your First Steps into Immersive Web Development Getting Started with Hands & Eyes Check out the Resources tab for more technical documentation and visit the Meta Developer Forum for ongoing support and access to upcoming competition events and workshops.",
+    "description": "",
     "event_dates": "Sep 24 - Nov 18, 2026",
     "prize_amount": "$ 1,000,000",
     "modes": "remote",
