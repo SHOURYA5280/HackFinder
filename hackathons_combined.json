@@ -85,7 +85,7 @@
   },
   {
     "title": "GeNarrative Clash",
-    "description": "",
+    "description": "Where Generative AI Meets Human Creativity: Kolkata's Ultimate Prompt Engineering Challenge Are you ready to redefine how stories are told, music is composed, and digital art is created? GeNarrative Clash is Kolkata's premier Prompt Engineering & AI Building Challenge, organized by the GeeksforGeeks Student Chapter at Techno India University. Don't worry if you are new to AI development! Before the live challenge kicks off, every participant gets access to an exclusive 1-Hour Hands-On Masterclass on AI Development & API Integration . Learn how to harness cutting-edge LLMs, query GenAI APIs, and leverage rapid prototyping tools so you can build a solid, production-ready product with confidence. Generative AI shouldn't replace human creators, it should supercharge them! GeNarrative Clash features an Open Track focused on building real-world solutions that assist, elevate, and support creative artists in their work. You are free to solve any real-world problem in the artistic or creative domain. Where Generative AI Meets Human Creativity: Kolkata's Ultimate Prompt Engineering Challenge Are you ready to redefine how stories are told, music is composed, and digital art is created? GeNarrative Clash is Kolkata's premier Prompt Engineering & AI Building Challenge, organized by the GeeksforGeeks Student Chapter at Techno India University. Don't worry if you are new to AI development! Before the live challenge kicks off, every participant gets access to an exclusive 1-Hour Hands-On Masterclass on AI Development & API Integration . Learn how to harness cutting-edge LLMs, query GenAI APIs, and leverage rapid prototyping tools so you can build a solid, production-ready product with confidence. Generative AI shouldn't replace human creators, it should supercharge them! GeNarrative Clash features an Open Track focused on building real-world solutions that assist, elevate, and support creative artists in their work. You are free to solve any real-world problem in the artistic or creative domain.",
     "event_dates": "Nov 21, 2026",
     "prize_amount": "",
     "modes": "in-person",
@@ -144,18 +144,6 @@
     "level": null
   },
   {
-    "title": "Graph Hacks: Building Next-Gen RAG",
-    "description": "",
-    "event_dates": "Oct 14–18",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "",
-    "hackathon_page_url": "https://www.wemakedevs.org/hackathons/falkordb",
-    "status": "running",
-    "source": "WeMakeDevs",
-    "level": null
-  },
-  {
     "title": "No Hands: The Wispr Challenge",
     "description": "",
     "event_dates": "Oct 15–30",
@@ -199,18 +187,6 @@
     "modes": "in-person",
     "location": "Vellore, India",
     "hackathon_page_url": "https://cognition-2026.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
-    "title": "Hack For Tomorrow 2026",
-    "description": "The flagship 24-hour collegiate hackathon of Excel, bringing together top student developers from across India to solve high-impact, real-world engineering challenges. Organized under the aegis of Govt. Model Engineering College (MEC), Kochi and its annual techno-managerial fest Excel, Hack For Tomorrow provides an inclusive and collaborative platform for developers of all skill levels. Over 24 continuous hours, participants work alongside seasoned industry mentors and alumni engineers to conceptualize, architect, and ship functional technical prototypes in an energetic offline environment. The flagship 24-hour collegiate hackathon of Excel, bringing together top student developers from across India to solve high-impact, real-world engineering challenges. Organized under the aegis of Govt. Model Engineering College (MEC), Kochi and its annual techno-managerial fest Excel, Hack For Tomorrow provides an inclusive and collaborative platform for developers of all skill levels. Over 24 continuous hours, participants work alongside seasoned industry mentors and alumni engineers to conceptualize, architect, and ship functional technical prototypes in an energetic offline environment.",
-    "event_dates": "Oct 24 - 25, 2026",
-    "prize_amount": "$313 Available in Prizes",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://hft2026.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -264,18 +240,6 @@
     "level": null
   },
   {
-    "title": "Version Beta 9.0",
-    "description": "Get ready for Version Beta, the ultimate 36-hour hackathon organized by ISTE SC MANIT! This is your chance to break away from the ordinary and dive into an exciting world of innovation, collaboration, and problem-solving. With expert-led guidance and a dynamic environment, you’ll learn, grow, and connect with tech enthusiasts from across India. Plus, with amazing rewards and cash prizes up for grabs, this is an experience you won't want to miss! 💡 Important: Ideation Phase & Registration Process Please note that our Registration and Ideation Phase are running simultaneously, ending on October 23rd. Since Devfolio requires every participant to register individually before forming a team on the platform, we are collecting your project ideas directly in the application form. Step 1: Prepare your team's Ideation PPT (using Google Slides, Canva, or Google Drive). Step 2: Ensure the access permissions are set to \"Anyone with the link can view\" (Restricted links will be disqualified). Step 3: When filling out the Devfolio application form, paste this link into the required PPT submission field. Team Leaders: Please submit the valid, working link to your presentation. Team Members: You must also fill out the application individually. You can either paste the exact same link as your team leader or type \"NA\" in the field. Get ready for Version Beta, the ultimate 36-hour hackathon organized by ISTE SC MANIT! This is your chance to break away from the ordinary and dive into an exciting world of innovation, collaboration, and problem-solving. With expert-led guidance and a dynamic environment, you’ll learn, grow, and connect with tech enthusiasts from across India. Plus, with amazing rewards and cash prizes up for grabs, this is an experience you won't want to miss! 💡 Important: Ideation Phase & Registration Process Please note that our Registration and Ideation Phase are running simultaneously, ending on October 23rd. Since Devfolio requires every participant to register individually before forming a team on the platform, we are collecting your project ideas directly in the application form. Step 1: Prepare your team's Ideation PPT (using Google Slides, Canva, or Google Drive). Step 2: Ensure the access permissions are set to \"Anyone with the link can view\" (Restricted links will be disqualified). Step 3: When filling out the Devfolio application form, paste this link into the required PPT submission field. Team Leaders: Please submit the valid, working link to your presentation. Team Members: You must also fill out the application individually. You can either paste the exact same link as your team leader or type \"NA\" in the field.",
-    "event_dates": "Oct 30 - Nov 1, 2026",
-    "prize_amount": "$100 Available in Prizes",
-    "modes": "in-person",
-    "location": "Bhopal, India",
-    "hackathon_page_url": "https://version-beta-9.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "BIOS V2",
     "description": "In a computer, the BIOS is the first thing that runs. Here, it's the first point of contact, where life and computation begin speaking to each other. BIOS V2 is CSED's flagship hackathon, run with the IEEE Student Chapter at Thapar Institute of Engineering and Technology, Patiala . It brings 300 shortlisted builders in 60 teams to campus for 48 hours of building , from 30 October to 1 November 2026 . Problem statements for school students, solved on campus. Seed has two routes: Problem statements set at a more approachable level . The right starting point for emerging builders . The hardest problem statements at BIOS , built for advanced AI, systems and research work . Expect demanding evaluation and live technical questioning . Companies write the problem statements , and screened teams build on them. Teams that perform well get the chance at 2-month and 6-month internships with the partner company. Expect AI agents, coding tools and multimodal apps , with the freedom to compare and switch models as you build. Cash prizes, platform credits, tools and perks , with something for the teams that ship. Venue: Thapar Institute of Engineering and Technology, Patiala Dates: 30 Oct to 1 Nov 2026 Website: bios.notyouraverage.xyz In a computer, the BIOS is the first thing that runs. Here, it's the first point of contact, where life and computation begin speaking to each other. BIOS V2 is CSED's flagship hackathon, run with the IEEE Student Chapter at Thapar Institute of Engineering and Technology, Patiala . It brings 300 shortlisted builders in 60 teams to campus for 48 hours of building , from 30 October to 1 November 2026 . Problem statements for school students, solved on campus. Seed has two routes: Problem statements set at a more approachable level . The right starting point for emerging builders . The hardest problem statements at BIOS , built for advanced AI, systems and research work . Expect demanding evaluation and live technical questioning . Companies write the problem statements , and screened teams build on them. Teams that perform well get the chance at 2-month and 6-month internships with the partner company. Expect AI agents, coding tools and multimodal apps , with the freedom to compare and switch models as you build. Cash prizes, platform credits, tools and perks , with something for the teams that ship. Venue: Thapar Institute of Engineering and Technology, Patiala Dates: 30 Oct to 1 Nov 2026 Website: bios.notyouraverage.xyz",
     "event_dates": "Oct 30 - Nov 1, 2026",
@@ -283,6 +247,18 @@
     "modes": "in-person",
     "location": "Patiala, India",
     "hackathon_page_url": "https://biosv2.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "Version Beta 9.0",
+    "description": "Get ready for Version Beta, the ultimate 36-hour hackathon organized by ISTE SC MANIT! This is your chance to break away from the ordinary and dive into an exciting world of innovation, collaboration, and problem-solving. With expert-led guidance and a dynamic environment, you’ll learn, grow, and connect with tech enthusiasts from across India. Plus, with amazing rewards and cash prizes up for grabs, this is an experience you won't want to miss! 💡 Important: Ideation Phase & Registration Process Please note that our Registration and Ideation Phase are running simultaneously, ending on October 23rd. Since Devfolio requires every participant to register individually before forming a team on the platform, we are collecting your project ideas directly in the application form. Step 1: Prepare your team's Ideation PPT (using Google Slides, Canva, or Google Drive). Step 2: Ensure the access permissions are set to \"Anyone with the link can view\" (Restricted links will be disqualified). Step 3: When filling out the Devfolio application form, paste this link into the required PPT submission field. Team Leaders: Please submit the valid, working link to your presentation. Team Members: You must also fill out the application individually. You can either paste the exact same link as your team leader or type \"NA\" in the field. Get ready for Version Beta, the ultimate 36-hour hackathon organized by ISTE SC MANIT! This is your chance to break away from the ordinary and dive into an exciting world of innovation, collaboration, and problem-solving. With expert-led guidance and a dynamic environment, you’ll learn, grow, and connect with tech enthusiasts from across India. Plus, with amazing rewards and cash prizes up for grabs, this is an experience you won't want to miss! 💡 Important: Ideation Phase & Registration Process Please note that our Registration and Ideation Phase are running simultaneously, ending on October 23rd. Since Devfolio requires every participant to register individually before forming a team on the platform, we are collecting your project ideas directly in the application form. Step 1: Prepare your team's Ideation PPT (using Google Slides, Canva, or Google Drive). Step 2: Ensure the access permissions are set to \"Anyone with the link can view\" (Restricted links will be disqualified). Step 3: When filling out the Devfolio application form, paste this link into the required PPT submission field. Team Leaders: Please submit the valid, working link to your presentation. Team Members: You must also fill out the application individually. You can either paste the exact same link as your team leader or type \"NA\" in the field.",
+    "event_dates": "Oct 30 - Nov 1, 2026",
+    "prize_amount": "$100 Available in Prizes",
+    "modes": "in-person",
+    "location": "Bhopal, India",
+    "hackathon_page_url": "https://version-beta-9.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -308,18 +284,6 @@
     "location": "Online",
     "hackathon_page_url": "https://lean-in-hacks-8.devfolio.co/overview",
     "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
-    "title": "Arkiv: Global Tour Stop 🌍",
-    "description": "A special edition on the road to Devcon 8 Mumbai. Ten days to build on Arkiv, the Web3 database. Build on Arkiv , the Web3 database, around one theme: CROPS , the Ethereum Foundation's mandate that Ethereum stay c ensorship resistant, o pen source, p rivate and s ecure. Ten days, fully online, open to builders everywhere. The challenge opens live at Network School Astana during the Network State Conference on 9 October and closes on 18 October . Five winners get a Devcon 8 ticket on top of their prize. Build anything useful and usable for the ecosystem: a dApp, a library, an SDK, a devtool, a CLI, an indexer, a dataset, an agent, a browser extension or more. Four CROPS tracks are open to everyone, and the Best Indian Use Case track rewards a real-world application that people in India can use. Pick one or more tracks when you submit: the four CROPS pillars and Best Indian Use Case. All projects are scored on four criteria, 25 points each. The first one depends on the track and is scored for each track you enter: Before scoring, every project must pass the gates: a public deployment judges can open without asking for access (libraries, CLIs and datasets too), reproducible steps, a public MIT repo, /arkiv/schema.md , /arkiv/friction.md , the wallet addresses that create your Arkiv entities on Tiramisu, a demo video of 3 minutes or less, every required question on the submission form answered, and work built between 9 and 18 October. Disclose any pre-existing work with its baseline commit SHA. A project needs at least 50/100 to win. Disqualified: plagiarised work; no meaningful Arkiv use (SDK installed but never queried, or a conventional database app with Arkiv branding); private keys, secrets or real personal data stored in Arkiv, in plaintext or hashed (use synthetic data); malicious code; no working app; late entries. At the deadline we record your repo's commit SHA and judge that commit. Rewriting history after the deadline disqualifies the entry. Keep your deployment up until 23 October. The full rules, rubric and submission checklist live in Arkiv-Network/global-tour-stop-pre-devcon . That repo is the only canonical source: if anything here differs, the repo applies. A special edition on the road to Devcon 8 Mumbai. Ten days to build on Arkiv, the Web3 database. Build on Arkiv , the Web3 database, around one theme: CROPS , the Ethereum Foundation's mandate that Ethereum stay c ensorship resistant, o pen source, p rivate and s ecure. Ten days, fully online, open to builders everywhere. The challenge opens live at Network School Astana during the Network State Conference on 9 October and closes on 18 October . Five winners get a Devcon 8 ticket on top of their prize. Build anything useful and usable for the ecosystem: a dApp, a library, an SDK, a devtool, a CLI, an indexer, a dataset, an agent, a browser extension or more. Four CROPS tracks are open to everyone, and the Best Indian Use Case track rewards a real-world application that people in India can use. Pick one or more tracks when you submit: the four CROPS pillars and Best Indian Use Case. All projects are scored on four criteria, 25 points each. The first one depends on the track and is scored for each track you enter: Before scoring, every project must pass the gates: a public deployment judges can open without asking for access (libraries, CLIs and datasets too), reproducible steps, a public MIT repo, /arkiv/schema.md , /arkiv/friction.md , the wallet addresses that create your Arkiv entities on Tiramisu, a demo video of 3 minutes or less, every required question on the submission form answered, and work built between 9 and 18 October. Disclose any pre-existing work with its baseline commit SHA. A project needs at least 50/100 to win. Disqualified: plagiarised work; no meaningful Arkiv use (SDK installed but never queried, or a conventional database app with Arkiv branding); private keys, secrets or real personal data stored in Arkiv, in plaintext or hashed (use synthetic data); malicious code; no working app; late entries. At the deadline we record your repo's commit SHA and judge that commit. Rewriting history after the deadline disqualifies the entry. Keep your deployment up until 23 October. The full rules, rubric and submission checklist live in Arkiv-Network/global-tour-stop-pre-devcon . That repo is the only canonical source: if anything here differs, the repo applies.",
-    "event_dates": "Oct 9 - 18, 2026",
-    "prize_amount": "$5,000 Available in Prizes",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://arkiv.devfolio.co/overview",
-    "status": "running",
     "source": "Devfolio",
     "level": null
   },
