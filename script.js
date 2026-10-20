@@ -240,18 +240,6 @@ const DATA = [
     "level": null
   },
   {
-    "title": "BIOS V2",
-    "description": "In a computer, the BIOS is the first thing that runs. Here, it's the first point of contact, where life and computation begin speaking to each other. BIOS V2 is CSED's flagship hackathon, run with the IEEE Student Chapter at Thapar Institute of Engineering and Technology, Patiala . It brings 300 shortlisted builders in 60 teams to campus for 48 hours of building , from 30 October to 1 November 2026 . Problem statements for school students, solved on campus. Seed has two routes: Problem statements set at a more approachable level . The right starting point for emerging builders . The hardest problem statements at BIOS , built for advanced AI, systems and research work . Expect demanding evaluation and live technical questioning . Companies write the problem statements , and screened teams build on them. Teams that perform well get the chance at 2-month and 6-month internships with the partner company. Expect AI agents, coding tools and multimodal apps , with the freedom to compare and switch models as you build. Cash prizes, platform credits, tools and perks , with something for the teams that ship. Venue: Thapar Institute of Engineering and Technology, Patiala Dates: 30 Oct to 1 Nov 2026 Website: bios.notyouraverage.xyz In a computer, the BIOS is the first thing that runs. Here, it's the first point of contact, where life and computation begin speaking to each other. BIOS V2 is CSED's flagship hackathon, run with the IEEE Student Chapter at Thapar Institute of Engineering and Technology, Patiala . It brings 300 shortlisted builders in 60 teams to campus for 48 hours of building , from 30 October to 1 November 2026 . Problem statements for school students, solved on campus. Seed has two routes: Problem statements set at a more approachable level . The right starting point for emerging builders . The hardest problem statements at BIOS , built for advanced AI, systems and research work . Expect demanding evaluation and live technical questioning . Companies write the problem statements , and screened teams build on them. Teams that perform well get the chance at 2-month and 6-month internships with the partner company. Expect AI agents, coding tools and multimodal apps , with the freedom to compare and switch models as you build. Cash prizes, platform credits, tools and perks , with something for the teams that ship. Venue: Thapar Institute of Engineering and Technology, Patiala Dates: 30 Oct to 1 Nov 2026 Website: bios.notyouraverage.xyz",
-    "event_dates": "Oct 30 - Nov 1, 2026",
-    "prize_amount": "",
-    "modes": "in-person",
-    "location": "Patiala, India",
-    "hackathon_page_url": "https://biosv2.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "Version Beta 9.0",
     "description": "Get ready for Version Beta, the ultimate 36-hour hackathon organized by ISTE SC MANIT! This is your chance to break away from the ordinary and dive into an exciting world of innovation, collaboration, and problem-solving. With expert-led guidance and a dynamic environment, you’ll learn, grow, and connect with tech enthusiasts from across India. Plus, with amazing rewards and cash prizes up for grabs, this is an experience you won't want to miss! 💡 Important: Ideation Phase & Registration Process Please note that our Registration and Ideation Phase are running simultaneously, ending on October 23rd. Since Devfolio requires every participant to register individually before forming a team on the platform, we are collecting your project ideas directly in the application form. Step 1: Prepare your team's Ideation PPT (using Google Slides, Canva, or Google Drive). Step 2: Ensure the access permissions are set to \"Anyone with the link can view\" (Restricted links will be disqualified). Step 3: When filling out the Devfolio application form, paste this link into the required PPT submission field. Team Leaders: Please submit the valid, working link to your presentation. Team Members: You must also fill out the application individually. You can either paste the exact same link as your team leader or type \"NA\" in the field. Get ready for Version Beta, the ultimate 36-hour hackathon organized by ISTE SC MANIT! This is your chance to break away from the ordinary and dive into an exciting world of innovation, collaboration, and problem-solving. With expert-led guidance and a dynamic environment, you’ll learn, grow, and connect with tech enthusiasts from across India. Plus, with amazing rewards and cash prizes up for grabs, this is an experience you won't want to miss! 💡 Important: Ideation Phase & Registration Process Please note that our Registration and Ideation Phase are running simultaneously, ending on October 23rd. Since Devfolio requires every participant to register individually before forming a team on the platform, we are collecting your project ideas directly in the application form. Step 1: Prepare your team's Ideation PPT (using Google Slides, Canva, or Google Drive). Step 2: Ensure the access permissions are set to \"Anyone with the link can view\" (Restricted links will be disqualified). Step 3: When filling out the Devfolio application form, paste this link into the required PPT submission field. Team Leaders: Please submit the valid, working link to your presentation. Team Members: You must also fill out the application individually. You can either paste the exact same link as your team leader or type \"NA\" in the field.",
     "event_dates": "Oct 30 - Nov 1, 2026",
@@ -259,6 +247,18 @@ const DATA = [
     "modes": "in-person",
     "location": "Bhopal, India",
     "hackathon_page_url": "https://version-beta-9.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "BIOS V2",
+    "description": "In a computer, the BIOS is the first thing that runs. Here, it's the first point of contact, where life and computation begin speaking to each other. BIOS V2 is CSED's flagship hackathon, run with the IEEE Student Chapter at Thapar Institute of Engineering and Technology, Patiala . It brings 300 shortlisted builders in 60 teams to campus for 48 hours of building , from 30 October to 1 November 2026 . Problem statements for school students, solved on campus. Seed has two routes: Problem statements set at a more approachable level . The right starting point for emerging builders . The hardest problem statements at BIOS , built for advanced AI, systems and research work . Expect demanding evaluation and live technical questioning . Companies write the problem statements , and screened teams build on them. Teams that perform well get the chance at 2-month and 6-month internships with the partner company. Expect AI agents, coding tools and multimodal apps , with the freedom to compare and switch models as you build. Cash prizes, platform credits, tools and perks , with something for the teams that ship. Venue: Thapar Institute of Engineering and Technology, Patiala Dates: 30 Oct to 1 Nov 2026 Website: bios.notyouraverage.xyz In a computer, the BIOS is the first thing that runs. Here, it's the first point of contact, where life and computation begin speaking to each other. BIOS V2 is CSED's flagship hackathon, run with the IEEE Student Chapter at Thapar Institute of Engineering and Technology, Patiala . It brings 300 shortlisted builders in 60 teams to campus for 48 hours of building , from 30 October to 1 November 2026 . Problem statements for school students, solved on campus. Seed has two routes: Problem statements set at a more approachable level . The right starting point for emerging builders . The hardest problem statements at BIOS , built for advanced AI, systems and research work . Expect demanding evaluation and live technical questioning . Companies write the problem statements , and screened teams build on them. Teams that perform well get the chance at 2-month and 6-month internships with the partner company. Expect AI agents, coding tools and multimodal apps , with the freedom to compare and switch models as you build. Cash prizes, platform credits, tools and perks , with something for the teams that ship. Venue: Thapar Institute of Engineering and Technology, Patiala Dates: 30 Oct to 1 Nov 2026 Website: bios.notyouraverage.xyz",
+    "event_dates": "Oct 30 - Nov 1, 2026",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "Patiala, India",
+    "hackathon_page_url": "https://biosv2.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -496,7 +496,7 @@ clearDateButton.addEventListener("click", () => {
 });
 
 // Header stats
-document.getElementById("last-checked-date").textContent = "Oct 19, 2026";
+document.getElementById("last-checked-date").textContent = "Oct 20, 2026";
 document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
   (h) => h.status === "open" || h.status === "running",
 ).length;
