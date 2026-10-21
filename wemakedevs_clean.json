@@ -22,5 +22,17 @@
     "status": "running",
     "source": "WeMakeDevs",
     "level": null
+  },
+  {
+    "title": "Patch the Conference Hackathon",
+    "description": "",
+    "event_dates": "Oct 24–25",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "San Francisco, CA",
+    "hackathon_page_url": "https://www.wemakedevs.org/hackathons/ptc",
+    "status": "open",
+    "source": "WeMakeDevs",
+    "level": null
   }
 ]
