@@ -42,7 +42,19 @@
     "prize_amount": "",
     "modes": "in-person",
     "location": "Myladi, India",
-    "hackathon_page_url": "https://haxfinity.devfolio.co/overview",
+    "hackathon_page_url": "https://haxfinity.devfolio.co/",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "ETHChiangmai & Longevity Hackathon 2026",
+    "description": "ETHChiangmai & Longevity Hackathon 2026 brings together builders from Web3, AI and Longevity in Chiang Mai on December 26–27. Join us to build real solutions across four tracks: Cosmo-Localism, PayFi & RWA, Longevity, and Privacy & Data Sovereignty. ETHChiangmai & Longevity Hackathon 2026 brings together builders from Web3, AI and Longevity in Chiang Mai on December 26–27. Join us to build real solutions across four tracks: Cosmo-Localism, PayFi & RWA, Longevity, and Privacy & Data Sovereignty.",
+    "event_dates": "Dec 26 - 27, 2026",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "Thailand",
+    "hackathon_page_url": "https://chiangmai.devfolio.co/",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -54,7 +66,7 @@
     "prize_amount": "",
     "modes": "remote",
     "location": "Online",
-    "hackathon_page_url": "https://coderave-2.devfolio.co/overview",
+    "hackathon_page_url": "https://coderave-2.devfolio.co/",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -66,7 +78,7 @@
     "prize_amount": "",
     "modes": "in-person",
     "location": "KSR Kalvi Nagar, India",
-    "hackathon_page_url": "https://hack-with-gdg-s4.devfolio.co/overview",
+    "hackathon_page_url": "https://hack-with-gdg-s4.devfolio.co/",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -90,7 +102,19 @@
     "prize_amount": "$3,016 Available in Prizes",
     "modes": "in-person",
     "location": "Ludhiana, India",
-    "hackathon_page_url": "https://hacknauts26.devfolio.co/overview",
+    "hackathon_page_url": "https://hacknauts26.devfolio.co/",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "THE BIG HACK 2.0",
+    "description": "",
+    "event_dates": "Nov 20, 2026",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "Soladevanahalli, India",
+    "hackathon_page_url": "https://the-big-hack-2.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -182,7 +206,7 @@
   {
     "title": "No Hands: The Wispr Challenge",
     "description": "",
-    "event_dates": "Oct 15–30",
+    "event_dates": "Oct 15–31",
     "prize_amount": "",
     "modes": "remote",
     "location": "",
@@ -199,7 +223,7 @@
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://syntax-error-6.devfolio.co/overview",
-    "status": "open",
+    "status": "running",
     "source": "Devfolio",
     "level": null
   },
@@ -211,18 +235,6 @@
     "modes": "in-person",
     "location": "Vellore, India",
     "hackathon_page_url": "https://cognition-2026.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
-    "title": "Innosprint2.0",
-    "description": "What We Are: D4 Community is proud to present an exciting one-day hackathon hosted at Chandigarh University , bringing together undergraduate students, budding tech enthusiasts, aspiring innovators, and problem solvers under one roof. This hackathon is all about building ideas into working products using Vibe Coding and Antigravity . Instead of spending hours worrying about every line of code, participants can focus on their ideas, creativity, experimentation, and problem-solving while using AI-powered development to bring their vision to life. Individual Participation Only — this is a solo hackathon. Every participant will ideate, build, and present their own project. Important Note: This is an individual participation hackathon . On the registration platform, you may see an option to add up to 4 participants . Please ignore this and register as an individual participant. Due to platform restrictions, we are currently unable to change the maximum participant limit from 4 to 1. Our Mission: Our mission is simple yet profound: to challenge participants to take an idea and turn it into something real within a single day. With Vibe Coding using Antigravity , participants can experiment with AI-assisted development, iterate quickly, and transform their ideas into functional prototypes. The focus isn't on how much code you can write. It's about what you can imagine, how you solve problems, and what you can build. What to Expect: Expect an action-packed one day of ideation, vibe coding, experimentation, and building . You don't need to spend the entire day writing code line by line. Bring an idea. Bring your creativity. Bring your curiosity. Let Antigravity handle the building with you. Health & Wellness : Build solutions that make healthcare, wellness, fitness, or everyday well-being simpler, smarter, and more accessible. Education & Learning : Create products that improve the way people learn, teach, practice, collaborate, or access educational resources. Productivity & Lifestyle : Build tools that help people manage their time, work, tasks, routines, finances, or everyday activities more effectively. Social Impact : Use technology to address problems faced by communities, individuals, or society and create solutions that can make a meaningful difference. Business & Innovation : Build innovative products, platforms, or tools that solve business problems, improve existing experiences, or create new opportunities. Entertainment & Creativity : Build something fun, interactive, creative, or completely unexpected. Explore new ways to entertain, create, and engage. Open Theme : Have an idea that doesn't fit into any of the above? That's completely fine. Build anything you want . If you can imagine it, you can build it. Why Join Us: Join us to experience a completely different way of building products. Sharpen your problem-solving skills, experiment with Vibe Coding , learn how to work with AI-assisted development, and turn an idea into a working prototype — all in a single day. Whether you're already familiar with AI-powered development or you're trying it for the first time, this hackathon is an opportunity to learn by building . No team. No waiting for teammates. No complicated setup. Just you, your idea, Antigravity, and one day to build. Stay Tuned: Stay tuned for updates, registration details, rules, judging criteria, and exciting announcements as we gear up for an unforgettable hackathon experience. Get ready to experiment with Vibe Coding , explore what you can build with Antigravity , and turn your ideas into reality. Mark your calendars and get ready to build with D4 Community's One-Day Vibe Coding Hackathon at Chandigarh University! What We Are: D4 Community is proud to present an exciting one-day hackathon hosted at Chandigarh University , bringing together undergraduate students, budding tech enthusiasts, aspiring innovators, and problem solvers under one roof. This hackathon is all about building ideas into working products using Vibe Coding and Antigravity . Instead of spending hours worrying about every line of code, participants can focus on their ideas, creativity, experimentation, and problem-solving while using AI-powered development to bring their vision to life. Individual Participation Only — this is a solo hackathon. Every participant will ideate, build, and present their own project. Important Note: This is an individual participation hackathon . On the registration platform, you may see an option to add up to 4 participants . Please ignore this and register as an individual participant. Due to platform restrictions, we are currently unable to change the maximum participant limit from 4 to 1. Our Mission: Our mission is simple yet profound: to challenge participants to take an idea and turn it into something real within a single day. With Vibe Coding using Antigravity , participants can experiment with AI-assisted development, iterate quickly, and transform their ideas into functional prototypes. The focus isn't on how much code you can write. It's about what you can imagine, how you solve problems, and what you can build. What to Expect: Expect an action-packed one day of ideation, vibe coding, experimentation, and building . You don't need to spend the entire day writing code line by line. Bring an idea. Bring your creativity. Bring your curiosity. Let Antigravity handle the building with you. Health & Wellness : Build solutions that make healthcare, wellness, fitness, or everyday well-being simpler, smarter, and more accessible. Education & Learning : Create products that improve the way people learn, teach, practice, collaborate, or access educational resources. Productivity & Lifestyle : Build tools that help people manage their time, work, tasks, routines, finances, or everyday activities more effectively. Social Impact : Use technology to address problems faced by communities, individuals, or society and create solutions that can make a meaningful difference. Business & Innovation : Build innovative products, platforms, or tools that solve business problems, improve existing experiences, or create new opportunities. Entertainment & Creativity : Build something fun, interactive, creative, or completely unexpected. Explore new ways to entertain, create, and engage. Open Theme : Have an idea that doesn't fit into any of the above? That's completely fine. Build anything you want . If you can imagine it, you can build it. Why Join Us: Join us to experience a completely different way of building products. Sharpen your problem-solving skills, experiment with Vibe Coding , learn how to work with AI-assisted development, and turn an idea into a working prototype — all in a single day. Whether you're already familiar with AI-powered development or you're trying it for the first time, this hackathon is an opportunity to learn by building . No team. No waiting for teammates. No complicated setup. Just you, your idea, Antigravity, and one day to build. Stay Tuned: Stay tuned for updates, registration details, rules, judging criteria, and exciting announcements as we gear up for an unforgettable hackathon experience. Get ready to experiment with Vibe Coding , explore what you can build with Antigravity , and turn your ideas into reality. Mark your calendars and get ready to build with D4 Community's One-Day Vibe Coding Hackathon at Chandigarh University!",
-    "event_dates": "Oct 24, 2026",
-    "prize_amount": "",
-    "modes": "in-person",
-    "location": "Chandigarh State, India",
-    "hackathon_page_url": "https://innosprint-3.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -241,7 +253,7 @@
   },
   {
     "title": "TUM Blockchain & AI Hackathon",
-    "description": "AI agents are starting to act on their own: booking, negotiating, paying. The payment rails for that don't fully exist yet. This hackathon is about building the infrastructure and applications that let autonomous agents transact safely and instantly on-chain. TUM Blockchain Club has brought together 3,000+ builders, researchers and founders over the last four years, running Europe's largest student-led Web3 event. This year the hackathon sits inside TBC26: three days, two venues, one community, with the main conference and Bundesblock's Digital Assets Day running alongside. AI agents are starting to act on their own: booking, negotiating, paying. The payment rails for that don't fully exist yet. This hackathon is about building the infrastructure and applications that let autonomous agents transact safely and instantly on-chain. TUM Blockchain Club has brought together 3,000+ builders, researchers and founders over the last four years, running Europe's largest student-led Web3 event. This year the hackathon sits inside TBC26: three days, two venues, one community, with the main conference and Bundesblock's Digital Assets Day running alongside.",
+    "description": "AI agents are starting to act on their own: booking, negotiating, paying. The payment rails for that don't fully exist yet. This hackathon is about building the infrastructure and applications that let autonomous agents transact safely and instantly on-chain. Pick a track, build against the partner's challenge, and compete for its prize pool. TUM Blockchain Club has brought together 3,000+ builders, researchers and founders over the last four years, running Europe's largest student-led Web3 event. This year the hackathon sits inside TBC26: three days, two venues, one community, with the main conference and Bundesblock's Digital Assets Day running alongside. AI agents are starting to act on their own: booking, negotiating, paying. The payment rails for that don't fully exist yet. This hackathon is about building the infrastructure and applications that let autonomous agents transact safely and instantly on-chain. Pick a track, build against the partner's challenge, and compete for its prize pool. TUM Blockchain Club has brought together 3,000+ builders, researchers and founders over the last four years, running Europe's largest student-led Web3 event. This year the hackathon sits inside TBC26: three days, two venues, one community, with the main conference and Bundesblock's Digital Assets Day running alongside.",
     "event_dates": "Oct 30 - 31, 2026",
     "prize_amount": "€12,000 Available in Prizes",
     "modes": "in-person",
@@ -258,19 +270,7 @@
     "prize_amount": "$100 Available in Prizes",
     "modes": "in-person",
     "location": "Bhopal, India",
-    "hackathon_page_url": "https://version-beta-9.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
-    "title": "BIOS V2",
-    "description": "In a computer, the BIOS is the first thing that runs. Here, it's the first point of contact, where life and computation begin speaking to each other. BIOS V2 is CSED's flagship hackathon, run with the IEEE Student Chapter at Thapar Institute of Engineering and Technology, Patiala . It brings 300 shortlisted builders in 60 teams to campus for 48 hours of building , from 30 October to 1 November 2026 . Problem statements for school students, solved on campus. Seed has two routes: Problem statements set at a more approachable level . The right starting point for emerging builders . The hardest problem statements at BIOS , built for advanced AI, systems and research work . Expect demanding evaluation and live technical questioning . Companies write the problem statements , and screened teams build on them. Teams that perform well get the chance at 2-month and 6-month internships with the partner company. Expect AI agents, coding tools and multimodal apps , with the freedom to compare and switch models as you build. Cash prizes, platform credits, tools and perks , with something for the teams that ship. Venue: Thapar Institute of Engineering and Technology, Patiala Dates: 30 Oct to 1 Nov 2026 Website: bios.notyouraverage.xyz In a computer, the BIOS is the first thing that runs. Here, it's the first point of contact, where life and computation begin speaking to each other. BIOS V2 is CSED's flagship hackathon, run with the IEEE Student Chapter at Thapar Institute of Engineering and Technology, Patiala . It brings 300 shortlisted builders in 60 teams to campus for 48 hours of building , from 30 October to 1 November 2026 . Problem statements for school students, solved on campus. Seed has two routes: Problem statements set at a more approachable level . The right starting point for emerging builders . The hardest problem statements at BIOS , built for advanced AI, systems and research work . Expect demanding evaluation and live technical questioning . Companies write the problem statements , and screened teams build on them. Teams that perform well get the chance at 2-month and 6-month internships with the partner company. Expect AI agents, coding tools and multimodal apps , with the freedom to compare and switch models as you build. Cash prizes, platform credits, tools and perks , with something for the teams that ship. Venue: Thapar Institute of Engineering and Technology, Patiala Dates: 30 Oct to 1 Nov 2026 Website: bios.notyouraverage.xyz",
-    "event_dates": "Oct 30 - Nov 1, 2026",
-    "prize_amount": "$260,000 Available in Prizes",
-    "modes": "in-person",
-    "location": "Patiala, India",
-    "hackathon_page_url": "https://biosv2.devfolio.co/overview",
+    "hackathon_page_url": "https://version-beta-9.devfolio.co/",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -282,7 +282,7 @@
     "prize_amount": "$1,620 Available in Prizes",
     "modes": "remote",
     "location": "Online",
-    "hackathon_page_url": "https://hackodisha-6a.devfolio.co/overview",
+    "hackathon_page_url": "https://hackodisha-6a.devfolio.co/",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -294,7 +294,7 @@
     "prize_amount": "",
     "modes": "remote",
     "location": "Online",
-    "hackathon_page_url": "https://lean-in-hacks-8.devfolio.co/overview",
+    "hackathon_page_url": "https://lean-in-hacks-8.devfolio.co/",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -357,18 +357,6 @@
     "hackathon_page_url": "https://www.wemakedevs.org/hackathons/mergetober",
     "status": "running",
     "source": "WeMakeDevs",
-    "level": null
-  },
-  {
-    "title": "THE BIG HACK 2.0",
-    "description": "The flagship hackathon of Tech Habba. Form a team, pick a problem statement, and build a working solution over 24 hours, with meals and a midnight coffee break along the way. Shortlisted teams present their project to the judges, who look at the problem fit, technical execution, design and how well you can explain it. The flagship hackathon of Tech Habba. Form a team, pick a problem statement, and build a working solution over 24 hours, with meals and a midnight coffee break along the way. Shortlisted teams present their project to the judges, who look at the problem fit, technical execution, design and how well you can explain it.",
-    "event_dates": "",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "",
-    "hackathon_page_url": "https://the-big-hack-2.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
     "level": null
   }
 ]
