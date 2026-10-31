@@ -1,5 +1,17 @@
 [
   {
+    "title": "Cloud Native Hackathon",
+    "description": "",
+    "event_dates": "Nov 9–10",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "Salt Lake City, Utah",
+    "hackathon_page_url": "https://www.wemakedevs.org/hackathons/cnh",
+    "status": "open",
+    "source": "WeMakeDevs",
+    "level": null
+  },
+  {
     "title": "No Hands: The Wispr Challenge",
     "description": "",
     "event_dates": "Oct 15–31",

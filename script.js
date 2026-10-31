@@ -1,17 +1,5 @@
 const DATA = [
   {
-    "title": "Nebius x NVIDIA Global AI Hackathon",
-    "description": "Welcome to the Nebius x NVIDIA Global AI Hackathon Build a working AI system on open, independent infrastructure, and own the whole thing. The NVIDIA x Nebius Global AI Hackathon is for AI builders, ML engineers, founders, and anyone shipping practical, high-performance AI. You'll build with NVIDIA open source models served on Nebius through Nebius Token Factory, on high performance GPU infrastructure. Experiment with new ideas, push the boundaries of open source AI, and submit a project for a chance to win prizes and recognition. Join fellow builders for technical onboarding, casual workshops, team formation, focused build time, and feedback as you participate in the Global AI Hackathon. Find your nearby city/event here !",
-    "event_dates": "Aug 26 - Oct 30, 2026",
-    "prize_amount": "$ 50,000",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://nebiusglobalaihackathon.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
     "title": "hackodisha-6.0",
     "description": "Eastern India's one of the largest hackathon organized by Webwiz, NIT Rourkela. Welcome to HackOdisha 6.0 A 36-hour hybrid hackathon organized by Webwiz, the official tech club of NIT Rourkela After five successful seasons, HackOdisha returns bigger and better uniting developers and creatives from across the globe to tackle real-world challenges. Whether you’re a beginner or an expert, if you thrive on problem‑solving and innovation, this is your arena. You can participate solo or form a team but remember: every member must register individually to be eligible. Join us on this journey of creativity, code, and community at HackOdisha 6.0! Eastern India's one of the largest hackathon organized by Webwiz, NIT Rourkela. Welcome to HackOdisha 6.0 A 36-hour hybrid hackathon organized by Webwiz, the official tech club of NIT Rourkela After five successful seasons, HackOdisha returns bigger and better uniting developers and creatives from across the globe to tackle real-world challenges. Whether you’re a beginner or an expert, if you thrive on problem‑solving and innovation, this is your arena. You can participate solo or form a team but remember: every member must register individually to be eligible. Join us on this journey of creativity, code, and community at HackOdisha 6.0!",
     "event_dates": "Dec 11 - 13, 2026",
@@ -42,19 +30,7 @@ const DATA = [
     "prize_amount": "",
     "modes": "remote",
     "location": "Online",
-    "hackathon_page_url": "https://coderave-2.devfolio.co/",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
-    "title": "HACK 6.0",
-    "description": "Hack 6.0 – Vaporwave Edition 🌆🕹️✨ Hack 6.0 is NIT Hamirpur’s flagship 36-hour on-site hackathon, organized by CSEC! 👾 Circuit boards glow, synthetic waves flow, and the brightest minds assemble to code, disrupt, and build the future of tech. 💻 Hack 6.0 – Vaporwave Edition 🌆🕹️✨ Hack 6.0 is NIT Hamirpur’s flagship 36-hour on-site hackathon, organized by CSEC! 👾 Circuit boards glow, synthetic waves flow, and the brightest minds assemble to code, disrupt, and build the future of tech. 💻",
-    "event_dates": "Jan 22 - 24, 2027",
-    "prize_amount": "$1,000 Available in Prizes",
-    "modes": "in-person",
-    "location": "Hamirpur, India",
-    "hackathon_page_url": "https://hack-1736.devfolio.co/overview",
+    "hackathon_page_url": "https://coderave-2.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -67,6 +43,18 @@ const DATA = [
     "modes": "in-person",
     "location": "KSR Kalvi Nagar, India",
     "hackathon_page_url": "https://hack-with-gdg-s4.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "HACK 6.0",
+    "description": "Hack 6.0 – Vaporwave Edition 🌆🕹️✨ Hack 6.0 is NIT Hamirpur’s flagship 36-hour on-site hackathon, organized by CSEC! 👾 Circuit boards glow, synthetic waves flow, and the brightest minds assemble to code, disrupt, and build the future of tech. 💻 Hack 6.0 – Vaporwave Edition 🌆🕹️✨ Hack 6.0 is NIT Hamirpur’s flagship 36-hour on-site hackathon, organized by CSEC! 👾 Circuit boards glow, synthetic waves flow, and the brightest minds assemble to code, disrupt, and build the future of tech. 💻",
+    "event_dates": "Jan 22 - 24, 2027",
+    "prize_amount": "$1,000 Available in Prizes",
+    "modes": "in-person",
+    "location": "Hamirpur, India",
+    "hackathon_page_url": "https://hack-1736.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -109,19 +97,19 @@ const DATA = [
   },
   {
     "title": "Diversion 2k27",
-    "description": "Diversion 2K27 , the annual hackathon organized by the IEM-ACM Student Chapter , returns with a new mission, a bolder vision, and a city ready to be reimagined. Inspired by the high-octane universe of GTA VI , this edition transforms Kolkata into an alternate reality where ambition fuels the chaos, technology drives the action, and every idea has the power to change the game. From neon-lit streets to futuristic skylines, the City of Joy becomes an open world built for creators, innovators, and digital rebels. More than a hackathon, Diversion 2K27 is an open-world experience where imagination knows no boundaries. From Artificial Intelligence and Web Development to Web3, AR/VR, and Cloud Computing, participants will turn unconventional ideas into extraordinary creations. Whether you're a rookie entering the hacking scene or a seasoned player ready for the next challenge, Kolkata is your city, innovation is your game, and the next move is yours. Welcome to Grand Theft Kolkata. Your game starts here. Diversion 2K27 , the annual hackathon organized by the IEM-ACM Student Chapter , returns with a new mission, a bolder vision, and a city ready to be reimagined. Inspired by the high-octane universe of GTA VI , this edition transforms Kolkata into an alternate reality where ambition fuels the chaos, technology drives the action, and every idea has the power to change the game. From neon-lit streets to futuristic skylines, the City of Joy becomes an open world built for creators, innovators, and digital rebels. More than a hackathon, Diversion 2K27 is an open-world experience where imagination knows no boundaries. From Artificial Intelligence and Web Development to Web3, AR/VR, and Cloud Computing, participants will turn unconventional ideas into extraordinary creations. Whether you're a rookie entering the hacking scene or a seasoned player ready for the next challenge, Kolkata is your city, innovation is your game, and the next move is yours. Welcome to Grand Theft Kolkata. Your game starts here.",
+    "description": "",
     "event_dates": "Mar 6 - 7, 2027",
     "prize_amount": "$550 Available in Prizes",
     "modes": "in-person",
     "location": "Bidhannagar, India",
-    "hackathon_page_url": "https://diversion2k27.devfolio.co/",
+    "hackathon_page_url": "https://diversion2k27.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
   },
   {
     "title": "Hacknauts 2.0",
-    "description": "",
+    "description": "Hacknauts 2.0 (HKN-26) is a 24-hour hackathon at Guru Nanak Dev Engineering College, Ludhiana , organized by the Causmic Club . 🚀 After a successful first mission, we're back in orbit. 🛰️ This year, everything revolves around one idea: a black hole pulling streams of code into itself. 🕳️ The brightest builders, designers, and problem-solvers converge for one weekend - to ideate, build, and ship something that didn't exist before. 💻✨ One mission. One singularity. Your code, pulled toward something bigger. 🌠 All participating teams are required to submit their project presentation (PPT) before the deadline. Make sure your presentation follows the provided template and is submitted before the deadline. 🚀 Build boldly. Think beyond the obvious. Solve something that matters. The singularity is waiting. What will you pull into orbit? 🕳️🚀 Hacknauts 2.0 - Beyond the Known, Begins the Extraordinary. Hacknauts 2.0 (HKN-26) is a 24-hour hackathon at Guru Nanak Dev Engineering College, Ludhiana , organized by the Causmic Club . 🚀 After a successful first mission, we're back in orbit. 🛰️ This year, everything revolves around one idea: a black hole pulling streams of code into itself. 🕳️ The brightest builders, designers, and problem-solvers converge for one weekend - to ideate, build, and ship something that didn't exist before. 💻✨ One mission. One singularity. Your code, pulled toward something bigger. 🌠 All participating teams are required to submit their project presentation (PPT) before the deadline. Make sure your presentation follows the provided template and is submitted before the deadline. 🚀 Build boldly. Think beyond the obvious. Solve something that matters. The singularity is waiting. What will you pull into orbit? 🕳️🚀 Hacknauts 2.0 - Beyond the Known, Begins the Extraordinary.",
     "event_dates": "Nov 14 - 15, 2026",
     "prize_amount": "$3,016 Available in Prizes",
     "modes": "in-person",
@@ -145,7 +133,7 @@ const DATA = [
   },
   {
     "title": "GeNarrative Clash",
-    "description": "Where Generative AI Meets Human Creativity: Kolkata's Ultimate Prompt Engineering Challenge Are you ready to redefine how stories are told, music is composed, and digital art is created? GeNarrative Clash is Kolkata's premier Prompt Engineering & AI Building Challenge, organized by the GeeksforGeeks Student Chapter at Techno India University. Don't worry if you are new to AI development! Before the live challenge kicks off, every participant gets access to an exclusive 1-Hour Hands-On Masterclass on AI Development & API Integration . Learn how to harness cutting-edge LLMs, query GenAI APIs, and leverage rapid prototyping tools so you can build a solid, production-ready product with confidence. Generative AI shouldn't replace human creators, it should supercharge them! GeNarrative Clash features an Open Track focused on building real-world solutions that assist, elevate, and support creative artists in their work. You are free to solve any real-world problem in the artistic or creative domain. Where Generative AI Meets Human Creativity: Kolkata's Ultimate Prompt Engineering Challenge Are you ready to redefine how stories are told, music is composed, and digital art is created? GeNarrative Clash is Kolkata's premier Prompt Engineering & AI Building Challenge, organized by the GeeksforGeeks Student Chapter at Techno India University. Don't worry if you are new to AI development! Before the live challenge kicks off, every participant gets access to an exclusive 1-Hour Hands-On Masterclass on AI Development & API Integration . Learn how to harness cutting-edge LLMs, query GenAI APIs, and leverage rapid prototyping tools so you can build a solid, production-ready product with confidence. Generative AI shouldn't replace human creators, it should supercharge them! GeNarrative Clash features an Open Track focused on building real-world solutions that assist, elevate, and support creative artists in their work. You are free to solve any real-world problem in the artistic or creative domain.",
+    "description": "",
     "event_dates": "Nov 21, 2026",
     "prize_amount": "",
     "modes": "in-person",
@@ -175,6 +163,18 @@ const DATA = [
     "modes": "remote",
     "location": "",
     "hackathon_page_url": "https://www.wemakedevs.org/hackathons/switch",
+    "status": "open",
+    "source": "WeMakeDevs",
+    "level": null
+  },
+  {
+    "title": "Cloud Native Hackathon",
+    "description": "",
+    "event_dates": "Nov 9–10",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "Salt Lake City, Utah",
+    "hackathon_page_url": "https://www.wemakedevs.org/hackathons/cnh",
     "status": "open",
     "source": "WeMakeDevs",
     "level": null
@@ -240,15 +240,27 @@ const DATA = [
     "level": null
   },
   {
-    "title": "TUM Blockchain & AI Hackathon",
-    "description": "AI agents are starting to act on their own: booking, negotiating, paying. The payment rails for that don't fully exist yet. This hackathon is about building the infrastructure and applications that let autonomous agents transact safely and instantly on-chain. Pick up to three tracks, build against the partner's challenge, and compete for its prize pool. TUM Blockchain Club has brought together 3,000+ builders, researchers and founders over the last four years, running Europe's largest student-led Web3 event. This year the hackathon sits inside TBC26: three days, two venues, one community, with the main conference and Bundesblock's Digital Assets Day running alongside. AI agents are starting to act on their own: booking, negotiating, paying. The payment rails for that don't fully exist yet. This hackathon is about building the infrastructure and applications that let autonomous agents transact safely and instantly on-chain. Pick up to three tracks, build against the partner's challenge, and compete for its prize pool. TUM Blockchain Club has brought together 3,000+ builders, researchers and founders over the last four years, running Europe's largest student-led Web3 event. This year the hackathon sits inside TBC26: three days, two venues, one community, with the main conference and Bundesblock's Digital Assets Day running alongside.",
-    "event_dates": "Oct 30 - 31, 2026",
-    "prize_amount": "$28,000 Available in Prizes",
-    "modes": "in-person",
-    "location": "München, Germany",
-    "hackathon_page_url": "https://tum.devfolio.co/",
-    "status": "open",
-    "source": "Devfolio",
+    "title": "Codegeist 2026: Build with context. Ship with confidence.",
+    "description": "What is Codegeist? Codegeist is Atlassian’s annual hackathon where developers from around the world unleash creativity on Forge, Atlassian’s serverless app development platform. By extending Atlassian products with custom apps and integrations, participants reimagine how teams plan, track, and deliver work. The Challenge AI can think. But knowing what to do – really knowing – takes context. Atlassian’s Teamwork Graph connects goals, work, people, decisions, and outcomes like associative memory for your organization, giving teams the shared understanding of who’s doing what, what’s already been decided, and what needs to happen next. That's the problem Atlassian is built to solve. And it's the problem we're inviting you to tackle. Build an app on Atlassian’s Forge platform that uses that context to help teams ship with confidence – whether that’s surfacing the right knowledge at the right moment, connecting work across silos, or turning organizational data into a decision that actually moves work forward.",
+    "event_dates": "Oct 27 - Dec 22, 2026",
+    "prize_amount": "$ 120,000",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://codegeist2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
+    "title": "Kiroween 2026",
+    "description": "🎃 Kiroween 2026 is open for hacking👻 Kiro’s annual Halloween-themed hackathon has returned, and building starts now. Last year, thousands of developers used Kiro to bring dead tech back to life, stitch together unexpected technologies, and create hauntingly good experiences. This year, it’s your turn. Show us how you use Kiro to push boundaries. Work across a crew of agents in Kiro Crew, add structure with specs, customize workflows with hooks or steering, streamline with Kiro powers, or bring in new capabilities with MCP. Pick a category, build something wicked, and compete for $100,000 in prizes. You have until Friday, December 4, 2026 at 2:00 PM Pacific Time to submit. Only new projects are eligible . You must build your project during the Submission Period (October 30 to December 4, 2026). Projects you started before October 30, including Kiroween 2025 projects, are not eligible. Get started Read the Official Rules . Review them before you start to build. Get free Kiro credits . Request 4,000 free Kiro credits on the Resources tab by December 1 at 12:00 pm PT. Find details on the Resources tab . Join the Kiro Discord . Get help from the Kiro team, Kiro ambassadors, and other participants in #kiroween-hackathon. You’ll also find biweekly office hours and other live events to help you along the way. Find your teammates . Browse the Participants tab (optional). Teams can have up to three members. Join the Devpost Build Session on November 11 at 10:00 AM PT. Sign up coming soon . Start your submission early . Click “Enter a Submission” and save drafts as often as you like.",
+    "event_dates": "Oct 30 - Dec 04, 2026",
+    "prize_amount": "$ 100,000",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://kiroween.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
     "level": null
   },
   {
@@ -271,18 +283,6 @@ const DATA = [
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://youcam-api-skin-ai-ecommerce.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "Qloo Agentic Hackathon",
-    "description": "BREAKING NEWS!!!! On November 5th, the Top 3 Finalists will appear on air with Jason Calacanis, Cedric the Entertainer, and Alex Elias, who will pick the winner! All three finalists will present their ideas to the judges, answer questions, and learn the results in real time. You won't find a bigger, more receptive, more connected audience to highlight what you've built and showcase how your idea can explode from submission to actual business! The three finalists will be notified of their status very soon after the Hackathon closes. Note that this means the finalists must be able to appear, and must be available for preparation prior to the appearance. More details will be provided to the finalists when they are notified. About the challenge Agents are getting smarter, but they're culturally blind. They can reason, plan, and execute — but ask them what to recommend, what to build, or what people actually want, and they're guessing. This hackathon is about fixing that. Build an agentic tool, an agent-powered app, or wire Qloo into an agent that already exists. Use our API and taste graph — 250M+ entities across music, film, dining, fashion, and more — to give your agent something most never get: real cultural grounding. We're not looking for demos of what LLMs can already do. We're looking for the thing that only works because it knows what people love. Show us the use case where cultural intelligence is the difference between \"technically functional\" and \"actually good.\" Build it, ship it, blow our minds. Get your API key here to get started: https://docs.qloo.com/reference/qloo-llm-hackathon-developer-guide#getting-your-api-key BONUS CHALLENGE UNLOCKED!!!!! Entrepreneur extraordinaire JASON CALACANIS -- JCal the Bestie himself -- will personally invest an additional $25,000 into his favorite entry. The competition will get tougher, but even more rewarding for the potential winner. Good luck, and get coding!",
-    "event_dates": "Sep 30 - Oct 30, 2026",
-    "prize_amount": "$ 25,000",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://qloo.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
@@ -460,7 +460,7 @@ clearDateButton.addEventListener("click", () => {
 });
 
 // Header stats
-document.getElementById("last-checked-date").textContent = "Oct 29, 2026";
+document.getElementById("last-checked-date").textContent = "Oct 31, 2026";
 document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
   (h) => h.status === "open" || h.status === "running",
 ).length;
