@@ -12,18 +12,6 @@
     "level": null
   },
   {
-    "title": "No Hands: The Wispr Challenge",
-    "description": "",
-    "event_dates": "Oct 15–31",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "",
-    "hackathon_page_url": "https://www.wemakedevs.org/wispr",
-    "status": "running",
-    "source": "WeMakeDevs",
-    "level": null
-  },
-  {
     "title": "Flip the Switch Hackathon",
     "description": "",
     "event_dates": "Nov 4–7",
@@ -32,18 +20,6 @@
     "location": "",
     "hackathon_page_url": "https://www.wemakedevs.org/hackathons/switch",
     "status": "open",
-    "source": "WeMakeDevs",
-    "level": null
-  },
-  {
-    "title": "Mergetober: Open Source Month",
-    "description": "",
-    "event_dates": "Sep 30 – Oct 31",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "",
-    "hackathon_page_url": "https://www.wemakedevs.org/hackathons/mergetober",
-    "status": "running",
     "source": "WeMakeDevs",
     "level": null
   }

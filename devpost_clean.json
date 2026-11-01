@@ -12,6 +12,18 @@
     "level": null
   },
   {
+    "title": "Kiroween 2026",
+    "description": "🎃 Kiroween 2026 is open for hacking👻 Kiro’s annual Halloween-themed hackathon has returned, and building starts now. Last year, thousands of developers used Kiro to bring dead tech back to life, stitch together unexpected technologies, and create hauntingly good experiences. This year, it’s your turn. Show us how you use Kiro to push boundaries. Work across a crew of agents in Kiro Crew, add structure with specs, customize workflows with hooks or steering, streamline with Kiro powers, or bring in new capabilities with MCP. Pick a category, build something wicked, and compete for $100,000 in prizes. You have until Friday, December 4, 2026 at 2:00 PM Pacific Time to submit. Only new projects are eligible . You must build your project during the Submission Period (October 30 to December 4, 2026). Projects you started before October 30, including Kiroween 2025 projects, are not eligible. Get started Read the Official Rules . Review them before you start to build. Get free Kiro credits . Request 4,000 free Kiro credits on the Resources tab by December 1 at 12:00 pm PT. Find details on the Resources tab . Join the Kiro Discord . Get help from the Kiro team, Kiro ambassadors, and other participants in #kiroween-hackathon. You’ll also find biweekly office hours and other live events to help you along the way. Find your teammates . Browse the Participants tab (optional). Teams can have up to three members. Join the Devpost Build Session on November 11 at 10:00 AM PT. Sign up here . Start your submission early . Click “Enter a Submission” and save drafts as often as you like.",
+    "event_dates": "Oct 30 - Dec 04, 2026",
+    "prize_amount": "$ 100,000",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://kiroween.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
     "title": "Meta VR Start Developer Competition 2026",
     "description": "<html> <head></head> <body></body> </html> THE META VR START DEVELOPER COMPETITION IS BACK! This year’s eight-week challenge calls on Start program members to build the next generation of Entertainment, Gaming, and Productivity experiences for Meta VR devices – including Meta VR Glasses and Meta Quest. We’re looking for hands-first apps that make interaction more natural and gameplay more intuitive than ever before. Last year, over 2,900 developers joined the competition and delivered more than 650 submissions that pushed the boundaries of immersive technology. This year, we’re raising the bar again. Whether you’re a first-time Start developer with a breakthrough idea or a seasoned creator ready to showcase what’s possible with the latest platform capabilities, this is your moment to help redefine the future of VR. Here’s what’s waiting for you: 🤝 Build hands-first. Design experiences powered by hand interactions that feel natural, responsive, and deeply immersive—no controllers required. 🛠️ Explore new tech. Take advantage of the latest OS capabilities and device features across Meta VR Glasses and Meta Quest, accelerate your development with AI tooling, including Meta VR CLI. 🌍 Join a global community. Boost your skills through mentor programming, collaborate with fellow developers, share insights, and learn from a thriving network of experienced VR developers. 🏆 Compete for $1M in cash prizes with top prizes of $100,000. The future of VR is in your hands literally . We can’t wait to see what you build. GETTING STARTED If you’re not already a member of the Start program, apply now to join the competition. Estimated time: 5 minutes Explore last year’s winning submissions and Sample Use Cases for Inspiration Estimated time: 30 minutes Entertainment Gaming I ​​Quest Gamer Segments Productivity: AnExplorer Hands: Hands Physics Lab I ​​ Table Troopers Follow a Quickstart Tutorial (below) Estimated time: 30 minutes Unity: VR 101 I VR 102 Unreal: How to Make VR Games in UE5 Android: From Mobile to VR Overview Immersive Web SDK: Your First Steps into Immersive Web Development Getting Started with Hands & Eyes Check out the Resources tab for more technical documentation and visit the Meta Developer Forum for ongoing support and access to upcoming competition events and workshops.",
     "event_dates": "Sep 24 - Nov 18, 2026",
@@ -19,18 +31,6 @@
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://start-developer-competition-26.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "Kiroween 2026",
-    "description": "🎃 Kiroween 2026 is open for hacking👻 Kiro’s annual Halloween-themed hackathon has returned, and building starts now. Last year, thousands of developers used Kiro to bring dead tech back to life, stitch together unexpected technologies, and create hauntingly good experiences. This year, it’s your turn. Show us how you use Kiro to push boundaries. Work across a crew of agents in Kiro Crew, add structure with specs, customize workflows with hooks or steering, streamline with Kiro powers, or bring in new capabilities with MCP. Pick a category, build something wicked, and compete for $100,000 in prizes. You have until Friday, December 4, 2026 at 2:00 PM Pacific Time to submit. Only new projects are eligible . You must build your project during the Submission Period (October 30 to December 4, 2026). Projects you started before October 30, including Kiroween 2025 projects, are not eligible. Get started Read the Official Rules . Review them before you start to build. Get free Kiro credits . Request 4,000 free Kiro credits on the Resources tab by December 1 at 12:00 pm PT. Find details on the Resources tab . Join the Kiro Discord . Get help from the Kiro team, Kiro ambassadors, and other participants in #kiroween-hackathon. You’ll also find biweekly office hours and other live events to help you along the way. Find your teammates . Browse the Participants tab (optional). Teams can have up to three members. Join the Devpost Build Session on November 11 at 10:00 AM PT. Sign up coming soon . Start your submission early . Click “Enter a Submission” and save drafts as often as you like.",
-    "event_dates": "Oct 30 - Dec 04, 2026",
-    "prize_amount": "$ 100,000",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://kiroween.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
@@ -60,6 +60,18 @@
     "level": null
   },
   {
+    "title": "Codegeist 2026: Build with context. Ship with confidence.",
+    "description": "<html> <head></head> <body></body> </html> What is Codegeist? Codegeist is Atlassian’s annual hackathon where developers from around the world unleash creativity on Forge, Atlassian’s serverless app development platform. By extending Atlassian products with custom apps and integrations, participants reimagine how teams plan, track, and deliver work. The Challenge AI can think. But knowing what to do – really knowing – takes context. Atlassian’s Teamwork Graph connects goals, work, people, decisions, and outcomes like associative memory for your organization, giving teams the shared understanding of who’s doing what, what’s already been decided, and what needs to happen next. That's the problem Atlassian is built to solve. And it's the problem we're inviting you to tackle. Build an app on Atlassian’s Forge platform that uses that context to help teams ship with confidence – whether that’s surfacing the right knowledge at the right moment, connecting work across silos, or turning organizational data into a decision that actually moves work forward.",
+    "event_dates": "Oct 27 - Dec 22, 2026",
+    "prize_amount": "$ 120,000",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://codegeist2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
     "title": "Learn AR with SPECS",
     "description": "<html> <head></head> <body></body> </html> Design an augmented reality app for glasses, and let an AI coding agent build it in Lens Studio. You don't need the glasses, because everything runs in Lens Studio's preview on your laptop. You'll get a short concept video, a skill pack for your coding agent, a live build session, and a live project review. $2,500 in prizes each round. ABOUT THE CHALLENGE Screens won't be the only place we use computers. Glasses are coming, and building for them is different from building for a laptop or a phone. Most first tries at AR end up as a website floating in front of your face. Good AR does things a laptop can't do: It shares your view. The camera sees what you see, so the app can respond to it. It draws in the world. Content sits on the table, over the stove, at real size, right where it belongs. It leaves your body free. Your hands stay available and your eyes stay up, so you can keep doing the real thing. Coding agents can now build a working Lens from a good description. So the hard part is deciding what's worth building and how it should feel. That's what this hackathon teaches. You'll install our Devpost Learn skill pack in your coding agent. It interviews you about your idea, checks it against AR design best practices, and writes a design brief. Then Snap's CLAD agents build the Lens in Lens Studio from that brief, and you try it in the preview. You'll finish with a working Lens, the plan behind it, and a way of thinking about AR you can use on every project after this one. WHY JOIN Learn what makes a good AR app, from the design decisions an agent can't make for you. Build for SPECS, Snap's AR glasses, without owning a pair. Try Snap's newest agent tools: CLAD, the Lens Studio MCP, and LEAF testing. Get help from real people in a live build session and a live project review. Compete to win a share of $2,500. First place takes $1,250, and every winner gets a feature in the Devpost newsletter and on Devpost's socials. Everyone who submits an eligible project gets a Devpost Learn badge and a special role in the Devpost Discord. GET STARTED You'll need a computer that runs Lens Studio, Node.js and Git, and a coding agent that supports skills. Set up your tools with the quick start on the Resources tab: your coding agent, Lens Studio, the Lens Studio MCP, and the CLAD plugin. Can't sign in to the developer platform on Lens Studio 5.24? Use Lens Studio 5.23.2 instead. Watch the concept video (at the top of this page). It's short, and it covers the design ideas the judges look for. Install the skill pack: npx skills add challengepost/learn-specs --all -y. Then open your coding agent and say \"Run the plan-lens skill.\" It takes it from there. Join the SPECS channel in the Devpost Discord for questions and to see what other builders are making. Register for the Build for SPECS: AR Design with Lens Studio and CLAD live build session on Thursday, Oct 29 at 12PM ET. We build a Lens start to finish. It's recorded if you can't make it. Come to the SPECS Live Review: Inside the Judging Criteria on Thursday, Nov 5 at 12PM ET. We review a few projects in progress against the judging criteria, so you still have time to act on the feedback before the deadline. Want yours reviewed live? Post it in the #devpost-learn-feedback channel in the Discord and tag it \"Learn AR with SPECS\" and \"Will It Ship.\" Stuck? Ask in the Discord channel. Setup help, the FAQ, and event details are on the Resources tab.",
     "event_dates": "Oct 15 - Nov 09, 2026",
@@ -79,18 +91,6 @@
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://ugreenhackathon.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "Codegeist 2026: Build with context. Ship with confidence.",
-    "description": "<html> <head></head> <body></body> </html> What is Codegeist? Codegeist is Atlassian’s annual hackathon where developers from around the world unleash creativity on Forge, Atlassian’s serverless app development platform. By extending Atlassian products with custom apps and integrations, participants reimagine how teams plan, track, and deliver work. The Challenge AI can think. But knowing what to do – really knowing – takes context. Atlassian’s Teamwork Graph connects goals, work, people, decisions, and outcomes like associative memory for your organization, giving teams the shared understanding of who’s doing what, what’s already been decided, and what needs to happen next. That's the problem Atlassian is built to solve. And it's the problem we're inviting you to tackle. Build an app on Atlassian’s Forge platform that uses that context to help teams ship with confidence – whether that’s surfacing the right knowledge at the right moment, connecting work across silos, or turning organizational data into a decision that actually moves work forward.",
-    "event_dates": "Oct 27 - Dec 22, 2026",
-    "prize_amount": "$ 120,000",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://codegeist2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
