@@ -36,30 +36,6 @@
     "level": null
   },
   {
-    "title": "Codex x TwitchCon Hackathon",
-    "description": "Twitch is the home of shared live experiences, and developers shape how streamers and their communities experience them. OpenAI and Twitch are teaming up to see what developers can build for the Twitch community with AI. In the Codex x TwitchCon Hackathon, you'll use OpenAI Codex to build useful and creative experiences for Twitch streamers and their community. Give chat a way to play along, help streamers create together, or add something new to enhance the content they stream. You’ll leave with a working project and hands-on experience building with Codex. The top 5 projects will be showcased on the Codex Booth stage at TwitchCon San Diego on November 15, where winners will be announced live. Why join? $25,000 in prizes , and a spot on the TwitchCon stage for the top 5 Build with Codex : tell Codex what you're building and let it help you get set up with the Twitch API, EventSub and chat Connect streamers and their community : build something streamers and viewers can use live on stream Get started Sign in to Codex and start a new thread for your project. You’ll need its session ID when you submit. Find everything you need to build at dev.twitch.tv . Not sure where to start? Get a chatbot running in minutes with the Example Chatbot guide Join the TwitchDev Discord and ask questions in the channel that fits what you're building. Say hi in #codex-twitchcon-hackathon channel for general questions and updates.",
-    "event_dates": "Oct 23 - Nov 02, 2026",
-    "prize_amount": "$ 25,000",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://twitchcon-codex.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
-    "description": "Unleash Your Innovation: Shape the Future of Skincare and eCommerce. Calling all builders, creators, and visionaries: it’s time to completely reimagine the way we shop. The YouCam API Skin AI & eCommerce VTO Hackathon is your launchpad. We’re unlocking our most advanced, market-tested AI and AR infrastructure just for you. It's time to build the real-world, scalable products, including cutting-edge Agentic AI workflows. We’re challenging you to push the boundaries of what’s possible. Seamlessly integrate YouCam APIs into your wildest ideas, whether that means engineering a self-learning styling assistant, a hyper-personalized skin analysis tool, or an entirely new solution to everyday consumer pain points. Bring your boldest concepts to the table, and we’ll back your vision with serious prize money. Are you up for the challenge? 🎉 🎉 Share & Earn Bonus: Share your hackathon project and earn bonus API units! click HERE About the challenge All solutions must integrate at least one [ YouCam API ] into a functional web or mobile prototype that delivers clear consumer value. We want fresh, unexpected solutions to real-world pain points in beauty, fashion, or eCommerce—not surface-level wrappers. You can even take it a step further by building scalable products that include cutting-edge Agentic AI workflows. Pick the topic that best fits your vision and submit: Skin AI: People don't wonder about their skin in the abstract; they wonder right before a purchase, right after a bad breakout, or right when they're standing in front of a mirror deciding whether a product is working. Build something that meets that moment. Use YouCam's Skin AI, alone or combined with other YouCam APIs, to help users understand their skin and know exactly what to do next. eCommerce VTO: Beauty and fashion decisions rarely happen in isolation; what someone wears and how their looks are part of the same self-image. Build something that brings Virtual Try-On together into one seamless, intuitive experience. We want to see what's possible when both capabilities work as one to reimagine the way we shop. Why Join Build with YouCam API. Access AI Skin Analysis and generative Apparel Virtual Try-On, the same models powering 800+ global beauty and fashion brands, on a standard REST API that drops into any stack. Get free API units to build , deploy, and demo. Every registered participant receives 1,000 free API units just for signing up. Win cash , API credits , and real visibility . Share & Earn Bonus: Share your hackathon project online and earn bonus API units! Get started Register on Devpost. Get your exclusive redeem code by email (2 minutes) Sign up for YouCam API. Click here to sign up and verify your email. (2 minutes) Claim Your Free 1,000 YouCam API Units. Click here and go to Account > Redeem Code > Enter the redeem code (3 minutes) 1,000 API Units will be added to your account immediately.",
-    "event_dates": "Sep 29 - Nov 02, 2026",
-    "prize_amount": "$ 6,000",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://youcam-api-skin-ai-ecommerce.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
     "title": "Codegeist 2026: Build with context. Ship with confidence.",
     "description": "<html> <head></head> <body></body> </html> What is Codegeist? Codegeist is Atlassian’s annual hackathon where developers from around the world unleash creativity on Forge, Atlassian’s serverless app development platform. By extending Atlassian products with custom apps and integrations, participants reimagine how teams plan, track, and deliver work. The Challenge AI can think. But knowing what to do – really knowing – takes context. Atlassian’s Teamwork Graph connects goals, work, people, decisions, and outcomes like associative memory for your organization, giving teams the shared understanding of who’s doing what, what’s already been decided, and what needs to happen next. That's the problem Atlassian is built to solve. And it's the problem we're inviting you to tackle. Build an app on Atlassian’s Forge platform that uses that context to help teams ship with confidence – whether that’s surfacing the right knowledge at the right moment, connecting work across silos, or turning organizational data into a decision that actually moves work forward.",
     "event_dates": "Oct 27 - Dec 22, 2026",
@@ -103,6 +79,30 @@
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://dsh-hacks-v2.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
+    "title": "QNX Global Hackathon",
+    "description": "For decades, QNX has been running the systems people bet their lives on, from medical devices and factory floors to trains, robots, and more than 275 million vehicles. It guarantees not just that your code runs, but exactly when. Now QNX 8.0 is free for non-commercial use, and the QNX team wants to see what you do with it when nobody hands you a spec. Build a robot that reacts in microseconds instead of milliseconds. Write the driver nobody has written yet. Port something you love to QNX, or build the tooling you always wished existed. If it runs on QNX 8.0, or helps someone else build for it, it counts. Pick your category and compete for a share of $50,000. Show us what you can do! Why join? Get your hands on a real-time OS, free . QNX Everywhere gives you QNX SDP 8.0, QNX Developer Desktop, and the QNX Hypervisor for non-commercial use, plus free training courses to get you moving. No target hardware required; QEMU works, and so does a Raspberry Pi 5. In 275 million vehicles. Now on your laptop . Not a teaching edition or a stripped-down trial. It's the same QNX that ships in commercial systems, and until QNX Everywhere, building on it meant a commercial license. Compete for $50,000 in prizes . Plus swag, a coffee chat with a QNX exec, and a feature on the QNX blog and social channels. Get Started Get free access to QNX SDP 8.0 through QNX Everywhere (5 minutes) Run through the QNX SDP 8.0 Quick Start Guide and get a program running on your target or QEMU (45 minutes) Browse QNX sample projects and open-source ports , then pick your category (30 minutes)",
+    "event_dates": "Nov 02 - Dec 15, 2026",
+    "prize_amount": "$ 50,000",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://qnx.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
+    "title": "Arbiter Hacks V1",
+    "description": "Remember: Join the Discord for announcments! About the challenge Arbiter Hacks V1 runs two parallel tracks. Pick one when you register, or switch before the submission deadline. You may only submit to one track. General Track: Build anything. Any language, any stack, any idea. This track rewards technical ambition and execution, regardless of subject. Theme Track, Rethinking Waste: Build something that helps people or systems reduce, sort, or recycle waste more effectively. Examples include a tool that identifies whether an item is recyclable, an app that routes food waste to donation, a hardware or vision system that sorts materials, or a dataset or model that improves recycling accuracy. If it moves the needle on waste, it fits. The tracks are judged separately, against separate rubrics, for separate prizes. A polished General submission and a high-impact Theme submission compete only within their own track. Get started Register and pick a track. Form a team of [1 to 4] or go solo. Late submissions are not judged.",
+    "event_dates": "Oct 20 - Dec 21, 2026",
+    "prize_amount": "$ 7,800",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://arbiter-hacks-v1.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null

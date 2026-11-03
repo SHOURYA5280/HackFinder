@@ -1,7 +1,7 @@
 const DATA = [
   {
     "title": "hackodisha-6.0",
-    "description": "Eastern India's one of the largest hackathon organized by Webwiz, NIT Rourkela. Welcome to HackOdisha 6.0 A 36-hour hybrid hackathon organized by Webwiz, the official tech club of NIT Rourkela After five successful seasons, HackOdisha returns bigger and better uniting developers and creatives from across the globe to tackle real-world challenges. Whether you’re a beginner or an expert, if you thrive on problem‑solving and innovation, this is your arena. You can participate solo or form a team but remember: every member must register individually to be eligible. Join us on this journey of creativity, code, and community at HackOdisha 6.0! Eastern India's one of the largest hackathon organized by Webwiz, NIT Rourkela. Welcome to HackOdisha 6.0 A 36-hour hybrid hackathon organized by Webwiz, the official tech club of NIT Rourkela After five successful seasons, HackOdisha returns bigger and better uniting developers and creatives from across the globe to tackle real-world challenges. Whether you’re a beginner or an expert, if you thrive on problem‑solving and innovation, this is your arena. You can participate solo or form a team but remember: every member must register individually to be eligible. Join us on this journey of creativity, code, and community at HackOdisha 6.0!",
+    "description": "",
     "event_dates": "Dec 11 - 13, 2026",
     "prize_amount": "$1,620 Available in Prizes",
     "modes": "remote",
@@ -18,7 +18,7 @@ const DATA = [
     "prize_amount": "",
     "modes": "in-person",
     "location": "Myladi, India",
-    "hackathon_page_url": "https://haxfinity.devfolio.co/overview",
+    "hackathon_page_url": "https://haxfinity.devfolio.co/",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -49,7 +49,7 @@ const DATA = [
   },
   {
     "title": "HACK WITH GDG S4",
-    "description": "",
+    "description": "Hack With GDG S4 is the fourth season of the flagship hackathon organized by Google Developer Groups – KSR College of Engineering (GDG KSRCE) . The event brings together developers, designers, innovators, and problem-solvers to transform ideas into impactful solutions through technology. Due to unforeseen circumstances, Hack With GDG S4 has been postponed . The revised dates for the hackathon will be announced soon. Participants are requested to follow our official communication channels for updates regarding the new schedule, submission deadlines, and other event-related announcements. Participants will submit their project idea in PPT/PDF format for evaluation. Teams will be evaluated based on their problem statement, proposed solution, innovation, feasibility, and potential impact. A working prototype is not mandatory at this stage, but prior technical work may be considered an advantage. Selected teams will advance to the offline hackathon. Selected teams will participate in a 36-hour offline hackathon , where they will build and demonstrate their solutions on-site. Hack With GDG S4 welcomes participants across different skill levels and backgrounds. Both beginners and experienced participants are welcome to participate. The hackathon follows an Open Innovation approach. Participants are encouraged to identify meaningful real-world problems and develop technology-driven solutions across diverse domains. 🏆 Cash prizes for winning teams 📜 Participation certificates for attendees 🤝 Mentorship and networking opportunities 💡 Hands-on experience building solutions in a 36-hour environment KSR College of Engineering Namakkal, Tamil Nadu, India Event Format: Offline Duration: 36 Hours Dates: To be announced The revised event dates and updated schedule will be announced soon . Participants are encouraged to stay connected with GDG KSRCE for the latest announcements. Hack With GDG S4 is the fourth season of the flagship hackathon organized by Google Developer Groups – KSR College of Engineering (GDG KSRCE) . The event brings together developers, designers, innovators, and problem-solvers to transform ideas into impactful solutions through technology. Due to unforeseen circumstances, Hack With GDG S4 has been postponed . The revised dates for the hackathon will be announced soon. Participants are requested to follow our official communication channels for updates regarding the new schedule, submission deadlines, and other event-related announcements. Participants will submit their project idea in PPT/PDF format for evaluation. Teams will be evaluated based on their problem statement, proposed solution, innovation, feasibility, and potential impact. A working prototype is not mandatory at this stage, but prior technical work may be considered an advantage. Selected teams will advance to the offline hackathon. Selected teams will participate in a 36-hour offline hackathon , where they will build and demonstrate their solutions on-site. Hack With GDG S4 welcomes participants across different skill levels and backgrounds. Both beginners and experienced participants are welcome to participate. The hackathon follows an Open Innovation approach. Participants are encouraged to identify meaningful real-world problems and develop technology-driven solutions across diverse domains. 🏆 Cash prizes for winning teams 📜 Participation certificates for attendees 🤝 Mentorship and networking opportunities 💡 Hands-on experience building solutions in a 36-hour environment KSR College of Engineering Namakkal, Tamil Nadu, India Event Format: Offline Duration: 36 Hours Dates: To be announced The revised event dates and updated schedule will be announced soon . Participants are encouraged to stay connected with GDG KSRCE for the latest announcements.",
     "event_dates": "Jan 22 - 24, 2027",
     "prize_amount": "",
     "modes": "in-person",
@@ -85,7 +85,7 @@ const DATA = [
   },
   {
     "title": "Hack Nexus 2027",
-    "description": "Hack Nexus 2027 is a 36-hour student hackathon bringing together 300+ students, developers, and innovators from across Nagpur and beyond. Join us to build innovative projects, learn from mentors, explore emerging technologies, and connect with a growing community of creators from January 30–31, 2027. Hack Nexus 2027 is a 36-hour student hackathon bringing together 300+ students, developers, and innovators from across Nagpur and beyond. Join us to build innovative projects, learn from mentors, explore emerging technologies, and connect with a growing community of creators from January 30–31, 2027.",
+    "description": "",
     "event_dates": "Jan 30 - 31, 2027",
     "prize_amount": "",
     "modes": "in-person",
@@ -120,6 +120,18 @@ const DATA = [
     "level": null
   },
   {
+    "title": "QNX Global Hackathon",
+    "description": "For decades, QNX has been running the systems people bet their lives on, from medical devices and factory floors to trains, robots, and more than 275 million vehicles. It guarantees not just that your code runs, but exactly when. Now QNX 8.0 is free for non-commercial use, and the QNX team wants to see what you do with it when nobody hands you a spec. Build a robot that reacts in microseconds instead of milliseconds. Write the driver nobody has written yet. Port something you love to QNX, or build the tooling you always wished existed. If it runs on QNX 8.0, or helps someone else build for it, it counts. Pick your category and compete for a share of $50,000. Show us what you can do! Why join? Get your hands on a real-time OS, free . QNX Everywhere gives you QNX SDP 8.0, QNX Developer Desktop, and the QNX Hypervisor for non-commercial use, plus free training courses to get you moving. No target hardware required; QEMU works, and so does a Raspberry Pi 5. In 275 million vehicles. Now on your laptop . Not a teaching edition or a stripped-down trial. It's the same QNX that ships in commercial systems, and until QNX Everywhere, building on it meant a commercial license. Compete for $50,000 in prizes . Plus swag, a coffee chat with a QNX exec, and a feature on the QNX blog and social channels. Get Started Get free access to QNX SDP 8.0 through QNX Everywhere (5 minutes) Run through the QNX SDP 8.0 Quick Start Guide and get a program running on your target or QEMU (45 minutes) Browse QNX sample projects and open-source ports , then pick your category (30 minutes)",
+    "event_dates": "Nov 02 - Dec 15, 2026",
+    "prize_amount": "$ 50,000",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://qnx.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
     "title": "Hacknauts 2.0",
     "description": "Hacknauts 2.0 (HKN-26) is a 24-hour hackathon at Guru Nanak Dev Engineering College, Ludhiana , organized by the Causmic Club . 🚀 After a successful first mission, we're back in orbit. 🛰️ This year, everything revolves around one idea: a black hole pulling streams of code into itself. 🕳️ The brightest builders, designers, and problem-solvers converge for one weekend - to ideate, build, and ship something that didn't exist before. 💻✨ One mission. One singularity. Your code, pulled toward something bigger. 🌠 All participating teams are required to submit their project presentation (PPT) before the deadline. Make sure your presentation follows the provided template and is submitted before the deadline. 🚀 Build boldly. Think beyond the obvious. Solve something that matters. The singularity is waiting. What will you pull into orbit? 🕳️🚀 Hacknauts 2.0 - Beyond the Known, Begins the Extraordinary. Hacknauts 2.0 (HKN-26) is a 24-hour hackathon at Guru Nanak Dev Engineering College, Ludhiana , organized by the Causmic Club . 🚀 After a successful first mission, we're back in orbit. 🛰️ This year, everything revolves around one idea: a black hole pulling streams of code into itself. 🕳️ The brightest builders, designers, and problem-solvers converge for one weekend - to ideate, build, and ship something that didn't exist before. 💻✨ One mission. One singularity. Your code, pulled toward something bigger. 🌠 All participating teams are required to submit their project presentation (PPT) before the deadline. Make sure your presentation follows the provided template and is submitted before the deadline. 🚀 Build boldly. Think beyond the obvious. Solve something that matters. The singularity is waiting. What will you pull into orbit? 🕳️🚀 Hacknauts 2.0 - Beyond the Known, Begins the Extraordinary.",
     "event_dates": "Nov 14 - 15, 2026",
@@ -133,7 +145,7 @@ const DATA = [
   },
   {
     "title": "Lean In Hacks 8.0",
-    "description": "Lean In Hacks is an annual flagship hackathon of Lean In IGDTUW - the first chapter of Lean In India. Lean In Hacks is a beginner-friendly hackathon and has a place for everyone wanting to learn, build, share, and grow in their lives through their unique ideas. Our hackathon journey started in 2020 when we conducted the first edition of Lean In Hacks to give grounds to new thoughts and tools to animate the imaginative and critical thinking side of developers. This time, hackers from any college can participate in our hackathon, which will be held in hybrid mode . The only requirement is to have at least 1 female in your team ! Hackers will be given the weekend to build their product online and the top teams will be given a chance to pitch in the offline mode . As a beginner-friendly hackathon, we offer a dedicated Beginner’s Track exclusively for first-time hackers. This track is designed as an ideathon for first-year students , aimed at fostering innovative thinking, creativity, and confidence in problem-solving. Lean In Hacks is an annual flagship hackathon of Lean In IGDTUW - the first chapter of Lean In India. Lean In Hacks is a beginner-friendly hackathon and has a place for everyone wanting to learn, build, share, and grow in their lives through their unique ideas. Our hackathon journey started in 2020 when we conducted the first edition of Lean In Hacks to give grounds to new thoughts and tools to animate the imaginative and critical thinking side of developers. This time, hackers from any college can participate in our hackathon, which will be held in hybrid mode . The only requirement is to have at least 1 female in your team ! Hackers will be given the weekend to build their product online and the top teams will be given a chance to pitch in the offline mode . As a beginner-friendly hackathon, we offer a dedicated Beginner’s Track exclusively for first-time hackers. This track is designed as an ideathon for first-year students , aimed at fostering innovative thinking, creativity, and confidence in problem-solving.",
+    "description": "",
     "event_dates": "Nov 20 - 22, 2026",
     "prize_amount": "",
     "modes": "remote",
@@ -157,7 +169,7 @@ const DATA = [
   },
   {
     "title": "DevNexus 2.0",
-    "description": "DEV NEXUS 2.0 is a 24-hour hackathon where developers, innovators, and problem-solvers come together to build, create, and turn ideas into impactful solutions. 📅 28th–29th November 2026 📍 Government College of Engineering and Leather Technology (GCELT), Kolkata 🎃 Organized by the Event Management Group of GCELT With a Halloween-inspired theme, get ready for 24 hours of coding, creativity, collaboration, and innovation. DEV NEXUS 2.0 is a 24-hour hackathon where developers, innovators, and problem-solvers come together to build, create, and turn ideas into impactful solutions. 📅 28th–29th November 2026 📍 Government College of Engineering and Leather Technology (GCELT), Kolkata 🎃 Organized by the Event Management Group of GCELT With a Halloween-inspired theme, get ready for 24 hours of coding, creativity, collaboration, and innovation.",
+    "description": "",
     "event_dates": "Nov 28 - 29, 2026",
     "prize_amount": "",
     "modes": "in-person",
@@ -216,6 +228,18 @@ const DATA = [
     "level": null
   },
   {
+    "title": "Arbiter Hacks V1",
+    "description": "Remember: Join the Discord for announcments! About the challenge Arbiter Hacks V1 runs two parallel tracks. Pick one when you register, or switch before the submission deadline. You may only submit to one track. General Track: Build anything. Any language, any stack, any idea. This track rewards technical ambition and execution, regardless of subject. Theme Track, Rethinking Waste: Build something that helps people or systems reduce, sort, or recycle waste more effectively. Examples include a tool that identifies whether an item is recyclable, an app that routes food waste to donation, a hardware or vision system that sorts materials, or a dataset or model that improves recycling accuracy. If it moves the needle on waste, it fits. The tracks are judged separately, against separate rubrics, for separate prizes. A polished General submission and a high-impact Theme submission compete only within their own track. Get started Register and pick a track. Form a team of [1 to 4] or go solo. Late submissions are not judged.",
+    "event_dates": "Oct 20 - Dec 21, 2026",
+    "prize_amount": "$ 7,800",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://arbiter-hacks-v1.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
     "title": "UGREEN Hackathon 2026 on AI NAS",
     "description": "UGREEN is opening AI NAS to developers through UGOS and Skills Hub . Powered by UGOS , UGREEN's own Linux-based operating system, UGREEN AI NAS brings local storage, computing, and AI capabilities together in one platform. UGOS makes it easy to keep your data secure, find and organize your files, and get more done with AI. With the UGOS Skill Creation Tool and your preferred AI assistant, you can create custom Skills that use supported NAS capabilities to organize files, find information, and automate everyday tasks. UGREEN Skills Hub gives developers the freedom to explore new ideas, create innovative tools, and expand what AI NAS can do. You bring the ideas. We'll help you build them. Access developer resources and technical support, with opportunities to win prizes, gain exposure through UGREEN, and explore future collaborations. No UGREEN NAS is required to enter. Finalists will receive free access to a UGREEN AI NAS iDX6011 Pro environment for final development, testing, and validation. The Hackathon has two rounds: Round 1 (open to all): Share your idea and an early build of your Skill. You do not need a NAS to enter. Download the UGREEN Skill Developer Package. Then submit a short PDF and a Pre-test Skill Package (ZIP). Round 2 (Finalists only): UGREEN will select up to 30 Finalists. Each Finalist gets one assigned testing day of free remote access to a real UGREEN AI NAS to install, test, and polish their Skill. Finalists then submit their final Skill and a short demo video to compete for $46,000 in cash prizes! Get Started: 🧠 Get to know UGREEN AI NAS . Learn what it can do. 💬 Join the UGREEN Community . It's a place to find teammates, compare approaches, and get help when you're stuck, while keeping up with official Hackathon news and development resources and discovering community perks. ✨ 📦 Download the UGREEN Skill Developer Package . It has the tools and technical docs you need. You must use this package to build your Skill. 🛠️ Brush up on helpful skills . Python or JavaScript/TypeScript, Linux and Docker, AI agent and tool design, and file or media processing are all useful here. Why Participate 💰 Compete for $46,000 in cash prizes. Five winners will share the prize pool, including two Most Creative awards. 🚀 No NAS needed to start. Round 1 is open to everyone. You only need your idea, the Skill Developer Package, and your code . 🖥️ Test on real hardware for free. Each Finalist gets one assigned testing day of free remote access to a UGREEN AI NAS iDX6011 Pro. 🎨 Build what you care about. Choose from four tracks: work automation, personal memories, creative media, or your own original idea. 🤝 Connect with the UGREEN team. Access developer resources and technical support, with opportunities to win prizes, gain exposure through UGREEN, and explore future collaborations .",
     "event_dates": "Oct 22 - Nov 16, 2026",
@@ -223,18 +247,6 @@ const DATA = [
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://ugreenhackathon.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "Codex x TwitchCon Hackathon",
-    "description": "Twitch is the home of shared live experiences, and developers shape how streamers and their communities experience them. OpenAI and Twitch are teaming up to see what developers can build for the Twitch community with AI. In the Codex x TwitchCon Hackathon, you'll use OpenAI Codex to build useful and creative experiences for Twitch streamers and their community. Give chat a way to play along, help streamers create together, or add something new to enhance the content they stream. You’ll leave with a working project and hands-on experience building with Codex. The top 5 projects will be showcased on the Codex Booth stage at TwitchCon San Diego on November 15, where winners will be announced live. Why join? $25,000 in prizes , and a spot on the TwitchCon stage for the top 5 Build with Codex : tell Codex what you're building and let it help you get set up with the Twitch API, EventSub and chat Connect streamers and their community : build something streamers and viewers can use live on stream Get started Sign in to Codex and start a new thread for your project. You’ll need its session ID when you submit. Find everything you need to build at dev.twitch.tv . Not sure where to start? Get a chatbot running in minutes with the Example Chatbot guide Join the TwitchDev Discord and ask questions in the channel that fits what you're building. Say hi in #codex-twitchcon-hackathon channel for general questions and updates.",
-    "event_dates": "Oct 23 - Nov 02, 2026",
-    "prize_amount": "$ 25,000",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://twitchcon-codex.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
@@ -271,18 +283,6 @@ const DATA = [
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://start-developer-competition-26.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
-    "description": "Unleash Your Innovation: Shape the Future of Skincare and eCommerce. Calling all builders, creators, and visionaries: it’s time to completely reimagine the way we shop. The YouCam API Skin AI & eCommerce VTO Hackathon is your launchpad. We’re unlocking our most advanced, market-tested AI and AR infrastructure just for you. It's time to build the real-world, scalable products, including cutting-edge Agentic AI workflows. We’re challenging you to push the boundaries of what’s possible. Seamlessly integrate YouCam APIs into your wildest ideas, whether that means engineering a self-learning styling assistant, a hyper-personalized skin analysis tool, or an entirely new solution to everyday consumer pain points. Bring your boldest concepts to the table, and we’ll back your vision with serious prize money. Are you up for the challenge? 🎉 🎉 Share & Earn Bonus: Share your hackathon project and earn bonus API units! click HERE About the challenge All solutions must integrate at least one [ YouCam API ] into a functional web or mobile prototype that delivers clear consumer value. We want fresh, unexpected solutions to real-world pain points in beauty, fashion, or eCommerce—not surface-level wrappers. You can even take it a step further by building scalable products that include cutting-edge Agentic AI workflows. Pick the topic that best fits your vision and submit: Skin AI: People don't wonder about their skin in the abstract; they wonder right before a purchase, right after a bad breakout, or right when they're standing in front of a mirror deciding whether a product is working. Build something that meets that moment. Use YouCam's Skin AI, alone or combined with other YouCam APIs, to help users understand their skin and know exactly what to do next. eCommerce VTO: Beauty and fashion decisions rarely happen in isolation; what someone wears and how their looks are part of the same self-image. Build something that brings Virtual Try-On together into one seamless, intuitive experience. We want to see what's possible when both capabilities work as one to reimagine the way we shop. Why Join Build with YouCam API. Access AI Skin Analysis and generative Apparel Virtual Try-On, the same models powering 800+ global beauty and fashion brands, on a standard REST API that drops into any stack. Get free API units to build , deploy, and demo. Every registered participant receives 1,000 free API units just for signing up. Win cash , API credits , and real visibility . Share & Earn Bonus: Share your hackathon project online and earn bonus API units! Get started Register on Devpost. Get your exclusive redeem code by email (2 minutes) Sign up for YouCam API. Click here to sign up and verify your email. (2 minutes) Claim Your Free 1,000 YouCam API Units. Click here and go to Account > Redeem Code > Enter the redeem code (3 minutes) 1,000 API Units will be added to your account immediately.",
-    "event_dates": "Sep 29 - Nov 02, 2026",
-    "prize_amount": "$ 6,000",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://youcam-api-skin-ai-ecommerce.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
@@ -448,7 +448,7 @@ clearDateButton.addEventListener("click", () => {
 });
 
 // Header stats
-document.getElementById("last-checked-date").textContent = "Nov 2, 2026";
+document.getElementById("last-checked-date").textContent = "Nov 3, 2026";
 document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
   (h) => h.status === "open" || h.status === "running",
 ).length;
