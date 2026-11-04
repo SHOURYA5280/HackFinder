@@ -1,12 +1,12 @@
 [
   {
-    "title": "Cloud Native Hackathon",
+    "title": "Festive Hacks",
     "description": "",
-    "event_dates": "Nov 9–10",
+    "event_dates": "Nov 16–25",
     "prize_amount": "",
-    "modes": "in-person",
-    "location": "Salt Lake City, Utah",
-    "hackathon_page_url": "https://www.wemakedevs.org/hackathons/cnh",
+    "modes": "remote",
+    "location": "",
+    "hackathon_page_url": "https://www.wemakedevs.org/hackathons/festivehacks",
     "status": "open",
     "source": "WeMakeDevs",
     "level": null
@@ -19,6 +19,18 @@
     "modes": "remote",
     "location": "",
     "hackathon_page_url": "https://www.wemakedevs.org/hackathons/switch",
+    "status": "running",
+    "source": "WeMakeDevs",
+    "level": null
+  },
+  {
+    "title": "Cloud Native Hackathon",
+    "description": "",
+    "event_dates": "Nov 9–10",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "Salt Lake City, Utah",
+    "hackathon_page_url": "https://www.wemakedevs.org/hackathons/cnh",
     "status": "open",
     "source": "WeMakeDevs",
     "level": null

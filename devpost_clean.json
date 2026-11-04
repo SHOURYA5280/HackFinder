@@ -72,18 +72,6 @@
     "level": null
   },
   {
-    "title": "DSH Hacks V2 ($100k+ in prizes!)",
-    "description": "DSH Hacks V2 is a global student competition open to students aged 13+ hosted collaboratively by three youth-led organizations: DeltaForge Hacks, NXT Horizon, and STEMise. Theme: AI x Healthcare This event brings together young innovators from around the world to transform bold ideas into technical products that address the health challenges facing our world today. Participants will work individually or in teams to identify a real-world healthcare problem and design and develop a meaningful technical solution. Projects may range from diagnostic tools tackling global disease burdens, to patient-care platforms improving access and outcomes, to AI-powered systems reimagining how we detect, treat, and manage illness. Creativity, feasibility, technical depth, clinical insight, and real-world impact will be central to evaluation. The theme of this competition is to build technical solutions that solve pressing healthcare problems. These solutions can be an app, a website, a simulation, a system, or an algorithm. Participants are encouraged to use AI to help them build a meaningful solution and to lower the technical barrier that poses challenges for beginners with ambitious project ideas.",
-    "event_dates": "Jun 24 - Nov 15, 2026",
-    "prize_amount": "5",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://dsh-hacks-v2.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
     "title": "QNX Global Hackathon",
     "description": "For decades, QNX has been running the systems people bet their lives on, from medical devices and factory floors to trains, robots, and more than 275 million vehicles. It guarantees not just that your code runs, but exactly when. Now QNX 8.0 is free for non-commercial use, and the QNX team wants to see what you do with it when nobody hands you a spec. Build a robot that reacts in microseconds instead of milliseconds. Write the driver nobody has written yet. Port something you love to QNX, or build the tooling you always wished existed. If it runs on QNX 8.0, or helps someone else build for it, it counts. Pick your category and compete for a share of $50,000. Show us what you can do! Why join? Get your hands on a real-time OS, free . QNX Everywhere gives you QNX SDP 8.0, QNX Developer Desktop, and the QNX Hypervisor for non-commercial use, plus free training courses to get you moving. No target hardware required; QEMU works, and so does a Raspberry Pi 5. In 275 million vehicles. Now on your laptop . Not a teaching edition or a stripped-down trial. It's the same QNX that ships in commercial systems, and until QNX Everywhere, building on it meant a commercial license. Compete for $50,000 in prizes . Plus swag, a coffee chat with a QNX exec, and a feature on the QNX blog and social channels. Get Started Get free access to QNX SDP 8.0 through QNX Everywhere (5 minutes) Run through the QNX SDP 8.0 Quick Start Guide and get a program running on your target or QEMU (45 minutes) Browse QNX sample projects and open-source ports , then pick your category (30 minutes)",
     "event_dates": "Nov 02 - Dec 15, 2026",
@@ -91,6 +79,18 @@
     "modes": "remote",
     "location": "Online",
     "hackathon_page_url": "https://qnx.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
+    "title": "DSH Hacks V2 ($100k+ in prizes!)",
+    "description": "DSH Hacks V2 is a global student competition open to students aged 13+ hosted collaboratively by three youth-led organizations: DeltaForge Hacks, NXT Horizon, and STEMise. Theme: AI x Healthcare This event brings together young innovators from around the world to transform bold ideas into technical products that address the health challenges facing our world today. Participants will work individually or in teams to identify a real-world healthcare problem and design and develop a meaningful technical solution. Projects may range from diagnostic tools tackling global disease burdens, to patient-care platforms improving access and outcomes, to AI-powered systems reimagining how we detect, treat, and manage illness. Creativity, feasibility, technical depth, clinical insight, and real-world impact will be central to evaluation. The theme of this competition is to build technical solutions that solve pressing healthcare problems. These solutions can be an app, a website, a simulation, a system, or an algorithm. Participants are encouraged to use AI to help them build a meaningful solution and to lower the technical barrier that poses challenges for beginners with ambitious project ideas.",
+    "event_dates": "Jun 24 - Nov 15, 2026",
+    "prize_amount": "5",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://dsh-hacks-v2.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
