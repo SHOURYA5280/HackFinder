@@ -1,17 +1,5 @@
 const DATA = [
   {
-    "title": "ECLIPSE 7.0",
-    "description": "ECLIPSE 7.0 is the flagship event of the ACM Student Chapter, TIET, and a premier 24-hour hackathon that draws participation from across the nation. As the chapter’s most distinguished and celebrated initiative, it serves as a dynamic platform for developers, designers, and innovators to collaborate and compete. With expert-led workshops, dedicated mentorship, and an intense build environment, ECLIPSE 7.0 is designed to cultivate innovation, enhance technical excellence, and transform ambitious ideas into impactful, real-world solutions. • The hackathon is open to students from all Colleges and Universities. • Students from all academic years are eligible to participate. Teams may include members from different colleges. • Participants from diverse specializations are welcome to form teams together. Teams must consist of 2–5 members. Participants are advised to form teams with complementary expertise, including design, frontend development, backend development, and database management. Each team must choose only ONE problem statement. The detailed problem statements will be published in the PDF below and simultaneously made accessible on the ECLIPSE 7.0 website and ACM’s official social media platforms. Round 1: Pre-Screening Round (Online): Teams will be shortlisted based on their idea presentation. Round 2: Offline Hackathon Round: Shortlisted teams will participate in the on-site hackathon. During the offline round, teams will be assessed at regular checkpoints to ensure consistent progress. All rounds must be completed within the officially communicated timelines. Physical attendance at the venue is mandatory for all qualifying participants. Required submissions for the offline round include: A code repository link and/or deployed project link and a project proposal document • Teams must register exclusively through Devfolio and provide accurate team and member details. • Teams will be evaluated only on the problem statement they have selected. Working on multiple problem statements is strictly prohibited. • The prototype must be developed strictly during the offline round. Pre-built solutions will result in disqualification. • Plagiarism is strictly prohibited and will result in immediate disqualification. • All participants are required to join the official event application and community platform. Failure to comply may result in disqualification. • Any form of misconduct or rule violation may result in disqualification at the discretion of the organizing committee. • Projects will be evaluated by a panel of judges. The decision of the judges will be final and binding. ECLIPSE 7.0 is the flagship event of the ACM Student Chapter, TIET, and a premier 24-hour hackathon that draws participation from across the nation. As the chapter’s most distinguished and celebrated initiative, it serves as a dynamic platform for developers, designers, and innovators to collaborate and compete. With expert-led workshops, dedicated mentorship, and an intense build environment, ECLIPSE 7.0 is designed to cultivate innovation, enhance technical excellence, and transform ambitious ideas into impactful, real-world solutions. • The hackathon is open to students from all Colleges and Universities. • Students from all academic years are eligible to participate. Teams may include members from different colleges. • Participants from diverse specializations are welcome to form teams together. Teams must consist of 2–5 members. Participants are advised to form teams with complementary expertise, including design, frontend development, backend development, and database management. Each team must choose only ONE problem statement. The detailed problem statements will be published in the PDF below and simultaneously made accessible on the ECLIPSE 7.0 website and ACM’s official social media platforms. Round 1: Pre-Screening Round (Online): Teams will be shortlisted based on their idea presentation. Round 2: Offline Hackathon Round: Shortlisted teams will participate in the on-site hackathon. During the offline round, teams will be assessed at regular checkpoints to ensure consistent progress. All rounds must be completed within the officially communicated timelines. Physical attendance at the venue is mandatory for all qualifying participants. Required submissions for the offline round include: A code repository link and/or deployed project link and a project proposal document • Teams must register exclusively through Devfolio and provide accurate team and member details. • Teams will be evaluated only on the problem statement they have selected. Working on multiple problem statements is strictly prohibited. • The prototype must be developed strictly during the offline round. Pre-built solutions will result in disqualification. • Plagiarism is strictly prohibited and will result in immediate disqualification. • All participants are required to join the official event application and community platform. Failure to comply may result in disqualification. • Any form of misconduct or rule violation may result in disqualification at the discretion of the organizing committee. • Projects will be evaluated by a panel of judges. The decision of the judges will be final and binding.",
-    "event_dates": "Apr 3 - 4, 2027",
-    "prize_amount": "",
-    "modes": "in-person",
-    "location": "Patiala, India",
-    "hackathon_page_url": "https://eclipse.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
-    "level": null
-  },
-  {
     "title": "hackodisha-6.0",
     "description": "Eastern India's one of the largest hackathon organized by Webwiz, NIT Rourkela. Welcome to HackOdisha 6.0 A 36-hour online hackathon organized by Webwiz, the official tech club of NIT Rourkela After five successful seasons, HackOdisha returns bigger and better uniting developers and creatives from across the globe to tackle real-world challenges. Whether you’re a beginner or an expert, if you thrive on problem‑solving and innovation, this is your arena. You can participate solo or form a team but remember: every member must register individually to be eligible. Join us on this journey of creativity, code, and community at HackOdisha 6.0! Eastern India's one of the largest hackathon organized by Webwiz, NIT Rourkela. Welcome to HackOdisha 6.0 A 36-hour online hackathon organized by Webwiz, the official tech club of NIT Rourkela After five successful seasons, HackOdisha returns bigger and better uniting developers and creatives from across the globe to tackle real-world challenges. Whether you’re a beginner or an expert, if you thrive on problem‑solving and innovation, this is your arena. You can participate solo or form a team but remember: every member must register individually to be eligible. Join us on this journey of creativity, code, and community at HackOdisha 6.0!",
     "event_dates": "Dec 11 - 13, 2026",
@@ -25,12 +13,24 @@ const DATA = [
   },
   {
     "title": "haxfinity",
-    "description": "12–13 December 2026 10:30 AM, 12 December – 10:30 AM, 13 December Amal College of Advanced Studies (Autonomous), Nilambur, Kerala Prizes:Exciting prizes — details to be announced Team size:2–4 participants Participation: Free Build real solutions, solve meaningful problems, and create something that works. HAXFINITY is a 24-hour hackathon conducted as part of XTHRON ’26, the annual IT fest of the Department of Computer Science, Amal College of Advanced Studies (Autonomous), Nilambur. Students from different colleges and backgrounds will identify problems, build software prototypes, and present their work to judges. The event includes the opening ceremony, a 21-hour project-building window, demonstrations, judging, and awards. There is no compulsory theme. Teams may choose any problem and build a software solution using any suitable technology. Build a product, tool, or prototype that solves a real problem or explores an idea. Build an application using machine learning, generative AI, NLP, computer vision, data analysis, or another AI-related technology. Build technology that improves people’s lives — for example, in education, healthcare, accessibility, sustainability, financial inclusion, or community welfare. Detailed judging criteria will be published before the event. Building window:*11:00 AM, 12 December – 8:00 AM, 13 December (21 hours). Students from all colleges, streams, and experience levels are welcome. You can participate as a beginner, developer, designer, or creative problem-solver. Interests in AI, cybersecurity, web, mobile, cloud, or social-impact technology are all welcome. Amal College of Advanced Studies (Autonomous) Santhigramam, Eranhimangad Nilambur, Malappuram, Kerala — 679329 Check-in and travel details will be shared with registered participants. Opportunity to demo projects to judges Competition Rules All project-specific development must happen during the official building window. Teams may arrive with an idea, but pre-built projects cannot be submitted. Open-source libraries, APIs, datasets, and templates are allowed, subject to their licences. Teams must disclose pre-existing components and AI tools used. Generative AI and AI-assisted development tools are allowed across all tracks. Teams should submit early; late submissions may not be accepted. A working prototype or meaningful demonstration is expected. Teams must be able to explain their technology, process, third-party components, and contributions. Projects must not violate copyright, privacy, security, or applicable law. Organisers may disqualify entries for plagiarism, misconduct, unsafe content, or rule violations. All participants are expected to maintain a respectful, inclusive, and welcoming environment. Participants can approach the organising team for assistance or to report a concern. HAXFINITY — Hack the Infinite XTHRON ’26 12–13 December 2026 Amal College of Advanced Studies (Autonomous), Nilambur, Kerala 12–13 December 2026 10:30 AM, 12 December – 10:30 AM, 13 December Amal College of Advanced Studies (Autonomous), Nilambur, Kerala Prizes:Exciting prizes — details to be announced Team size:2–4 participants Participation: Free Build real solutions, solve meaningful problems, and create something that works. HAXFINITY is a 24-hour hackathon conducted as part of XTHRON ’26, the annual IT fest of the Department of Computer Science, Amal College of Advanced Studies (Autonomous), Nilambur. Students from different colleges and backgrounds will identify problems, build software prototypes, and present their work to judges. The event includes the opening ceremony, a 21-hour project-building window, demonstrations, judging, and awards. There is no compulsory theme. Teams may choose any problem and build a software solution using any suitable technology. Build a product, tool, or prototype that solves a real problem or explores an idea. Build an application using machine learning, generative AI, NLP, computer vision, data analysis, or another AI-related technology. Build technology that improves people’s lives — for example, in education, healthcare, accessibility, sustainability, financial inclusion, or community welfare. Detailed judging criteria will be published before the event. Building window:*11:00 AM, 12 December – 8:00 AM, 13 December (21 hours). Students from all colleges, streams, and experience levels are welcome. You can participate as a beginner, developer, designer, or creative problem-solver. Interests in AI, cybersecurity, web, mobile, cloud, or social-impact technology are all welcome. Amal College of Advanced Studies (Autonomous) Santhigramam, Eranhimangad Nilambur, Malappuram, Kerala — 679329 Check-in and travel details will be shared with registered participants. Opportunity to demo projects to judges Competition Rules All project-specific development must happen during the official building window. Teams may arrive with an idea, but pre-built projects cannot be submitted. Open-source libraries, APIs, datasets, and templates are allowed, subject to their licences. Teams must disclose pre-existing components and AI tools used. Generative AI and AI-assisted development tools are allowed across all tracks. Teams should submit early; late submissions may not be accepted. A working prototype or meaningful demonstration is expected. Teams must be able to explain their technology, process, third-party components, and contributions. Projects must not violate copyright, privacy, security, or applicable law. Organisers may disqualify entries for plagiarism, misconduct, unsafe content, or rule violations. All participants are expected to maintain a respectful, inclusive, and welcoming environment. Participants can approach the organising team for assistance or to report a concern. HAXFINITY — Hack the Infinite XTHRON ’26 12–13 December 2026 Amal College of Advanced Studies (Autonomous), Nilambur, Kerala",
+    "description": "",
     "event_dates": "Dec 12 - 13, 2026",
     "prize_amount": "",
     "modes": "in-person",
     "location": "Myladi, India",
     "hackathon_page_url": "https://haxfinity.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "ETHChiangmai & Longevity Hackathon 2026",
+    "description": "ETHChiangmai & Longevity Hackathon 2026 brings together builders from Web3, AI and Longevity in Chiang Mai on December 26–27. Over two days, teams of 1–4 will build real products for real people, from stablecoin payments used by local merchants to tools that help people sleep, move and live better. PayFi & RWA (3,000 USDT): bring stablecoins and onchain assets into everyday life: payments, crypto cards, merchant acceptance, remittances, real-world assets, and agentic payments. Longevity (3,000 USDT): an open, product-focused track with no Web3 requirement. Build around movement, sleep, biohacking and peptides, including AI health companions. Privacy & Data Sovereignty (3,000 USDT): give people real ownership of their data through ZK, FHE, private identity, health data sovereignty and private AI. Cosmo-Localism (Bonus, 1,000 USDT): build for real users in Southeast Asia. It can be combined with any other track. AI is welcome in every track, and any tech stack is welcome. Whether you’re a developer, designer, researcher or health enthusiast, come build with a global community in one of the world’s favourite cities for digital nomads. ETHChiangmai & Longevity Hackathon 2026 brings together builders from Web3, AI and Longevity in Chiang Mai on December 26–27. Over two days, teams of 1–4 will build real products for real people, from stablecoin payments used by local merchants to tools that help people sleep, move and live better. PayFi & RWA (3,000 USDT): bring stablecoins and onchain assets into everyday life: payments, crypto cards, merchant acceptance, remittances, real-world assets, and agentic payments. Longevity (3,000 USDT): an open, product-focused track with no Web3 requirement. Build around movement, sleep, biohacking and peptides, including AI health companions. Privacy & Data Sovereignty (3,000 USDT): give people real ownership of their data through ZK, FHE, private identity, health data sovereignty and private AI. Cosmo-Localism (Bonus, 1,000 USDT): build for real users in Southeast Asia. It can be combined with any other track. AI is welcome in every track, and any tech stack is welcome. Whether you’re a developer, designer, researcher or health enthusiast, come build with a global community in one of the world’s favourite cities for digital nomads.",
+    "event_dates": "Dec 26 - 27, 2026",
+    "prize_amount": "$10,000 Available in Prizes",
+    "modes": "in-person",
+    "location": "Thailand",
+    "hackathon_page_url": "https://chiangmai.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -84,6 +84,18 @@ const DATA = [
     "level": null
   },
   {
+    "title": "Hacksprint 3.0",
+    "description": "💬 WHATSAPP COMMUNITY — JOIN NOW: https://chat.whatsapp.com/C9gawXXKFtr76gk6YoUe3K HackSprint 3.0 is a National-Level, 36-Hour Hackathon organized by the Department of Computer Science and Engineering, Karpagam Academy of Higher Education (KAHE), Coimbatore, in collaboration with the Metaverse Association . HackSprint 3.0 brings together passionate developers, designers, problem-solvers, and innovators from across India to transform creative ideas into impactful, technology-driven solutions. It provides a platform to experiment with emerging technologies, collaborate with like-minded innovators, and tackle real-world challenges. Mode: Online Preliminary Round + Offline Final Round Final Venue: Karpagam Academy of Higher Education (KAHE), Coimbatore, Tamil Nadu Final Hackathon Duration: 36 Hours Application Deadline: 28 December 2026 📢 PPT Submission Template: Will be announced soon! The first round will be conducted online. Interested teams must submit a PowerPoint presentation (PPT) outlining their proposed project idea before the application deadline. The organizing team will evaluate submissions based on innovation, problem relevance, feasibility, technical approach, potential impact, and relevant portfolio experience. Following the evaluation, selected teams will be shortlisted for the final round. Important: Submitting an application does not guarantee participation in the final hackathon. Only shortlisted teams will be invited to the offline round. Shortlisted teams will participate in the 36-hour offline hackathon at Karpagam Academy of Higher Education, Coimbatore. Participants will develop their proposed solutions, build prototypes, test their implementations, and present their projects to the judging panel. Final evaluation will focus on innovation, technical implementation, functionality, feasibility, problem-solving, and overall impact. 📅 Final-round dates will be announced once confirmed. Leverage technology to address agricultural challenges through smart irrigation, precision farming, AI-enabled agriculture, resource optimization, and sustainable farming solutions. Develop technology-driven healthcare solutions focused on diagnostics, remote healthcare, medical accessibility, patient monitoring, and improved healthcare delivery. Reimagine education through digital learning platforms, adaptive learning systems, skill-development tools, inclusive education, and innovative teaching technologies. Explore AI- and ML-powered solutions for wildlife conservation, anti-poaching intelligence, environmental monitoring, and biodiversity protection. Think without boundaries. Build creative, technology-driven solutions to meaningful real-world problems across any domain. Prize details, partners, and additional opportunities will be announced through official HackSprint 3.0 communication channels. Bala Surya S Organizer — HackSprint 3.0 Phone: +91 95970 75831 Ramya A Convenor — HackSprint 3.0 Phone: +91 96269 06494 Bring your vision. Pitch your idea. Earn your place in the final round. HackSprint 3.0 — 36 Hours. Bold Ideas. Real-World Impact. #HackSprint3 #KAHE #MetaverseAssociation #Hackathon2027 #BuildBoldRideBeyond 💬 WHATSAPP COMMUNITY — JOIN NOW: https://chat.whatsapp.com/C9gawXXKFtr76gk6YoUe3K HackSprint 3.0 is a National-Level, 36-Hour Hackathon organized by the Department of Computer Science and Engineering, Karpagam Academy of Higher Education (KAHE), Coimbatore, in collaboration with the Metaverse Association . HackSprint 3.0 brings together passionate developers, designers, problem-solvers, and innovators from across India to transform creative ideas into impactful, technology-driven solutions. It provides a platform to experiment with emerging technologies, collaborate with like-minded innovators, and tackle real-world challenges. Mode: Online Preliminary Round + Offline Final Round Final Venue: Karpagam Academy of Higher Education (KAHE), Coimbatore, Tamil Nadu Final Hackathon Duration: 36 Hours Application Deadline: 28 December 2026 📢 PPT Submission Template: Will be announced soon! The first round will be conducted online. Interested teams must submit a PowerPoint presentation (PPT) outlining their proposed project idea before the application deadline. The organizing team will evaluate submissions based on innovation, problem relevance, feasibility, technical approach, potential impact, and relevant portfolio experience. Following the evaluation, selected teams will be shortlisted for the final round. Important: Submitting an application does not guarantee participation in the final hackathon. Only shortlisted teams will be invited to the offline round. Shortlisted teams will participate in the 36-hour offline hackathon at Karpagam Academy of Higher Education, Coimbatore. Participants will develop their proposed solutions, build prototypes, test their implementations, and present their projects to the judging panel. Final evaluation will focus on innovation, technical implementation, functionality, feasibility, problem-solving, and overall impact. 📅 Final-round dates will be announced once confirmed. Leverage technology to address agricultural challenges through smart irrigation, precision farming, AI-enabled agriculture, resource optimization, and sustainable farming solutions. Develop technology-driven healthcare solutions focused on diagnostics, remote healthcare, medical accessibility, patient monitoring, and improved healthcare delivery. Reimagine education through digital learning platforms, adaptive learning systems, skill-development tools, inclusive education, and innovative teaching technologies. Explore AI- and ML-powered solutions for wildlife conservation, anti-poaching intelligence, environmental monitoring, and biodiversity protection. Think without boundaries. Build creative, technology-driven solutions to meaningful real-world problems across any domain. Prize details, partners, and additional opportunities will be announced through official HackSprint 3.0 communication channels. Bala Surya S Organizer — HackSprint 3.0 Phone: +91 95970 75831 Ramya A Convenor — HackSprint 3.0 Phone: +91 96269 06494 Bring your vision. Pitch your idea. Earn your place in the final round. HackSprint 3.0 — 36 Hours. Bold Ideas. Real-World Impact. #HackSprint3 #KAHE #MetaverseAssociation #Hackathon2027 #BuildBoldRideBeyond",
+    "event_dates": "Jan 29 - 30, 2027",
+    "prize_amount": "",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://hacksprint-3.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "Hack Nexus 2027",
     "description": "Hack Nexus 2027 is a 36-hour student hackathon bringing together 300+ students, developers, and innovators from across Nagpur and beyond. Join us to build innovative projects, learn from mentors, explore emerging technologies, and connect with a growing community of creators from January 30–31, 2027. Hack Nexus 2027 is a 36-hour student hackathon bringing together 300+ students, developers, and innovators from across Nagpur and beyond. Join us to build innovative projects, learn from mentors, explore emerging technologies, and connect with a growing community of creators from January 30–31, 2027.",
     "event_dates": "Jan 30 - 31, 2027",
@@ -114,7 +126,7 @@ const DATA = [
     "prize_amount": "$550 Available in Prizes",
     "modes": "in-person",
     "location": "Bidhannagar, India",
-    "hackathon_page_url": "https://diversion2k27.devfolio.co/overview",
+    "hackathon_page_url": "https://diversion2k27.devfolio.co/",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -132,6 +144,18 @@ const DATA = [
     "level": null
   },
   {
+    "title": "Hacknauts 2.0",
+    "description": "Hacknauts 2.0 (HKN-26) is a 24-hour hackathon at Guru Nanak Dev Engineering College, Ludhiana , organized by the Causmic Club . 🚀 After a successful first mission, we're back in orbit. 🛰️ This year, everything revolves around one idea: a black hole pulling streams of code into itself. 🕳️ The brightest builders, designers, and problem-solvers converge for one weekend - to ideate, build, and ship something that didn't exist before. 💻✨ One mission. One singularity. Your code, pulled toward something bigger. 🌠 All participating teams are required to submit their project presentation (PPT) before the deadline. Make sure your presentation follows the provided template and is submitted before the deadline. 🚀 Build boldly. Think beyond the obvious. Solve something that matters. The singularity is waiting. What will you pull into orbit? 🕳️🚀 Hacknauts 2.0 - Beyond the Known, Begins the Extraordinary. Hacknauts 2.0 (HKN-26) is a 24-hour hackathon at Guru Nanak Dev Engineering College, Ludhiana , organized by the Causmic Club . 🚀 After a successful first mission, we're back in orbit. 🛰️ This year, everything revolves around one idea: a black hole pulling streams of code into itself. 🕳️ The brightest builders, designers, and problem-solvers converge for one weekend - to ideate, build, and ship something that didn't exist before. 💻✨ One mission. One singularity. Your code, pulled toward something bigger. 🌠 All participating teams are required to submit their project presentation (PPT) before the deadline. Make sure your presentation follows the provided template and is submitted before the deadline. 🚀 Build boldly. Think beyond the obvious. Solve something that matters. The singularity is waiting. What will you pull into orbit? 🕳️🚀 Hacknauts 2.0 - Beyond the Known, Begins the Extraordinary.",
+    "event_dates": "Nov 14 - 15, 2026",
+    "prize_amount": "$3,016 Available in Prizes",
+    "modes": "in-person",
+    "location": "Ludhiana, India",
+    "hackathon_page_url": "https://hacknauts26.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "Lean In Hacks 8.0",
     "description": "Lean In Hacks is an annual flagship hackathon of Lean In IGDTUW - the first chapter of Lean In India. Lean In Hacks is a beginner-friendly hackathon and has a place for everyone wanting to learn, build, share, and grow in their lives through their unique ideas. Our hackathon journey started in 2020 when we conducted the first edition of Lean In Hacks to give grounds to new thoughts and tools to animate the imaginative and critical thinking side of developers. This time, hackers from any college can participate in our hackathon, which will be held in hybrid mode . The only requirement is to have at least 1 female in your team ! Hackers will be given the weekend to build their product online and the top teams will be given a chance to pitch in the offline mode . As a beginner-friendly hackathon, we offer a dedicated Beginner’s Track exclusively for first-time hackers. This track is designed as an ideathon for first-year students , aimed at fostering innovative thinking, creativity, and confidence in problem-solving. Lean In Hacks is an annual flagship hackathon of Lean In IGDTUW - the first chapter of Lean In India. Lean In Hacks is a beginner-friendly hackathon and has a place for everyone wanting to learn, build, share, and grow in their lives through their unique ideas. Our hackathon journey started in 2020 when we conducted the first edition of Lean In Hacks to give grounds to new thoughts and tools to animate the imaginative and critical thinking side of developers. This time, hackers from any college can participate in our hackathon, which will be held in hybrid mode . The only requirement is to have at least 1 female in your team ! Hackers will be given the weekend to build their product online and the top teams will be given a chance to pitch in the offline mode . As a beginner-friendly hackathon, we offer a dedicated Beginner’s Track exclusively for first-time hackers. This track is designed as an ideathon for first-year students , aimed at fostering innovative thinking, creativity, and confidence in problem-solving.",
     "event_dates": "Nov 20 - 22, 2026",
@@ -144,8 +168,20 @@ const DATA = [
     "level": null
   },
   {
+    "title": "THE BIG HACK 2.0",
+    "description": "",
+    "event_dates": "Nov 20, 2026",
+    "prize_amount": "₹50,000 Available in Prizes",
+    "modes": "in-person",
+    "location": "Soladevanahalli, India",
+    "hackathon_page_url": "https://the-big-hack-2.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "GeNarrative Clash",
-    "description": "Where Generative AI Meets Human Creativity: Kolkata's Ultimate Prompt Engineering Challenge Are you ready to redefine how stories are told, music is composed, and digital art is created? GeNarrative Clash is Kolkata's premier Prompt Engineering & AI Building Challenge, organized by the GeeksforGeeks Student Chapter at Techno India University. Don't worry if you are new to AI development! Before the live challenge kicks off, every participant gets access to an exclusive 1-Hour Hands-On Masterclass on AI Development & API Integration . Learn how to harness cutting-edge LLMs, query GenAI APIs, and leverage rapid prototyping tools so you can build a solid, production-ready product with confidence. Generative AI shouldn't replace human creators, it should supercharge them! GeNarrative Clash features an Open Track focused on building real-world solutions that assist, elevate, and support creative artists in their work. You are free to solve any real-world problem in the artistic or creative domain. Where Generative AI Meets Human Creativity: Kolkata's Ultimate Prompt Engineering Challenge Are you ready to redefine how stories are told, music is composed, and digital art is created? GeNarrative Clash is Kolkata's premier Prompt Engineering & AI Building Challenge, organized by the GeeksforGeeks Student Chapter at Techno India University. Don't worry if you are new to AI development! Before the live challenge kicks off, every participant gets access to an exclusive 1-Hour Hands-On Masterclass on AI Development & API Integration . Learn how to harness cutting-edge LLMs, query GenAI APIs, and leverage rapid prototyping tools so you can build a solid, production-ready product with confidence. Generative AI shouldn't replace human creators, it should supercharge them! GeNarrative Clash features an Open Track focused on building real-world solutions that assist, elevate, and support creative artists in their work. You are free to solve any real-world problem in the artistic or creative domain.",
+    "description": "",
     "event_dates": "Nov 21, 2026",
     "prize_amount": "",
     "modes": "in-person",
@@ -153,6 +189,30 @@ const DATA = [
     "hackathon_page_url": "https://genarrative-clash.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "Festive Hacks",
+    "description": "",
+    "event_dates": "Nov 25",
+    "prize_amount": "",
+    "modes": "in-person",
+    "location": "BIEC, Bengaluru",
+    "hackathon_page_url": "https://www.wemakedevs.org/hackathons/festivehacks",
+    "status": "open",
+    "source": "WeMakeDevs",
+    "level": null
+  },
+  {
+    "title": "Toggle Wars",
+    "description": "",
+    "event_dates": "Nov 26–29",
+    "prize_amount": "",
+    "modes": "remote",
+    "location": "",
+    "hackathon_page_url": "https://www.wemakedevs.org/hackathons/flagsmith",
+    "status": "open",
+    "source": "WeMakeDevs",
     "level": null
   },
   {
@@ -273,18 +333,6 @@ const DATA = [
     "hackathon_page_url": "https://start-developer-competition-26.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "THE BIG HACK 2.0",
-    "description": "One Fest. Countless Ideas. Infinite Possibilities. Tech Habba 2.0 is a National-Level Technical Fest hosted at Acharya Institutes, Bengaluru, from November 19–21, 2026. Bringing together students, developers, and innovators from across India, the fest celebrates technology, creativity, and collaboration. The Experience Explore 13 exciting technical and non-technical events, compete with talented participants, and showcase your skills. Participate in a 24-hour hackathon where ideas transform into working prototypes and innovative solutions. Hackathon Tracks One Fest. Countless Ideas. Infinite Possibilities. Tech Habba 2.0 is a National-Level Technical Fest hosted at Acharya Institutes, Bengaluru, from November 19–21, 2026. Bringing together students, developers, and innovators from across India, the fest celebrates technology, creativity, and collaboration. The Experience Explore 13 exciting technical and non-technical events, compete with talented participants, and showcase your skills. Participate in a 24-hour hackathon where ideas transform into working prototypes and innovative solutions. Hackathon Tracks",
-    "event_dates": "",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "",
-    "hackathon_page_url": "https://the-big-hack-2.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
     "level": null
   }
 ];
@@ -436,7 +484,7 @@ clearDateButton.addEventListener("click", () => {
 });
 
 // Header stats
-document.getElementById("last-checked-date").textContent = "Nov 6, 2026";
+document.getElementById("last-checked-date").textContent = "Nov 7, 2026";
 document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
   (h) => h.status === "open" || h.status === "running",
 ).length;
