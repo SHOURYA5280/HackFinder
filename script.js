@@ -13,7 +13,7 @@ const DATA = [
   },
   {
     "title": "hackodisha-6.0",
-    "description": "",
+    "description": "Eastern India's one of the largest hackathon organized by Webwiz, NIT Rourkela. Welcome to HackOdisha 6.0 A 36-hour online hackathon organized by Webwiz, the official tech club of NIT Rourkela After five successful seasons, HackOdisha returns bigger and better uniting developers and creatives from across the globe to tackle real-world challenges. Whether you’re a beginner or an expert, if you thrive on problem‑solving and innovation, this is your arena. You can participate solo or form a team but remember: every member must register individually to be eligible. Join us on this journey of creativity, code, and community at HackOdisha 6.0! Eastern India's one of the largest hackathon organized by Webwiz, NIT Rourkela. Welcome to HackOdisha 6.0 A 36-hour online hackathon organized by Webwiz, the official tech club of NIT Rourkela After five successful seasons, HackOdisha returns bigger and better uniting developers and creatives from across the globe to tackle real-world challenges. Whether you’re a beginner or an expert, if you thrive on problem‑solving and innovation, this is your arena. You can participate solo or form a team but remember: every member must register individually to be eligible. Join us on this journey of creativity, code, and community at HackOdisha 6.0!",
     "event_dates": "Dec 11 - 13, 2026",
     "prize_amount": "$1,620 Available in Prizes",
     "modes": "remote",
@@ -36,25 +36,25 @@ const DATA = [
     "level": null
   },
   {
-    "title": "ETHChiangmai & Longevity Hackathon 2026",
-    "description": "ETHChiangmai & Longevity Hackathon 2026 brings together builders from Web3, AI and Longevity in Chiang Mai on December 26–27. Over two days, teams of 1–4 will build real products for real people, from stablecoin payments used by local merchants to tools that help people sleep, move and live better. PayFi & RWA (3,000 USDT): bring stablecoins and onchain assets into everyday life: payments, crypto cards, merchant acceptance, remittances, real-world assets, and agentic payments. Longevity (3,000 USDT): an open, product-focused track with no Web3 requirement. Build around movement, sleep, biohacking and peptides, including AI health companions. Privacy & Data Sovereignty (3,000 USDT): give people real ownership of their data through ZK, FHE, private identity, health data sovereignty and private AI. Cosmo-Localism (Bonus, 1,000 USDT): build for real users in Southeast Asia. It can be combined with any other track. AI is welcome in every track, and any tech stack is welcome. Whether you’re a developer, designer, researcher or health enthusiast, come build with a global community in one of the world’s favourite cities for digital nomads. ETHChiangmai & Longevity Hackathon 2026 brings together builders from Web3, AI and Longevity in Chiang Mai on December 26–27. Over two days, teams of 1–4 will build real products for real people, from stablecoin payments used by local merchants to tools that help people sleep, move and live better. PayFi & RWA (3,000 USDT): bring stablecoins and onchain assets into everyday life: payments, crypto cards, merchant acceptance, remittances, real-world assets, and agentic payments. Longevity (3,000 USDT): an open, product-focused track with no Web3 requirement. Build around movement, sleep, biohacking and peptides, including AI health companions. Privacy & Data Sovereignty (3,000 USDT): give people real ownership of their data through ZK, FHE, private identity, health data sovereignty and private AI. Cosmo-Localism (Bonus, 1,000 USDT): build for real users in Southeast Asia. It can be combined with any other track. AI is welcome in every track, and any tech stack is welcome. Whether you’re a developer, designer, researcher or health enthusiast, come build with a global community in one of the world’s favourite cities for digital nomads.",
-    "event_dates": "Dec 26 - 27, 2026",
-    "prize_amount": "$10,000 Available in Prizes",
+    "title": "Clash of Commits",
+    "description": "The kingdom is calling. The battlefield is open. Is your clan ready? Clash of Commits is not your usual hackathon. It's a clan-based coding battlefield where ideas become weapons, code becomes your arsenal, and only the strongest clans make it to the crown. Gather your squad of 4-5 members , bring your boldest ideas, and prepare to battle through three rounds of innovation. Build your base, survive the raid, and fight your way into the Arena Finals! This registration is ONLY for Round 1 – Build Your Base (Online). Registering here does not guarantee participation in the offline rounds. Three rounds. Two Clan Wars. One ultimate champion. Every legendary kingdom starts with a strong foundation. This is where your clan makes its first move. Every submission will be evaluated, and the top 120 clans will earn their place in the offline battlefield. The shortlisted clans enter campus for an intense 24-hour building showdown . Turn your ideas into working solutions, tackle problem statements, collaborate with mentors, and make every second count. Once the code freeze hits, it's time for CLAN WAR I . Judges evaluate every submission based on innovation, technical depth, impact, and execution. Only the top 8 clans survive the raid and advance to the Arena Finals. Eight clans enter. Only one walks away with the crown. The top 8 clans face off in a knockout pitching bracket. Present your solution, demonstrate what you've built, and convince the judges why your clan deserves the throne. With a live audience, high-stakes presentations, and an audience vote, every pitch matters. The final showdown is the CROWN MATCH — where the last two contenders battle it out to determine the ultimate champion. Eight tracks. Countless possibilities. Your clan decides what to build. AI & MACHINE LEARNING Build intelligent agents, develop generative AI applications, explore computer vision, or push the boundaries of predictive models and edge AI. ROBOTICS & IoT Bring hardware to life with autonomous systems, drones, smart sensors, microcontrollers, embedded intelligence, and connected technologies. WEB & APPLICATIONS Create powerful full-stack platforms, mobile applications, SaaS products, developer tools, and scalable digital experiences. BLOCKCHAIN & WEB3 Explore decentralised applications, smart contracts, DeFi, DAOs, digital assets, and next-generation decentralised infrastructure. AR, VR & EXTENDED REALITY Build immersive experiences through augmented reality, virtual reality, mixed reality, spatial computing, and interactive virtual environments. CYBERSECURITY Challenge vulnerabilities, strengthen digital security, develop threat detection systems, and explore ethical hacking, privacy, and digital forensics. FINTECH & BUSINESS INNOVATION Reimagine financial services through digital payments, financial intelligence, automation, algorithmic trading, and innovative business solutions. OPEN INNOVATION No boundaries. No restrictions. Explore HealthTech, ClimateTech, EdTech, Data Science, Smart Cities, or anything beyond the ordinary. Turn your boldest ideas into impactful real-world solutions. Your clan has been formed. Your strategy is ready. Now it's time to enter the battlefield. BUILD YOUR BASE. SURVIVE THE RAID. CONQUER THE ARENA. The battlefield awaits. The crown belongs to the strongest. The kingdom is calling. The battlefield is open. Is your clan ready? Clash of Commits is not your usual hackathon. It's a clan-based coding battlefield where ideas become weapons, code becomes your arsenal, and only the strongest clans make it to the crown. Gather your squad of 4-5 members , bring your boldest ideas, and prepare to battle through three rounds of innovation. Build your base, survive the raid, and fight your way into the Arena Finals! This registration is ONLY for Round 1 – Build Your Base (Online). Registering here does not guarantee participation in the offline rounds. Three rounds. Two Clan Wars. One ultimate champion. Every legendary kingdom starts with a strong foundation. This is where your clan makes its first move. Every submission will be evaluated, and the top 120 clans will earn their place in the offline battlefield. The shortlisted clans enter campus for an intense 24-hour building showdown . Turn your ideas into working solutions, tackle problem statements, collaborate with mentors, and make every second count. Once the code freeze hits, it's time for CLAN WAR I . Judges evaluate every submission based on innovation, technical depth, impact, and execution. Only the top 8 clans survive the raid and advance to the Arena Finals. Eight clans enter. Only one walks away with the crown. The top 8 clans face off in a knockout pitching bracket. Present your solution, demonstrate what you've built, and convince the judges why your clan deserves the throne. With a live audience, high-stakes presentations, and an audience vote, every pitch matters. The final showdown is the CROWN MATCH — where the last two contenders battle it out to determine the ultimate champion. Eight tracks. Countless possibilities. Your clan decides what to build. AI & MACHINE LEARNING Build intelligent agents, develop generative AI applications, explore computer vision, or push the boundaries of predictive models and edge AI. ROBOTICS & IoT Bring hardware to life with autonomous systems, drones, smart sensors, microcontrollers, embedded intelligence, and connected technologies. WEB & APPLICATIONS Create powerful full-stack platforms, mobile applications, SaaS products, developer tools, and scalable digital experiences. BLOCKCHAIN & WEB3 Explore decentralised applications, smart contracts, DeFi, DAOs, digital assets, and next-generation decentralised infrastructure. AR, VR & EXTENDED REALITY Build immersive experiences through augmented reality, virtual reality, mixed reality, spatial computing, and interactive virtual environments. CYBERSECURITY Challenge vulnerabilities, strengthen digital security, develop threat detection systems, and explore ethical hacking, privacy, and digital forensics. FINTECH & BUSINESS INNOVATION Reimagine financial services through digital payments, financial intelligence, automation, algorithmic trading, and innovative business solutions. OPEN INNOVATION No boundaries. No restrictions. Explore HealthTech, ClimateTech, EdTech, Data Science, Smart Cities, or anything beyond the ordinary. Turn your boldest ideas into impactful real-world solutions. Your clan has been formed. Your strategy is ready. Now it's time to enter the battlefield. BUILD YOUR BASE. SURVIVE THE RAID. CONQUER THE ARENA. The battlefield awaits. The crown belongs to the strongest.",
+    "event_dates": "Dec 4 - 5, 2026",
+    "prize_amount": "₹1,00,000 Available in Prizes",
     "modes": "in-person",
-    "location": "Thailand",
-    "hackathon_page_url": "https://chiangmai.devfolio.co/",
+    "location": "Chennai, India",
+    "hackathon_page_url": "https://clash-of-commits.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
   },
   {
-    "title": "CODERAVE 2.0",
-    "description": "CODE • COLLABORATE • INNOVATE - The SLIET Annual Hackathon. Organized by Internwell SLIET Club Venue: Sant Longowal Institute of Engineering and Technology (SLIET), Longowal, Punjab Mode: Hybrid — Online (All India) + Offline (SLIET Campus) Coderave 2.0 is a national-level hybrid hackathon designed to bring together innovative minds, passionate developers, designers, and problem-solvers to transform ideas into impactful technology solutions. Organized by Internwell SLIET Club, this edition offers students an opportunity to demonstrate their creativity, technical expertise, teamwork, and problem-solving abilities through a competitive, time-bound development experience. The hackathon welcomes teams from colleges and universities across India through its online participation track, while SLIET students can participate in the offline campus track. Shortlisted teams will present their ideas through PPT pitches, followed by an intensive 24-hour open-source development challenge in which participants will build, test, and demonstrate their solutions. Whether you are interested in web development, app development, artificial intelligence, cybersecurity, data science, or other emerging technologies, Coderave 2.0 is your platform to innovate, collaborate, and compete. Round 1 — Registration and PPT Submission: The Team Leader registers the complete team and submits the project proposal PPT. Round 2 — PPT Evaluation and Shortlisting: Judges evaluate submissions based on innovation, problem relevance, feasibility, technical approach, potential impact, and presentation quality. Round 3 — PPT Pitch: Shortlisted online teams(Max 20 team) pitch through an online meeting. Shortlisted SLIET teams pitch offline on campus on 13 February. Round 4 — 24-Hour Open-Source Hackathon: Selected teams(Both online and offline track) build their solutions within the official development window. Round 5 — Final Submission and Evaluation: Teams submit their working solution, source code repository, demo video, and other required deliverables. Judges evaluate the final projects and announce the winners. The hackathon is an opportunity to turn ideas into functional prototypes within 24 hours. Teams are expected to develop their solutions during the official event window and use open-source tools, libraries, and technologies wherever possible. Participants must maintain a project repository, provide clear documentation, and ensure that their work is demonstrable. Teams must disclose third-party components and follow applicable open-source licences. Previously developed work must be declared, and the core solution must comply with the organizers' originality requirements. Exciting prizes, goodies, certificates, and recognition await outstanding teams. Final awards, prize amounts, sponsor benefits, and certificate eligibility will be announced through the official event communication. Note: The dates above are tentative until officially confirmed. The year, registration deadline, online pitch schedule, and final evaluation schedule will be published by the organizers. Bring your idea, build your team, and turn innovation into impact. Register for Coderave 2.0 and take your first step toward creating something extraordinary. Organized by Internwell SLIET Club Sant Longowal Institute of Engineering and Technology (SLIET), Longowal, Punjab. CODE • COLLABORATE • INNOVATE - The SLIET Annual Hackathon. Organized by Internwell SLIET Club Venue: Sant Longowal Institute of Engineering and Technology (SLIET), Longowal, Punjab Mode: Hybrid — Online (All India) + Offline (SLIET Campus) Coderave 2.0 is a national-level hybrid hackathon designed to bring together innovative minds, passionate developers, designers, and problem-solvers to transform ideas into impactful technology solutions. Organized by Internwell SLIET Club, this edition offers students an opportunity to demonstrate their creativity, technical expertise, teamwork, and problem-solving abilities through a competitive, time-bound development experience. The hackathon welcomes teams from colleges and universities across India through its online participation track, while SLIET students can participate in the offline campus track. Shortlisted teams will present their ideas through PPT pitches, followed by an intensive 24-hour open-source development challenge in which participants will build, test, and demonstrate their solutions. Whether you are interested in web development, app development, artificial intelligence, cybersecurity, data science, or other emerging technologies, Coderave 2.0 is your platform to innovate, collaborate, and compete. Round 1 — Registration and PPT Submission: The Team Leader registers the complete team and submits the project proposal PPT. Round 2 — PPT Evaluation and Shortlisting: Judges evaluate submissions based on innovation, problem relevance, feasibility, technical approach, potential impact, and presentation quality. Round 3 — PPT Pitch: Shortlisted online teams(Max 20 team) pitch through an online meeting. Shortlisted SLIET teams pitch offline on campus on 13 February. Round 4 — 24-Hour Open-Source Hackathon: Selected teams(Both online and offline track) build their solutions within the official development window. Round 5 — Final Submission and Evaluation: Teams submit their working solution, source code repository, demo video, and other required deliverables. Judges evaluate the final projects and announce the winners. The hackathon is an opportunity to turn ideas into functional prototypes within 24 hours. Teams are expected to develop their solutions during the official event window and use open-source tools, libraries, and technologies wherever possible. Participants must maintain a project repository, provide clear documentation, and ensure that their work is demonstrable. Teams must disclose third-party components and follow applicable open-source licences. Previously developed work must be declared, and the core solution must comply with the organizers' originality requirements. Exciting prizes, goodies, certificates, and recognition await outstanding teams. Final awards, prize amounts, sponsor benefits, and certificate eligibility will be announced through the official event communication. Note: The dates above are tentative until officially confirmed. The year, registration deadline, online pitch schedule, and final evaluation schedule will be published by the organizers. Bring your idea, build your team, and turn innovation into impact. Register for Coderave 2.0 and take your first step toward creating something extraordinary. Organized by Internwell SLIET Club Sant Longowal Institute of Engineering and Technology (SLIET), Longowal, Punjab.",
-    "event_dates": "Feb 13 - 14, 2027",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://coderave-2.devfolio.co/overview",
+    "title": "HACK 6.0",
+    "description": "Hack 6.0 – Vaporwave Edition 🌆🕹️✨ Hack 6.0 is NIT Hamirpur’s flagship 36-hour on-site hackathon, organized by CSEC! 👾 Circuit boards glow, synthetic waves flow, and the brightest minds assemble to code, disrupt, and build the future of tech. 💻 Hack 6.0 – Vaporwave Edition 🌆🕹️✨ Hack 6.0 is NIT Hamirpur’s flagship 36-hour on-site hackathon, organized by CSEC! 👾 Circuit boards glow, synthetic waves flow, and the brightest minds assemble to code, disrupt, and build the future of tech. 💻",
+    "event_dates": "Jan 22 - 24, 2027",
+    "prize_amount": "$1,000 Available in Prizes",
+    "modes": "in-person",
+    "location": "Hamirpur, India",
+    "hackathon_page_url": "https://hack-1736.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -72,13 +72,25 @@ const DATA = [
     "level": null
   },
   {
-    "title": "HACK 6.0",
-    "description": "",
-    "event_dates": "Jan 22 - 24, 2027",
-    "prize_amount": "$1,000 Available in Prizes",
+    "title": "DevNexus Vidisha",
+    "description": "DEVNEXUS is a 6-hour hackathon organized by SATI Coding Club, primarily aimed at university students who are passionate about technology, creativity, and innovation. The event is designed to empower students by providing them with a platform to enhance their technical skills, develop problem-solving abilities, explore emerging technologies, and transform innovative ideas into practical solutions. Through teamwork, collaboration, and hands-on development, participants will get an opportunity to think beyond traditional classroom learning, gain practical experience, and connect with like-minded innovators from different academic backgrounds. DEVNEXUS encourages students to experiment, learn, build, and challenge their creative limits while fostering a culture of innovation, entrepreneurship, and technological advancement. Join us for 6 hours of learning, building, networking, and creating something meaningful. DEVNEXUS is a 6-hour hackathon organized by SATI Coding Club, primarily aimed at university students who are passionate about technology, creativity, and innovation. The event is designed to empower students by providing them with a platform to enhance their technical skills, develop problem-solving abilities, explore emerging technologies, and transform innovative ideas into practical solutions. Through teamwork, collaboration, and hands-on development, participants will get an opportunity to think beyond traditional classroom learning, gain practical experience, and connect with like-minded innovators from different academic backgrounds. DEVNEXUS encourages students to experiment, learn, build, and challenge their creative limits while fostering a culture of innovation, entrepreneurship, and technological advancement. Join us for 6 hours of learning, building, networking, and creating something meaningful.",
+    "event_dates": "Jan 24, 2027",
+    "prize_amount": "$500 Available in Prizes",
     "modes": "in-person",
-    "location": "Hamirpur, India",
-    "hackathon_page_url": "https://hack-1736.devfolio.co/overview",
+    "location": "Vidisha, India",
+    "hackathon_page_url": "https://devnexus-3.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "Health Hackathon 3.0",
+    "description": "VIT Bhopal University to Host Health Hackathon 3.0 in January 2027 Event invites new ideas to make healthcare better and cost less VIT Bhopal University will host Health Hackathon 3.0 on 28 and 29 January 2027. A pre-event workshop will take place on 27 January 2027. VIT Bhopal is collaborating with the Whiting School of Engineering at Johns Hopkins University for this event. Its full title is “Health Hackathon 3.0: Global Health Access Innovation Challenge – Next Generation.” New Ideas for Better Healthcare The event has a clear aim: it seeks innovative ideas that can improve healthcare accessibility for more people, reduce costs, and enhance overall efficiency. Participants are invited to propose actionable solutions to real-world healthcare challenges. Key focus areas for submissions include: • Low-cost tools and technologies for healthcare delivery. • New ways and platforms to support mental health. • Application of Artificial Intelligence (AI) in healthcare solutions. • Tools leveraging health data analytics to identify and predict health risks. A Chance to Share and Build Ideas Health Hackathon 3.0 invites innovators, students, and researchers to present their concepts and refine them further. The emphasis is on practical, high-impact solutions designed to reach underserved communities and individuals facing healthcare access barriers. Event Overview & Key Dates • Pre-Event Workshop: 27 January 2027 • Main Hackathon: 28 & 29 January 2027 • Venue: VIT Bhopal University, Bhopal, Madhya Pradesh • Total Prize Pool: ₹2 Lakh Registration & Submission Registration is now open. Interested teams and individuals must submit their project proposals. To learn more, view participation guidelines, and complete registration, please visit the official Health Hackathon 3.0 event website: https://vitbhopal.ac.in/health-hackathon-2026-d/ VIT Bhopal University to Host Health Hackathon 3.0 in January 2027 Event invites new ideas to make healthcare better and cost less VIT Bhopal University will host Health Hackathon 3.0 on 28 and 29 January 2027. A pre-event workshop will take place on 27 January 2027. VIT Bhopal is collaborating with the Whiting School of Engineering at Johns Hopkins University for this event. Its full title is “Health Hackathon 3.0: Global Health Access Innovation Challenge – Next Generation.” New Ideas for Better Healthcare The event has a clear aim: it seeks innovative ideas that can improve healthcare accessibility for more people, reduce costs, and enhance overall efficiency. Participants are invited to propose actionable solutions to real-world healthcare challenges. Key focus areas for submissions include: • Low-cost tools and technologies for healthcare delivery. • New ways and platforms to support mental health. • Application of Artificial Intelligence (AI) in healthcare solutions. • Tools leveraging health data analytics to identify and predict health risks. A Chance to Share and Build Ideas Health Hackathon 3.0 invites innovators, students, and researchers to present their concepts and refine them further. The emphasis is on practical, high-impact solutions designed to reach underserved communities and individuals facing healthcare access barriers. Event Overview & Key Dates • Pre-Event Workshop: 27 January 2027 • Main Hackathon: 28 & 29 January 2027 • Venue: VIT Bhopal University, Bhopal, Madhya Pradesh • Total Prize Pool: ₹2 Lakh Registration & Submission Registration is now open. Interested teams and individuals must submit their project proposals. To learn more, view participation guidelines, and complete registration, please visit the official Health Hackathon 3.0 event website: https://vitbhopal.ac.in/health-hackathon-2026-d/",
+    "event_dates": "Jan 28 - 29, 2027",
+    "prize_amount": "₹2,00,000 Available in Prizes",
+    "modes": "in-person",
+    "location": "Kothri Kalan, India",
+    "hackathon_page_url": "https://health-hackathon.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -120,6 +132,18 @@ const DATA = [
     "level": null
   },
   {
+    "title": "Makeathon 9.0",
+    "description": "Now in its 9th edition, MAKEATHON 9.0 is our flagship event and one of the region’s most awaited 24-hour hackathons. With a strong legacy of successful editions and growing national participation, MAKEATHON brings together developers, designers, and problem solvers from across the country. Through workshops, mentorship, and a focused hackathon experience, MAKEATHON 9 aims to spark creativity, speed up execution, and inspire impactful solutions. Now in its 9th edition, MAKEATHON 9.0 is our flagship event and one of the region’s most awaited 24-hour hackathons. With a strong legacy of successful editions and growing national participation, MAKEATHON brings together developers, designers, and problem solvers from across the country. Through workshops, mentorship, and a focused hackathon experience, MAKEATHON 9 aims to spark creativity, speed up execution, and inspire impactful solutions.",
+    "event_dates": "Jan 30 - 31, 2027",
+    "prize_amount": "₹1,12,500 Available in Prizes",
+    "modes": "in-person",
+    "location": "Patiala, India",
+    "hackathon_page_url": "https://makeathon-9.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "DSH Hacks V2 ($100k+ in prizes!)",
     "description": "DSH Hacks V2 is a global student competition open to students aged 13+ hosted collaboratively by three youth-led organizations: DeltaForge Hacks, NXT Horizon, and STEMise. Theme: AI x Healthcare This event brings together young innovators from around the world to transform bold ideas into technical products that address the health challenges facing our world today. Participants will work individually or in teams to identify a real-world healthcare problem and design and develop a meaningful technical solution. Projects may range from diagnostic tools tackling global disease burdens, to patient-care platforms improving access and outcomes, to AI-powered systems reimagining how we detect, treat, and manage illness. Creativity, feasibility, technical depth, clinical insight, and real-world impact will be central to evaluation. The theme of this competition is to build technical solutions that solve pressing healthcare problems. These solutions can be an app, a website, a simulation, a system, or an algorithm. Participants are encouraged to use AI to help them build a meaningful solution and to lower the technical barrier that poses challenges for beginners with ambitious project ideas.",
     "event_dates": "Jun 24 - Nov 15, 2026",
@@ -144,6 +168,18 @@ const DATA = [
     "level": null
   },
   {
+    "title": "AWS MSP AI Hackathon",
+    "description": "What would your Managed Service Provider (MSP) look like if AI handled the alerts, predicted the capacity crunch, and powered a whole new line of customer services? The AWS MSP AI Hackathon is your chance to build it, and to show AWS and the partner community what an AI-first MSP looks like in practice. Build production-ready AI solutions with AWS AI Services such as: Amazon Bedrock, Amazon Bedrock AgentCore, Strands Agents, Amazon Quick, Kiro, the AWS Frontier Agents, etc. (See the full list on the FAQs) Use AI to run your MSP better, or to deliver new AI-driven services your customers can’t get anywhere else. We’re not looking for proofs of concept. We want real solutions that deliver measurable impact and scale across MSP environments. AWS defines managed services as active and fulltime management (i.e.,24 hours a day and 7 days a week) of the AWS customer’s AWS services, accounts, and workloads where such management is on the customer’s behalf and from within the customer’s AWS environment. Why You Should Participate Build What’s Next for Your MSP: Get hands-on with AWS’s latest agentic AI services and turn them into solutions your team and customers can use. Solve Real Problems: Tackle the challenges MSPs face every day, from incident response and FinOps to customer-facing AI services. Win Big: Compete for $64,000 in cash prizes across two tracks and 10 Special Prizes. Get Your Solution in Front of AWS: Track winners earn a spot in the MSP AI Use Case Library, priority consideration for AWS go-to-market support, and white-glove enablement for a potential AWS Marketplace listing. Get Recognized: Standout solutions may be highlighted at the AWS Global Partner Summit. Get started Confirm Your Eligibility: Make sure your organization is an MSP partner or part of the AWS Partner Network. ( Click here for full eligibility requirements ) Register and Join the Community: Sign up on Devpost and join the hackathon Discord to connect with AWS experts and other partners. Claim Your Credits: Request $200 in AWS credits for your AWS account. One set of credits per AWS Account ID. Credits are available while supplies last. Click here to apply. Pick Your Track: Review the examples on the Resources page , choose Track 1 or Track 2, and start building!",
+    "event_dates": "Nov 02 - Dec 11, 2026",
+    "prize_amount": "$ 64,000",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://aws-agentic-msp.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
     "title": "QNX Global Hackathon",
     "description": "For decades, QNX has been running the systems people bet their lives on, from medical devices and factory floors to trains, robots, and more than 275 million vehicles. It guarantees not just that your code runs, but exactly when. Now QNX 8.0 is free for non-commercial use, and the QNX team wants to see what you do with it when nobody hands you a spec. Build a robot that reacts in microseconds instead of milliseconds. Write the driver nobody has written yet. Port something you love to QNX, or build the tooling you always wished existed. If it runs on QNX 8.0, or helps someone else build for it, it counts. Pick your category and compete for a share of $50,000. Show us what you can do! Why join? Get your hands on a real-time OS, free . QNX Everywhere gives you QNX SDP 8.0, QNX Developer Desktop, and the QNX Hypervisor for non-commercial use, plus free training courses to get you moving. No target hardware required; QEMU works, and so does a Raspberry Pi 5. In 275 million vehicles. Now on your laptop . Not a teaching edition or a stripped-down trial. It's the same QNX that ships in commercial systems, and until QNX Everywhere, building on it meant a commercial license. Compete for $50,000 in prizes . Plus swag, a coffee chat with a QNX exec, and a feature on the QNX blog and social channels. Get Started Get free access to QNX SDP 8.0 through QNX Everywhere (5 minutes) Run through the QNX SDP 8.0 Quick Start Guide and get a program running on your target or QEMU (45 minutes) Browse QNX sample projects and open-source ports , then pick your category (30 minutes)",
     "event_dates": "Nov 02 - Dec 15, 2026",
@@ -156,15 +192,15 @@ const DATA = [
     "level": null
   },
   {
-    "title": "HackUTD 2026: ZeroDay",
-    "description": "Welcome to HackUTD: ZeroDay, the largest 24-hour university hackathon in North America! This weekend, you will have 24 hours to build something addressing a problem statement or idea, with a team of up to 4 people. You can find the Sponsor Track challenge statements here: Sponsor Tracks and the General Track challanege statements here: General Tracks Throughout the weekend join us for Fun Events & Games, Industry Workshops, and Amazing Food & Swag. But most importantly, get ready to have fun and learn a lot! We can't wait to see what you build!!!",
-    "event_dates": "Nov 07 - 08, 2026",
-    "prize_amount": "$ 0",
+    "title": "Hacknauts 2.0",
+    "description": "Hacknauts 2.0 (HKN-26) is a 24-hour hackathon at Guru Nanak Dev Engineering College, Ludhiana , organized by the Causmic Club . 🚀 After a successful first mission, we're back in orbit. 🛰️ This year, everything revolves around one idea: a black hole pulling streams of code into itself. 🕳️ The brightest builders, designers, and problem-solvers converge for one weekend - to ideate, build, and ship something that didn't exist before. 💻✨ One mission. One singularity. Your code, pulled toward something bigger. 🌠 All participating teams are required to submit their project presentation (PPT) before the deadline. Make sure your presentation follows the provided template and is submitted before the deadline. 🚀 Build boldly. Think beyond the obvious. Solve something that matters. The singularity is waiting. What will you pull into orbit? 🕳️🚀 Hacknauts 2.0 - Beyond the Known, Begins the Extraordinary. Hacknauts 2.0 (HKN-26) is a 24-hour hackathon at Guru Nanak Dev Engineering College, Ludhiana , organized by the Causmic Club . 🚀 After a successful first mission, we're back in orbit. 🛰️ This year, everything revolves around one idea: a black hole pulling streams of code into itself. 🕳️ The brightest builders, designers, and problem-solvers converge for one weekend - to ideate, build, and ship something that didn't exist before. 💻✨ One mission. One singularity. Your code, pulled toward something bigger. 🌠 All participating teams are required to submit their project presentation (PPT) before the deadline. Make sure your presentation follows the provided template and is submitted before the deadline. 🚀 Build boldly. Think beyond the obvious. Solve something that matters. The singularity is waiting. What will you pull into orbit? 🕳️🚀 Hacknauts 2.0 - Beyond the Known, Begins the Extraordinary.",
+    "event_dates": "Nov 14 - 15, 2026",
+    "prize_amount": "$3,016 Available in Prizes",
     "modes": "in-person",
-    "location": "University of Texas at Dallas - ECSW",
-    "hackathon_page_url": "https://hackutd-zeroday.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "running",
-    "source": "Devpost",
+    "location": "Ludhiana, India",
+    "hackathon_page_url": "https://hacknauts26.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
     "level": null
   },
   {
@@ -180,6 +216,18 @@ const DATA = [
     "level": null
   },
   {
+    "title": "THE BIG HACK 2.0",
+    "description": "",
+    "event_dates": "Nov 20, 2026",
+    "prize_amount": "₹50,000 Available in Prizes",
+    "modes": "in-person",
+    "location": "Soladevanahalli, India",
+    "hackathon_page_url": "https://the-big-hack-2.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "GeNarrative Clash",
     "description": "Where Generative AI Meets Human Creativity: Kolkata's Ultimate Prompt Engineering Challenge Are you ready to redefine how stories are told, music is composed, and digital art is created? GeNarrative Clash is Kolkata's premier Prompt Engineering & AI Building Challenge, organized by the GeeksforGeeks Student Chapter at Techno India University. Don't worry if you are new to AI development! Before the live challenge kicks off, every participant gets access to an exclusive 1-Hour Hands-On Masterclass on AI Development & API Integration . Learn how to harness cutting-edge LLMs, query GenAI APIs, and leverage rapid prototyping tools so you can build a solid, production-ready product with confidence. Generative AI shouldn't replace human creators, it should supercharge them! GeNarrative Clash features an Open Track focused on building real-world solutions that assist, elevate, and support creative artists in their work. You are free to solve any real-world problem in the artistic or creative domain. Where Generative AI Meets Human Creativity: Kolkata's Ultimate Prompt Engineering Challenge Are you ready to redefine how stories are told, music is composed, and digital art is created? GeNarrative Clash is Kolkata's premier Prompt Engineering & AI Building Challenge, organized by the GeeksforGeeks Student Chapter at Techno India University. Don't worry if you are new to AI development! Before the live challenge kicks off, every participant gets access to an exclusive 1-Hour Hands-On Masterclass on AI Development & API Integration . Learn how to harness cutting-edge LLMs, query GenAI APIs, and leverage rapid prototyping tools so you can build a solid, production-ready product with confidence. Generative AI shouldn't replace human creators, it should supercharge them! GeNarrative Clash features an Open Track focused on building real-world solutions that assist, elevate, and support creative artists in their work. You are free to solve any real-world problem in the artistic or creative domain.",
     "event_dates": "Nov 21, 2026",
@@ -187,6 +235,18 @@ const DATA = [
     "modes": "in-person",
     "location": "Kolkata, India",
     "hackathon_page_url": "https://genarrative-clash.devfolio.co/overview",
+    "status": "open",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
+    "title": "Hack-a-Sol 2026",
+    "description": "Hack-A-Sol, the flagship annual hackathon of IIIT Naya Raipur (IIIT-NR), is a platform where ideas transform into innovation, code turns into solutions, and collaboration drives real-world impact. Bringing together creative minds and passionate problem-solvers, Hack-A-Sol challenges participants to think beyond boundaries, build boldly, and shape the technology of tomorrow. Hack-A-Sol, the flagship annual hackathon of IIIT Naya Raipur (IIIT-NR), is a platform where ideas transform into innovation, code turns into solutions, and collaboration drives real-world impact. Bringing together creative minds and passionate problem-solvers, Hack-A-Sol challenges participants to think beyond boundaries, build boldly, and shape the technology of tomorrow.",
+    "event_dates": "Nov 22 - 24, 2026",
+    "prize_amount": "₹1,25,000 Available in Prizes",
+    "modes": "in-person",
+    "location": "Atal Nagar-Nava Raipur, India",
+    "hackathon_page_url": "https://hackasol-iiit-nr-2026.devfolio.co/overview",
     "status": "open",
     "source": "Devfolio",
     "level": null
@@ -228,6 +288,18 @@ const DATA = [
     "level": null
   },
   {
+    "title": "Founders' House Kolkata",
+    "description": "Kolkata's most relentless 72 hour startup sprint. 10 elite squads live on site at AIC Techno (Offbeat CCU), crack raw mentor problems, build real products, and pitch live to venture syndicates. Organized by Hult Prize at TIU and hosted at the state of the art incubation hub AIC Techno (Offbeat CCU), this is not a sleep deprived gimmick. It is an incubator grade gauntlet for founders who want to build companies that last. NOTE: This is the selection for the first round. Shortlisted teams will come offline and build at OFFBEAT CCU Kolkata for 3 days (18th-20th December). Free of cost. Kolkata's most relentless 72 hour startup sprint. 10 elite squads live on site at AIC Techno (Offbeat CCU), crack raw mentor problems, build real products, and pitch live to venture syndicates. Organized by Hult Prize at TIU and hosted at the state of the art incubation hub AIC Techno (Offbeat CCU), this is not a sleep deprived gimmick. It is an incubator grade gauntlet for founders who want to build companies that last. NOTE: This is the selection for the first round. Shortlisted teams will come offline and build at OFFBEAT CCU Kolkata for 3 days (18th-20th December). Free of cost.",
+    "event_dates": "Nov 9 - 25, 2026",
+    "prize_amount": "",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://founders-house-kolkata.devfolio.co/overview",
+    "status": "running",
+    "source": "Devfolio",
+    "level": null
+  },
+  {
     "title": "Cloud Native Hackathon",
     "description": "",
     "event_dates": "Nov 9–10",
@@ -235,7 +307,7 @@ const DATA = [
     "modes": "in-person",
     "location": "Salt Lake City, Utah",
     "hackathon_page_url": "https://www.wemakedevs.org/hackathons/cnh",
-    "status": "open",
+    "status": "running",
     "source": "WeMakeDevs",
     "level": null
   },
@@ -309,18 +381,6 @@ const DATA = [
     "hackathon_page_url": "https://start-developer-competition-26.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "THE BIG HACK 2.0",
-    "description": "One Fest. Countless Ideas. Infinite Possibilities. Tech Habba 2.0 is a National-Level Technical Fest hosted at Acharya Institutes, Bengaluru, from November 19–21, 2026. Bringing together students, developers, and innovators from across India, the fest celebrates technology, creativity, and collaboration. The Experience Explore 13 exciting technical and non-technical events, compete with talented participants, and showcase your skills. Participate in a 24-hour hackathon where ideas transform into working prototypes and innovative solutions. Hackathon Tracks One Fest. Countless Ideas. Infinite Possibilities. Tech Habba 2.0 is a National-Level Technical Fest hosted at Acharya Institutes, Bengaluru, from November 19–21, 2026. Bringing together students, developers, and innovators from across India, the fest celebrates technology, creativity, and collaboration. The Experience Explore 13 exciting technical and non-technical events, compete with talented participants, and showcase your skills. Participate in a 24-hour hackathon where ideas transform into working prototypes and innovative solutions. Hackathon Tracks",
-    "event_dates": "",
-    "prize_amount": "",
-    "modes": "remote",
-    "location": "",
-    "hackathon_page_url": "https://the-big-hack-2.devfolio.co/overview",
-    "status": "open",
-    "source": "Devfolio",
     "level": null
   }
 ];
@@ -472,7 +532,7 @@ clearDateButton.addEventListener("click", () => {
 });
 
 // Header stats
-document.getElementById("last-checked-date").textContent = "Nov 8, 2026";
+document.getElementById("last-checked-date").textContent = "Nov 9, 2026";
 document.getElementById("open-total").textContent = ACTIVE_DATA.filter(
   (h) => h.status === "open" || h.status === "running",
 ).length;
