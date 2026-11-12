@@ -36,6 +36,18 @@
     "level": null
   },
   {
+    "title": "Codegeist 2026: Build with context. Ship with confidence.",
+    "description": "<html> <head></head> <body></body> </html> What is Codegeist? Codegeist is Atlassian’s annual hackathon where developers from around the world unleash creativity on Forge, Atlassian’s serverless app development platform. By extending Atlassian products with custom apps and integrations, participants reimagine how teams plan, track, and deliver work. The Challenge AI can think. But knowing what to do – really knowing – takes context. Atlassian’s Teamwork Graph connects goals, work, people, decisions, and outcomes like associative memory for your organization, giving teams the shared understanding of who’s doing what, what’s already been decided, and what needs to happen next. That's the problem Atlassian is built to solve. And it's the problem we're inviting you to tackle. Build an app on Atlassian’s Forge platform that uses that context to help teams ship with confidence – whether that’s surfacing the right knowledge at the right moment, connecting work across silos, or turning organizational data into a decision that actually moves work forward. Join the live Build Session Tue, Nov 17, 12:00 to 12:45 PM ET on Zoom. Danny Thompson, Senior Developer Advocate at Atlassian, and Adam Moore, Group Product Manager, Forge, show how to build AI workflows with Atlassian Forge and Rovo, followed by live Q&A. Set up Forge first and you can build along. The recording will be on YouTube afterward. Register for the Build Session",
+    "event_dates": "Oct 27 - Dec 22, 2026",
+    "prize_amount": "$ 120,000",
+    "modes": "remote",
+    "location": "Online",
+    "hackathon_page_url": "https://codegeist2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "status": "running",
+    "source": "Devpost",
+    "level": null
+  },
+  {
     "title": "UGREEN Hackathon 2026 on AI NAS",
     "description": "UGREEN is opening AI NAS to developers through UGOS and Skills Hub . Powered by UGOS , UGREEN's own Linux-based operating system, UGREEN AI NAS brings local storage, computing, and AI capabilities together in one platform. UGOS makes it easy to keep your data secure, find and organize your files, and get more done with AI. With the UGOS Skill Creation Tool and your preferred AI assistant, you can create custom Skills that use supported NAS capabilities to organize files, find information, and automate everyday tasks. UGREEN Skills Hub gives developers the freedom to explore new ideas, create innovative tools, and expand what AI NAS can do. You bring the ideas. We'll help you build them. Access developer resources and technical support, with opportunities to win prizes, gain exposure through UGREEN, and explore future collaborations. No UGREEN NAS is required to enter. Finalists will receive free access to a UGREEN AI NAS iDX6011 Pro environment for final development, testing, and validation. The Hackathon has two rounds: Round 1 (open to all): Share your idea and an early build of your Skill. You do not need a NAS to enter. Download the UGREEN Skill Developer Package. Then submit a short PDF and a Pre-test Skill Package (ZIP). Round 2 (Finalists only): UGREEN will select up to 30 Finalists. Each Finalist gets one assigned testing day of free remote access to a real UGREEN AI NAS to install, test, and polish their Skill. Finalists then submit their final Skill and a short demo video to compete for $46,000 in cash prizes! Get Started: 🧠 Get to know UGREEN AI NAS . Learn what it can do. 💬 Join the UGREEN Community . It's a place to find teammates, compare approaches, and get help when you're stuck, while keeping up with official Hackathon news and development resources and discovering community perks. ✨ 📦 Download the UGREEN Skill Developer Package . It has the tools and technical docs you need. You must use this package to build your Skill. 🛠️ Brush up on helpful skills . Python or JavaScript/TypeScript, Linux and Docker, AI agent and tool design, and file or media processing are all useful here. Why Participate 💰 Compete for $46,000 in cash prizes. Five winners will share the prize pool, including two Most Creative awards. 🚀 No NAS needed to start. Round 1 is open to everyone. You only need your idea, the Skill Developer Package, and your code . 🖥️ Test on real hardware for free. Each Finalist gets one assigned testing day of free remote access to a UGREEN AI NAS iDX6011 Pro. 🎨 Build what you care about. Choose from four tracks: work automation, personal memories, creative media, or your own original idea. 🤝 Connect with the UGREEN team. Access developer resources and technical support, with opportunities to win prizes, gain exposure through UGREEN, and explore future collaborations .",
     "event_dates": "Oct 22 - Nov 16, 2026",
@@ -48,13 +60,13 @@
     "level": null
   },
   {
-    "title": "Codegeist 2026: Build with context. Ship with confidence.",
-    "description": "<html> <head></head> <body></body> </html> What is Codegeist? Codegeist is Atlassian’s annual hackathon where developers from around the world unleash creativity on Forge, Atlassian’s serverless app development platform. By extending Atlassian products with custom apps and integrations, participants reimagine how teams plan, track, and deliver work. The Challenge AI can think. But knowing what to do – really knowing – takes context. Atlassian’s Teamwork Graph connects goals, work, people, decisions, and outcomes like associative memory for your organization, giving teams the shared understanding of who’s doing what, what’s already been decided, and what needs to happen next. That's the problem Atlassian is built to solve. And it's the problem we're inviting you to tackle. Build an app on Atlassian’s Forge platform that uses that context to help teams ship with confidence – whether that’s surfacing the right knowledge at the right moment, connecting work across silos, or turning organizational data into a decision that actually moves work forward. Join the live Build Session Tue, Nov 17, 12:00 to 12:45 PM ET on Zoom. Danny Thompson, Senior Developer Advocate at Atlassian, and Adam Moore, Group Product Manager, Forge, show how to build AI workflows with Atlassian Forge and Rovo, followed by live Q&A. Set up Forge first and you can build along. The recording will be on YouTube afterward. Register for the Build Session",
-    "event_dates": "Oct 27 - Dec 22, 2026",
-    "prize_amount": "$ 120,000",
+    "title": "#BuildHybridAI 2026",
+    "description": "Main description On-device models are fast, private and free to run, but they aren't on every device. #BuildHybridAI challenges you to build apps that use both. Using the Firebase AI Logic Hybrid Inference SDK, your app runs prompts on-device when a local model is available and falls back to the cloud when it isn't. Build for at least one platform: Web (Chrome) or Android with Gemini Nano 4, or iOS with Apple Foundation Models, all through Firebase AI Logic. Want to go further? Apps that run across multiple platforms will be given strong consideration for the Grand Prize, since that's where a single hybrid SDK really shines. An outstanding single-platform app can still win. For example: a notes app that summarizes on-device offline and hands long documents to the cloud. New projects and significantly updated existing apps are both eligible, and the competition is open to individuals, teams and organizations in most countries (see the Official Rules ). Why join? $30,000 in cash prizes, including a $10,000 Grand Prize and a $3,000 award for the best app on each platform Top winners get an interview and a featured blog post from the Firebase team Learn hybrid inference: one SDK for on-device and cloud AI across Web, Android and iOS Bring an existing app — it's eligible if significantly updated during the competition Start free: text inference with Firebase AI Logic is free within usage limits, and you can request a Google Account Quota for advanced features such as image generation Get started Join #BuildHybridAI on the Devpost Discord to find teammates and ask questions in #hackathon-help Read Firebase AI Logic hybrid inference and the guide for your platform on the Resources page Register for the Build Session with Cynthia Jiang from the Firebase team on Thu Nov 12 at 10:00 AM PT / 1:00 PM ET — save your spot on Luma Use Coding agents with Firebase agent skills (compatible with Antigravity, Claude, etc). Read What to Submit below before you build — a working demo app, a public repo, a demo video and a text description are all required",
+    "event_dates": "Nov 11 - 30, 2026",
+    "prize_amount": "$ 30,000",
     "modes": "remote",
     "location": "Online",
-    "hackathon_page_url": "https://codegeist2026.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    "hackathon_page_url": "https://firebasehybridaihackathon.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
     "source": "Devpost",
     "level": null
@@ -92,18 +104,6 @@
     "location": "Online",
     "hackathon_page_url": "https://arbiter-hacks-v1.devpost.com/?ref_feature=challenge&ref_medium=discover",
     "status": "running",
-    "source": "Devpost",
-    "level": null
-  },
-  {
-    "title": "Code for Humanity",
-    "description": "Certificate of Participation for all submissions. Hey, you made it. Welcome. Maybe you've never built anything before. Maybe you've tinkered a little but never finished something. Maybe you're just curious about AI and want to see what the fuss is about. Wherever you're starting from — you belong here. Code for Humanity is a global online hackathon that empowers innovators to build technology for social good. We bring together students, developers, designers, and changemakers to create impactful solutions that address real-world challenges faced by underserved communities. Such as:- innovations that address real-world issues like disaster response, low-income or rural areas,people with disabilities, refugees and displaced populations, under-resourced schools, marginalized groups, and regions with limited access to healthcare, education, digital technology, or financial services. The Challenge: Create a product that empowers people whoe are often overlooked. Your solution should improve quality of life, expand access to opportunities, or remove barriers for underserved. Do I need a team? Nope. Solo is totally fine. But if you want to team up with others, that's great too. Some of the best projects come from two people with completely different skills working together. LESSGOOO",
-    "event_dates": "Jul 16, 2026 - Jan 15, 2027",
-    "prize_amount": "5",
-    "modes": "remote",
-    "location": "Online",
-    "hackathon_page_url": "https://code-for-humanity.devpost.com/?ref_feature=challenge&ref_medium=discover",
-    "status": "open",
     "source": "Devpost",
     "level": null
   }
